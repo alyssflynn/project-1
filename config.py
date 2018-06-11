@@ -11,4 +11,5 @@ bm_key = "384395cd87304f83a8e00d110bba0177"
 an_key = "4DDE4D0E-3179-4B2D-A3F2-6FE964D107FD"
 # Open Weather air pollution API 
 ow_key = "6e6b0f450b212799c36cdc62fa58f591"
+plotly_key = "iV0ZCPIdKHSguaeWLXSz"
 
