@@ -66,35 +66,35 @@
 64,washington,alabama,AL,01129,01,129
 65,wilcox,alabama,AL,01131,01,131
 66,winston,alabama,AL,01133,01,133
-67,aleutians east borough,alaska,AK,02013,02,013
-68,aleutians west census area,alaska,AK,02016,02,016
-69,anchorage borough/municipality,alaska,AK,02020,02,020
-70,bethel census area,alaska,AK,02050,02,050
-71,bristol bay borough,alaska,AK,02060,02,060
-72,denali borough,alaska,AK,02068,02,068
-73,dillingham census area,alaska,AK,02070,02,070
-74,fairbanks north star borough,alaska,AK,02090,02,090
-75,haines borough,alaska,AK,02100,02,100
-76,hoonah-angoon census area,alaska,AK,02105,02,105
-77,juneau borough/city,alaska,AK,02110,02,110
-78,kenai peninsula borough,alaska,AK,02122,02,122
-79,ketchikan gateway borough,alaska,AK,02130,02,130
-80,kodiak island borough,alaska,AK,02150,02,150
-81,kusilvak census area,alaska,AK,02158,02,158
-82,lake and peninsula borough,alaska,AK,02164,02,164
-83,matanuska-susitna borough,alaska,AK,02170,02,170
-84,nome census area,alaska,AK,02180,02,180
-85,north slope borough,alaska,AK,02185,02,185
-86,northwest arctic borough,alaska,AK,02188,02,188
-87,petersburg borough,alaska,AK,02195,02,195
-88,prince of wales-hyder census area,alaska,AK,02198,02,198
-89,sitka borough/city,alaska,AK,02220,02,220
-90,skagway municipality,alaska,AK,02230,02,230
-91,southeast fairbanks census area,alaska,AK,02240,02,240
-92,valdez-cordova census area,alaska,AK,02261,02,261
-93,wrangell borough/city,alaska,AK,02275,02,275
-94,yakutat borough/city,alaska,AK,02282,02,282
-95,yukon-koyukuk census area,alaska,AK,02290,02,290
+67,aleutians east,alaska,AK,02013,02,013
+68,aleutians west,alaska,AK,02016,02,016
+69,anchorage,alaska,AK,02020,02,020
+70,bethel,alaska,AK,02050,02,050
+71,bristol bay,alaska,AK,02060,02,060
+72,denali,alaska,AK,02068,02,068
+73,dillingham,alaska,AK,02070,02,070
+74,fairbanks north star,alaska,AK,02090,02,090
+75,haines,alaska,AK,02100,02,100
+76,hoonah-angoon,alaska,AK,02105,02,105
+77,juneau,alaska,AK,02110,02,110
+78,kenai peninsula,alaska,AK,02122,02,122
+79,ketchikan gateway,alaska,AK,02130,02,130
+80,kodiak island,alaska,AK,02150,02,150
+81,kusilvak,alaska,AK,02158,02,158
+82,lake and peninsula,alaska,AK,02164,02,164
+83,matanuska-susitna,alaska,AK,02170,02,170
+84,nome,alaska,AK,02180,02,180
+85,north slope,alaska,AK,02185,02,185
+86,northwest arctic,alaska,AK,02188,02,188
+87,petersburg,alaska,AK,02195,02,195
+88,prince of wales-hyder,alaska,AK,02198,02,198
+89,sitka,alaska,AK,02220,02,220
+90,skagway,alaska,AK,02230,02,230
+91,southeast fairbanks,alaska,AK,02240,02,240
+92,valdez-cordova,alaska,AK,02261,02,261
+93,wrangell,alaska,AK,02275,02,275
+94,yakutat,alaska,AK,02282,02,282
+95,yukon-koyukuk,alaska,AK,02290,02,290
 96,apache,arizona,AZ,04001,04,001
 97,cochise,arizona,AZ,04003,04,003
 98,coconino,arizona,AZ,04005,04,005
@@ -222,7 +222,7 @@
 220,san benito,california,CA,06069,06,069
 221,san bernardino,california,CA,06071,06,071
 222,san diego,california,CA,06073,06,073
-223,san francisco/city,california,CA,06075,06,075
+223,san francisco,california,CA,06075,06,075
 224,san joaquin,california,CA,06077,06,077
 225,san luis obispo,california,CA,06079,06,079
 226,san mateo,california,CA,06081,06,081
@@ -250,7 +250,7 @@
 248,baca,colorado,CO,08009,08,009
 249,bent,colorado,CO,08011,08,011
 250,boulder,colorado,CO,08013,08,013
-251,broomfield/city,colorado,CO,08014,08,014
+251,broomfield,colorado,CO,08014,08,014
 252,chaffee,colorado,CO,08015,08,015
 253,cheyenne,colorado,CO,08017,08,017
 254,clear creek,colorado,CO,08019,08,019
@@ -259,7 +259,7 @@
 257,crowley,colorado,CO,08025,08,025
 258,custer,colorado,CO,08027,08,027
 259,delta,colorado,CO,08029,08,029
-260,denver/city,colorado,CO,08031,08,031
+260,denver,colorado,CO,08031,08,031
 261,dolores,colorado,CO,08033,08,033
 262,douglas,colorado,CO,08035,08,035
 263,eagle,colorado,CO,08037,08,037
@@ -546,7 +546,7 @@
 544,wilkinson,georgia,GA,13319,13,319
 545,worth,georgia,GA,13321,13,321
 546,hawaii,hawaii,HI,15001,15,001
-547,honolulu/city,hawaii,HI,15003,15,003
+547,honolulu,hawaii,HI,15003,15,003
 548,kauai,hawaii,HI,15007,15,007
 549,maui,hawaii,HI,15009,15,009
 550,ada,idaho,ID,16001,16,001
@@ -2292,7 +2292,7 @@
 2290,northampton,pennsylvania,PA,42095,42,095
 2291,northumberland,pennsylvania,PA,42097,42,097
 2292,perry,pennsylvania,PA,42099,42,099
-2293,philadelphia/city,pennsylvania,PA,42101,42,101
+2293,philadelphia,pennsylvania,PA,42101,42,101
 2294,pike,pennsylvania,PA,42103,42,103
 2295,potter,pennsylvania,PA,42105,42,105
 2296,schuylkill,pennsylvania,PA,42107,42,107
