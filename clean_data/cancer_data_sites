@@ -1,0 +1,4572 @@
+,State Abbreviation,Cancer Sites,Count
+0,AK,Acute Myeloid Leukemia,243
+1,AK,"Anus, Anal Canal and Anorectum",16
+2,AK,Ascending Colon,423
+3,AK,Brain,596
+4,AK,Brain and Other Nervous System,644
+5,AK,Cecum,579
+6,AK,Cervix Uteri,380
+7,AK,Chronic Lymphocytic Leukemia,307
+8,AK,Colon and Rectum,3929
+9,AK,Colon excluding Rectum,2749
+10,AK,Corpus Uteri,1075
+11,AK,Digestive System,7443
+12,AK,Endocrine System,1200
+13,AK,Esophagus,485
+14,AK,Female Breast,6027
+15,AK,"Female Breast, In Situ",1613
+16,AK,Female Genital System,2231
+17,AK,Gum and Other Mouth,18
+18,AK,Hodgkin - Nodal,113
+19,AK,Hodgkin Lymphoma,113
+20,AK,Kidney and Renal Pelvis,1395
+21,AK,"Large Intestine, NOS",75
+22,AK,Larynx,213
+23,AK,Leukemias,1070
+24,AK,Liver,669
+25,AK,Liver and Intrahepatic Bile Duct,719
+26,AK,Lung and Bronchus,5174
+27,AK,Lymphomas,1845
+28,AK,Male Genital System,5782
+29,AK,Male and Female Breast,6074
+30,AK,"Male and Female Breast, In Situ",1620
+31,AK,Melanoma of the Skin,1185
+32,AK,Miscellaneous,1096
+33,AK,Myeloma,435
+34,AK,NHL - Extranodal,481
+35,AK,NHL - Nodal,1128
+36,AK,Nasopharynx,16
+37,AK,Non-Hodgkin Lymphoma,1609
+38,AK,Oral Cavity and Pharynx,1040
+39,AK,Other Biliary,33
+40,AK,Other Digestive Organs,18
+41,AK,Ovary,548
+42,AK,Pancreas,921
+43,AK,Prostate,5389
+44,AK,Rectosigmoid Junction,234
+45,AK,Rectum,890
+46,AK,Rectum and Rectosigmoid Junction,1180
+47,AK,Respiratory System,5528
+48,AK,Sigmoid Colon,856
+49,AK,Skin excluding Basal and Squamous,1300
+50,AK,Soft Tissue including Heart,278
+51,AK,Stomach,635
+52,AK,Testis,335
+53,AK,Thyroid,1126
+54,AK,Tongue,231
+55,AK,Tonsil,55
+56,AK,Transverse Colon,144
+57,AK,"Urinary Bladder, invasive and in situ",1672
+58,AK,Urinary System,3127
+59,AL,Acute Lymphocytic Leukemia,870
+60,AL,Acute Myeloid Leukemia,2747
+61,AL,"Aleukemic, Subleukemic and NOS",520
+62,AL,"Anus, Anal Canal and Anorectum",1302
+63,AL,Appendix,585
+64,AL,Ascending Colon,5247
+65,AL,Bones and Joints,731
+66,AL,Brain,4868
+67,AL,Brain and Other Nervous System,5204
+68,AL,Cecum,5842
+69,AL,Cervix Uteri,3542
+70,AL,Chronic Lymphocytic Leukemia,3071
+71,AL,Chronic Myeloid Leukemia,1030
+72,AL,Colon and Rectum,38847
+73,AL,Colon excluding Rectum,28818
+74,AL,Corpus Uteri,7836
+75,AL,Cranial Nerves Other Nervous System,284
+76,AL,Descending Colon,1675
+77,AL,Digestive System,68012
+78,AL,Endocrine System,6437
+79,AL,Esophagus,3947
+80,AL,Eye and Orbit,672
+81,AL,Female Breast,52231
+82,AL,"Female Breast, In Situ",11405
+83,AL,Female Genital System,18948
+84,AL,Floor of Mouth,582
+85,AL,Gallbladder,705
+86,AL,Gum and Other Mouth,1567
+87,AL,Hepatic Flexure,1281
+88,AL,Hodgkin - Nodal,1691
+89,AL,Hodgkin Lymphoma,1777
+90,AL,Hypopharynx,717
+91,AL,Intrahepatic Bile Duct,448
+92,AL,Kaposi Sarcoma,22
+93,AL,Kidney and Renal Pelvis,12200
+94,AL,"Large Intestine, NOS",3296
+95,AL,Larynx,4187
+96,AL,Leukemias,9101
+97,AL,Lip,994
+98,AL,Liver,4251
+99,AL,Liver and Intrahepatic Bile Duct,4713
+100,AL,Lung and Bronchus,60966
+101,AL,Lymphomas,15055
+102,AL,Male Breast,444
+103,AL,Male Genital System,55790
+104,AL,Male and Female Breast,52675
+105,AL,"Male and Female Breast, In Situ",11456
+106,AL,Melanoma of the Skin,14326
+107,AL,Mesothelioma,666
+108,AL,Miscellaneous,12502
+109,AL,Myeloma,5011
+110,AL,NHL - Extranodal,4257
+111,AL,NHL - Nodal,9021
+112,AL,Nasopharynx,460
+113,AL,Non-Hodgkin Lymphoma,13278
+114,AL,"Nose, Nasal Cavity and Middle Ear",571
+115,AL,Oral Cavity and Pharynx,10384
+116,AL,Oropharynx,559
+117,AL,Other Acute Leukemia,134
+118,AL,Other Biliary,1053
+119,AL,Other Digestive Organs,110
+120,AL,Other Endocrine including Thymus,540
+121,AL,Other Female Genital Organs,90
+122,AL,Other Leukemias,1383
+123,AL,Other Lymphocytic Leukemia,247
+124,AL,Other Myeloid/Monocytic Leukemia,74
+125,AL,Other Non-Epithelial Skin,1025
+126,AL,Other Oral Cavity and Pharynx,314
+127,AL,Other Urinary Organs,34
+128,AL,Ovary,5530
+129,AL,Pancreas,9545
+130,AL,Penis,278
+131,AL,"Peritoneum, Omentum and Mesentery",353
+132,AL,Prostate,53875
+133,AL,Rectosigmoid Junction,2756
+134,AL,Rectum,7273
+135,AL,Rectum and Rectosigmoid Junction,10029
+136,AL,Respiratory System,65904
+137,AL,Retroperitoneum,125
+138,AL,Salivary Gland,1029
+139,AL,Sigmoid Colon,7613
+140,AL,Skin excluding Basal and Squamous,15351
+141,AL,Small Intestine,1753
+142,AL,Soft Tissue including Heart,2460
+143,AL,Splenic Flexure,882
+144,AL,Stomach,5291
+145,AL,Testis,1536
+146,AL,Thyroid,5897
+147,AL,Tongue,2547
+148,AL,Tonsil,1588
+149,AL,Transverse Colon,2371
+150,AL,Ureter,449
+151,AL,"Urinary Bladder, invasive and in situ",14596
+152,AL,Urinary System,27429
+153,AL,"Uterus, NOS",267
+154,AL,Vagina,342
+155,AL,Vulva,1107
+156,AR,Acute Lymphocytic Leukemia,497
+157,AR,Acute Myeloid Leukemia,1523
+158,AR,"Aleukemic, Subleukemic and NOS",165
+159,AR,"Anus, Anal Canal and Anorectum",747
+160,AR,Appendix,267
+161,AR,Ascending Colon,2938
+162,AR,Bones and Joints,330
+163,AR,Brain,2643
+164,AR,Brain and Other Nervous System,2797
+165,AR,Cecum,3024
+166,AR,Cervix Uteri,2013
+167,AR,Chronic Lymphocytic Leukemia,1821
+168,AR,Chronic Myeloid Leukemia,673
+169,AR,Colon and Rectum,20930
+170,AR,Colon excluding Rectum,15148
+171,AR,Corpus Uteri,4645
+172,AR,Cranial Nerves Other Nervous System,33
+173,AR,Descending Colon,842
+174,AR,Digestive System,36162
+175,AR,Endocrine System,3650
+176,AR,Esophagus,1898
+177,AR,Eye and Orbit,270
+178,AR,Female Breast,26712
+179,AR,"Female Breast, In Situ",5721
+180,AR,Female Genital System,10388
+181,AR,Floor of Mouth,219
+182,AR,Gallbladder,419
+183,AR,Gum and Other Mouth,782
+184,AR,Hepatic Flexure,769
+185,AR,Hodgkin - Nodal,1046
+186,AR,Hodgkin Lymphoma,1086
+187,AR,Hypopharynx,312
+188,AR,Intrahepatic Bile Duct,115
+189,AR,Kidney and Renal Pelvis,7188
+190,AR,"Large Intestine, NOS",1326
+191,AR,Larynx,2147
+192,AR,Leukemias,5216
+193,AR,Lip,414
+194,AR,Liver,2262
+195,AR,Liver and Intrahepatic Bile Duct,2461
+196,AR,Lung and Bronchus,36719
+197,AR,Lymphomas,9058
+198,AR,Male Breast,79
+199,AR,Male Genital System,31302
+200,AR,Male and Female Breast,26913
+201,AR,"Male and Female Breast, In Situ",5744
+202,AR,Melanoma of the Skin,6766
+203,AR,Mesothelioma,278
+204,AR,Miscellaneous,7168
+205,AR,Myeloma,2681
+206,AR,NHL - Extranodal,2511
+207,AR,NHL - Nodal,5461
+208,AR,Nasopharynx,110
+209,AR,Non-Hodgkin Lymphoma,7972
+210,AR,"Nose, Nasal Cavity and Middle Ear",273
+211,AR,Oral Cavity and Pharynx,5437
+212,AR,Oropharynx,136
+213,AR,Other Biliary,594
+214,AR,Other Digestive Organs,74
+215,AR,Other Endocrine including Thymus,294
+216,AR,Other Female Genital Organs,17
+217,AR,Other Leukemias,702
+218,AR,Other Lymphocytic Leukemia,43
+219,AR,Other Non-Epithelial Skin,527
+220,AR,Ovary,2619
+221,AR,Pancreas,5048
+222,AR,Penis,87
+223,AR,"Peritoneum, Omentum and Mesentery",18
+224,AR,Prostate,30237
+225,AR,Rectosigmoid Junction,1507
+226,AR,Rectum,4275
+227,AR,Rectum and Rectosigmoid Junction,5782
+228,AR,Respiratory System,39246
+229,AR,Salivary Gland,526
+230,AR,Sigmoid Colon,4198
+231,AR,Skin excluding Basal and Squamous,7293
+232,AR,Small Intestine,989
+233,AR,Soft Tissue including Heart,1257
+234,AR,Splenic Flexure,464
+235,AR,Stomach,2666
+236,AR,Testis,842
+237,AR,Thyroid,3344
+238,AR,Tongue,1522
+239,AR,Tonsil,1038
+240,AR,Transverse Colon,1267
+241,AR,Ureter,228
+242,AR,"Urinary Bladder, invasive and in situ",8795
+243,AR,Urinary System,16341
+244,AR,Vagina,70
+245,AR,Vulva,615
+246,AZ,Acute Lymphocytic Leukemia,1612
+247,AZ,Acute Monocytic Leukemia,60
+248,AZ,Acute Myeloid Leukemia,3454
+249,AZ,"Aleukemic, Subleukemic and NOS",477
+250,AZ,"Anus, Anal Canal and Anorectum",1380
+251,AZ,Appendix,543
+252,AZ,Ascending Colon,5190
+253,AZ,Bones and Joints,950
+254,AZ,Brain,6200
+255,AZ,Brain and Other Nervous System,6614
+256,AZ,Cecum,6069
+257,AZ,Cervix Uteri,3413
+258,AZ,Chronic Lymphocytic Leukemia,3047
+259,AZ,Chronic Myeloid Leukemia,1302
+260,AZ,Colon and Rectum,39830
+261,AZ,Colon excluding Rectum,28679
+262,AZ,Corpus Uteri,10345
+263,AZ,Cranial Nerves Other Nervous System,414
+264,AZ,Descending Colon,1497
+265,AZ,Digestive System,74326
+266,AZ,Endocrine System,12784
+267,AZ,Esophagus,4501
+268,AZ,Eye and Orbit,825
+269,AZ,Female Breast,60787
+270,AZ,"Female Breast, In Situ",13158
+271,AZ,Female Genital System,22554
+272,AZ,Floor of Mouth,543
+273,AZ,Gallbladder,1122
+274,AZ,Gum and Other Mouth,1196
+275,AZ,Hepatic Flexure,1298
+276,AZ,Hodgkin - Nodal,1968
+277,AZ,Hodgkin Lymphoma,2094
+278,AZ,Hypopharynx,489
+279,AZ,Intrahepatic Bile Duct,492
+280,AZ,Kaposi Sarcoma,166
+281,AZ,Kidney and Renal Pelvis,15033
+282,AZ,"Large Intestine, NOS",3588
+283,AZ,Larynx,2802
+284,AZ,Leukemias,11041
+285,AZ,Lip,426
+286,AZ,Liver,6157
+287,AZ,Liver and Intrahepatic Bile Duct,6664
+288,AZ,Lung and Bronchus,57045
+289,AZ,Lymphomas,18475
+290,AZ,Male Breast,759
+291,AZ,Male Genital System,56387
+292,AZ,Male and Female Breast,61546
+293,AZ,"Male and Female Breast, In Situ",13272
+294,AZ,Melanoma of the Skin,18160
+295,AZ,Mesothelioma,1013
+296,AZ,Miscellaneous,17453
+297,AZ,Myeloma,4808
+298,AZ,NHL - Extranodal,4938
+299,AZ,NHL - Nodal,11443
+300,AZ,Nasopharynx,379
+301,AZ,Non-Hodgkin Lymphoma,16381
+302,AZ,"Nose, Nasal Cavity and Middle Ear",602
+303,AZ,Oral Cavity and Pharynx,9369
+304,AZ,Oropharynx,373
+305,AZ,Other Acute Leukemia,357
+306,AZ,Other Biliary,1514
+307,AZ,Other Digestive Organs,339
+308,AZ,Other Endocrine including Thymus,626
+309,AZ,Other Female Genital Organs,365
+310,AZ,Other Leukemias,1626
+311,AZ,Other Lymphocytic Leukemia,328
+312,AZ,Other Myeloid/Monocytic Leukemia,81
+313,AZ,Other Non-Epithelial Skin,1190
+314,AZ,Other Oral Cavity and Pharynx,234
+315,AZ,Other Urinary Organs,98
+316,AZ,Ovary,6581
+317,AZ,Pancreas,10946
+318,AZ,Penis,304
+319,AZ,"Peritoneum, Omentum and Mesentery",415
+320,AZ,Prostate,53433
+321,AZ,Rectosigmoid Junction,3380
+322,AZ,Rectum,7771
+323,AZ,Rectum and Rectosigmoid Junction,11151
+324,AZ,Respiratory System,60642
+325,AZ,Retroperitoneum,351
+326,AZ,Salivary Gland,1170
+327,AZ,Sigmoid Colon,7165
+328,AZ,Skin excluding Basal and Squamous,19350
+329,AZ,Small Intestine,1644
+330,AZ,Soft Tissue including Heart,3036
+331,AZ,Splenic Flexure,770
+332,AZ,Stomach,5556
+333,AZ,Testis,2528
+334,AZ,Thyroid,12158
+335,AZ,Tongue,2909
+336,AZ,Tonsil,1530
+337,AZ,"Trachea, Mediastinum and Other Respiratory Organs",16
+338,AZ,Transverse Colon,2559
+339,AZ,Ureter,568
+340,AZ,"Urinary Bladder, invasive and in situ",20572
+341,AZ,Urinary System,36406
+342,AZ,"Uterus, NOS",562
+343,AZ,Vagina,194
+344,AZ,Vulva,979
+345,CA,Acute Lymphocytic Leukemia,10798
+346,CA,Acute Monocytic Leukemia,1481
+347,CA,Acute Myeloid Leukemia,20507
+348,CA,"Aleukemic, Subleukemic and NOS",2146
+349,CA,"Anus, Anal Canal and Anorectum",9820
+350,CA,Appendix,3473
+351,CA,Ascending Colon,28919
+352,CA,Bones and Joints,5082
+353,CA,Brain,32868
+354,CA,Brain and Other Nervous System,35089
+355,CA,Cecum,36661
+356,CA,Cervix Uteri,24025
+357,CA,Chronic Lymphocytic Leukemia,21871
+358,CA,Chronic Myeloid Leukemia,8585
+359,CA,Colon and Rectum,234231
+360,CA,Colon excluding Rectum,165983
+361,CA,Corpus Uteri,68259
+362,CA,Cranial Nerves Other Nervous System,2221
+363,CA,Descending Colon,9692
+364,CA,Digestive System,455478
+365,CA,Endocrine System,62016
+366,CA,Esophagus,21510
+367,CA,Eye and Orbit,4811
+368,CA,Female Breast,371719
+369,CA,"Female Breast, In Situ",83594
+370,CA,Female Genital System,142904
+371,CA,Floor of Mouth,2842
+372,CA,Gallbladder,6285
+373,CA,Gum and Other Mouth,7371
+374,CA,Hepatic Flexure,8857
+375,CA,Hodgkin - Extranodal,257
+376,CA,Hodgkin - Nodal,13904
+377,CA,Hodgkin Lymphoma,14199
+378,CA,Hypopharynx,3246
+379,CA,Intrahepatic Bile Duct,4310
+380,CA,Kaposi Sarcoma,4173
+381,CA,Kidney and Renal Pelvis,72948
+382,CA,"Large Intestine, NOS",9678
+383,CA,Larynx,14336
+384,CA,Leukemias,69758
+385,CA,Lip,4575
+386,CA,Liver,44667
+387,CA,Liver and Intrahepatic Bile Duct,48977
+388,CA,Lung and Bronchus,277313
+389,CA,Lymphomas,118549
+390,CA,Male Breast,2525
+391,CA,"Male Breast, In Situ",220
+392,CA,Male Genital System,361050
+393,CA,Male and Female Breast,374244
+394,CA,"Male and Female Breast, In Situ",83882
+395,CA,Melanoma of the Skin,114200
+396,CA,Mesothelioma,5221
+397,CA,Miscellaneous,86676
+398,CA,Myeloma,30973
+399,CA,NHL - Extranodal,34229
+400,CA,NHL - Nodal,70121
+401,CA,Nasopharynx,4345
+402,CA,Non-Hodgkin Lymphoma,104350
+403,CA,"Nose, Nasal Cavity and Middle Ear",3662
+404,CA,Oral Cavity and Pharynx,58446
+405,CA,Oropharynx,1833
+406,CA,Other Acute Leukemia,1449
+407,CA,Other Biliary,10429
+408,CA,Other Digestive Organs,3067
+409,CA,Other Endocrine including Thymus,4053
+410,CA,Other Female Genital Organs,2644
+411,CA,Other Leukemias,7997
+412,CA,Other Lymphocytic Leukemia,2150
+413,CA,Other Male Genital Organs,657
+414,CA,Other Myeloid/Monocytic Leukemia,771
+415,CA,Other Non-Epithelial Skin,11395
+416,CA,Other Oral Cavity and Pharynx,1108
+417,CA,Other Urinary Organs,1460
+418,CA,Ovary,38054
+419,CA,Pancreas,61893
+420,CA,Penis,1956
+421,CA,"Peritoneum, Omentum and Mesentery",3730
+422,CA,Pleura,35
+423,CA,Prostate,341910
+424,CA,Rectosigmoid Junction,17944
+425,CA,Rectum,50304
+426,CA,Rectum and Rectosigmoid Junction,68248
+427,CA,Respiratory System,296506
+428,CA,Retroperitoneum,2119
+429,CA,Salivary Gland,6831
+430,CA,Sigmoid Colon,47745
+431,CA,Skin excluding Basal and Squamous,125595
+432,CA,Small Intestine,9539
+433,CA,Soft Tissue including Heart,18444
+434,CA,Splenic Flexure,5719
+435,CA,Stomach,43878
+436,CA,Testis,16527
+437,CA,Thyroid,57963
+438,CA,Tongue,16808
+439,CA,Tonsil,9487
+440,CA,"Trachea, Mediastinum and Other Respiratory Organs",1037
+441,CA,Transverse Colon,15239
+442,CA,Ureter,2660
+443,CA,"Urinary Bladder, invasive and in situ",101510
+444,CA,Urinary System,178578
+445,CA,"Uterus, NOS",1934
+446,CA,Vagina,2070
+447,CA,Vulva,5918
+448,CO,Acute Lymphocytic Leukemia,1136
+449,CO,Acute Monocytic Leukemia,34
+450,CO,Acute Myeloid Leukemia,2564
+451,CO,"Aleukemic, Subleukemic and NOS",348
+452,CO,"Anus, Anal Canal and Anorectum",1193
+453,CO,Appendix,556
+454,CO,Ascending Colon,3421
+455,CO,Bones and Joints,710
+456,CO,Brain,4728
+457,CO,Brain and Other Nervous System,5053
+458,CO,Cecum,4647
+459,CO,Cervix Uteri,2528
+460,CO,Chronic Lymphocytic Leukemia,3485
+461,CO,Chronic Myeloid Leukemia,1184
+462,CO,Colon and Rectum,28090
+463,CO,Colon excluding Rectum,20036
+464,CO,Corpus Uteri,8351
+465,CO,Cranial Nerves Other Nervous System,312
+466,CO,Descending Colon,955
+467,CO,Digestive System,52714
+468,CO,Endocrine System,10143
+469,CO,Esophagus,3095
+470,CO,Eye and Orbit,750
+471,CO,Female Breast,50012
+472,CO,"Female Breast, In Situ",12008
+473,CO,Female Genital System,17535
+474,CO,Floor of Mouth,351
+475,CO,Gallbladder,656
+476,CO,Gum and Other Mouth,890
+477,CO,Hepatic Flexure,1032
+478,CO,Hodgkin - Nodal,2012
+479,CO,Hodgkin Lymphoma,2055
+480,CO,Hypopharynx,281
+481,CO,Intrahepatic Bile Duct,518
+482,CO,Kaposi Sarcoma,75
+483,CO,Kidney and Renal Pelvis,9632
+484,CO,"Large Intestine, NOS",1566
+485,CO,Larynx,1903
+486,CO,Leukemias,9830
+487,CO,Lip,562
+488,CO,Liver,4037
+489,CO,Liver and Intrahepatic Bile Duct,4568
+490,CO,Lung and Bronchus,33861
+491,CO,Lymphomas,15349
+492,CO,Male Breast,302
+493,CO,Male Genital System,51581
+494,CO,Male and Female Breast,50356
+495,CO,"Male and Female Breast, In Situ",12045
+496,CO,Melanoma of the Skin,16186
+497,CO,Mesothelioma,590
+498,CO,Miscellaneous,10639
+499,CO,Myeloma,4002
+500,CO,NHL - Extranodal,4304
+501,CO,NHL - Nodal,8990
+502,CO,Nasopharynx,230
+503,CO,Non-Hodgkin Lymphoma,13294
+504,CO,"Nose, Nasal Cavity and Middle Ear",460
+505,CO,Oral Cavity and Pharynx,7311
+506,CO,Oropharynx,112
+507,CO,Other Biliary,1108
+508,CO,Other Digestive Organs,210
+509,CO,Other Endocrine including Thymus,549
+510,CO,Other Female Genital Organs,340
+511,CO,Other Leukemias,1461
+512,CO,Other Lymphocytic Leukemia,534
+513,CO,Other Myeloid/Monocytic Leukemia,175
+514,CO,Other Non-Epithelial Skin,1161
+515,CO,Other Oral Cavity and Pharynx,388
+516,CO,Ovary,5097
+517,CO,Pancreas,7582
+518,CO,Penis,93
+519,CO,"Peritoneum, Omentum and Mesentery",431
+520,CO,Prostate,48882
+521,CO,Rectosigmoid Junction,1993
+522,CO,Rectum,6061
+523,CO,Rectum and Rectosigmoid Junction,8054
+524,CO,Respiratory System,36387
+525,CO,Retroperitoneum,292
+526,CO,Salivary Gland,870
+527,CO,Sigmoid Colon,5399
+528,CO,Skin excluding Basal and Squamous,17347
+529,CO,Small Intestine,1466
+530,CO,Soft Tissue including Heart,2252
+531,CO,Splenic Flexure,637
+532,CO,Stomach,3886
+533,CO,Testis,2396
+534,CO,Thyroid,9594
+535,CO,Tongue,2158
+536,CO,Tonsil,1237
+537,CO,Transverse Colon,1823
+538,CO,Ureter,370
+539,CO,"Urinary Bladder, invasive and in situ",13468
+540,CO,Urinary System,23634
+541,CO,Vagina,162
+542,CO,Vulva,848
+543,CT,Acute Lymphocytic Leukemia,862
+544,CT,Acute Myeloid Leukemia,2442
+545,CT,"Aleukemic, Subleukemic and NOS",352
+546,CT,"Anus, Anal Canal and Anorectum",959
+547,CT,Appendix,626
+548,CT,Ascending Colon,4313
+549,CT,Bones and Joints,549
+550,CT,Brain,4071
+551,CT,Brain and Other Nervous System,4307
+552,CT,Cecum,5120
+553,CT,Cervix Uteri,2058
+554,CT,Chronic Lymphocytic Leukemia,3362
+555,CT,Chronic Myeloid Leukemia,1040
+556,CT,Colon and Rectum,31074
+557,CT,Colon excluding Rectum,22389
+558,CT,Corpus Uteri,9912
+559,CT,Cranial Nerves Other Nervous System,111
+560,CT,Descending Colon,1301
+561,CT,Digestive System,57892
+562,CT,Endocrine System,9573
+563,CT,Esophagus,3397
+564,CT,Eye and Orbit,544
+565,CT,Female Breast,47825
+566,CT,"Female Breast, In Situ",14939
+567,CT,Female Genital System,18389
+568,CT,Floor of Mouth,486
+569,CT,Gallbladder,747
+570,CT,Gum and Other Mouth,1077
+571,CT,Hepatic Flexure,919
+572,CT,Hodgkin - Nodal,1938
+573,CT,Hodgkin Lymphoma,2005
+574,CT,Hypopharynx,506
+575,CT,Intrahepatic Bile Duct,454
+576,CT,Kaposi Sarcoma,133
+577,CT,Kidney and Renal Pelvis,9440
+578,CT,"Large Intestine, NOS",1239
+579,CT,Larynx,2454
+580,CT,Leukemias,8820
+581,CT,Lip,52
+582,CT,Liver,3748
+583,CT,Liver and Intrahepatic Bile Duct,4254
+584,CT,Lung and Bronchus,42131
+585,CT,Lymphomas,15508
+586,CT,Male Breast,408
+587,CT,Male Genital System,46289
+588,CT,Male and Female Breast,48233
+589,CT,"Male and Female Breast, In Situ",15001
+590,CT,Melanoma of the Skin,14182
+591,CT,Mesothelioma,699
+592,CT,Miscellaneous,10482
+593,CT,Myeloma,4055
+594,CT,NHL - Extranodal,4738
+595,CT,NHL - Nodal,8765
+596,CT,Nasopharynx,160
+597,CT,Non-Hodgkin Lymphoma,13503
+598,CT,"Nose, Nasal Cavity and Middle Ear",411
+599,CT,Oral Cavity and Pharynx,6998
+600,CT,Oropharynx,187
+601,CT,Other Acute Leukemia,72
+602,CT,Other Biliary,1217
+603,CT,Other Digestive Organs,179
+604,CT,Other Endocrine including Thymus,485
+605,CT,Other Female Genital Organs,273
+606,CT,Other Leukemias,1114
+607,CT,Other Lymphocytic Leukemia,219
+608,CT,Other Myeloid/Monocytic Leukemia,16
+609,CT,Other Non-Epithelial Skin,982
+610,CT,Other Urinary Organs,133
+611,CT,Ovary,4584
+612,CT,Pancreas,8495
+613,CT,Penis,159
+614,CT,"Peritoneum, Omentum and Mesentery",329
+615,CT,Prostate,44290
+616,CT,Rectosigmoid Junction,2323
+617,CT,Rectum,6362
+618,CT,Rectum and Rectosigmoid Junction,8685
+619,CT,Respiratory System,45126
+620,CT,Retroperitoneum,206
+621,CT,Salivary Gland,848
+622,CT,Sigmoid Colon,6070
+623,CT,Skin excluding Basal and Squamous,15164
+624,CT,Small Intestine,1444
+625,CT,Soft Tissue including Heart,2044
+626,CT,Splenic Flexure,663
+627,CT,Stomach,5431
+628,CT,Testis,1674
+629,CT,Thyroid,9088
+630,CT,Tongue,2122
+631,CT,Tonsil,1125
+632,CT,Transverse Colon,2138
+633,CT,Ureter,480
+634,CT,"Urinary Bladder, invasive and in situ",17268
+635,CT,Urinary System,27415
+636,CT,"Uterus, NOS",155
+637,CT,Vagina,165
+638,CT,Vulva,969
+639,DE,Acute Lymphocytic Leukemia,83
+640,DE,Acute Myeloid Leukemia,565
+641,DE,"Anus, Anal Canal and Anorectum",194
+642,DE,Appendix,16
+643,DE,Ascending Colon,919
+644,DE,Brain,911
+645,DE,Brain and Other Nervous System,991
+646,DE,Cecum,1118
+647,DE,Cervix Uteri,650
+648,DE,Chronic Lymphocytic Leukemia,633
+649,DE,Chronic Myeloid Leukemia,89
+650,DE,Colon and Rectum,7195
+651,DE,Colon excluding Rectum,5296
+652,DE,Corpus Uteri,2289
+653,DE,Descending Colon,227
+654,DE,Digestive System,13400
+655,DE,Endocrine System,1897
+656,DE,Esophagus,841
+657,DE,Female Breast,10732
+658,DE,"Female Breast, In Situ",3089
+659,DE,Female Genital System,4415
+660,DE,Gallbladder,89
+661,DE,Gum and Other Mouth,194
+662,DE,Hepatic Flexure,255
+663,DE,Hodgkin - Nodal,424
+664,DE,Hodgkin Lymphoma,435
+665,DE,Hypopharynx,16
+666,DE,Kidney and Renal Pelvis,2495
+667,DE,"Large Intestine, NOS",454
+668,DE,Larynx,686
+669,DE,Leukemias,1921
+670,DE,Liver,966
+671,DE,Liver and Intrahepatic Bile Duct,1046
+672,DE,Lung and Bronchus,11813
+673,DE,Lymphomas,3545
+674,DE,Male Genital System,12548
+675,DE,Male and Female Breast,10831
+676,DE,"Male and Female Breast, In Situ",3100
+677,DE,Melanoma of the Skin,3775
+678,DE,Mesothelioma,52
+679,DE,Miscellaneous,2559
+680,DE,Myeloma,1010
+681,DE,NHL - Extranodal,939
+682,DE,NHL - Nodal,2158
+683,DE,Non-Hodgkin Lymphoma,3097
+684,DE,Oral Cavity and Pharynx,1837
+685,DE,Other Biliary,167
+686,DE,Other Leukemias,237
+687,DE,Other Non-Epithelial Skin,160
+688,DE,Ovary,1037
+689,DE,Pancreas,1962
+690,DE,Prostate,12142
+691,DE,Rectosigmoid Junction,524
+692,DE,Rectum,1375
+693,DE,Rectum and Rectosigmoid Junction,1899
+694,DE,Respiratory System,12643
+695,DE,Salivary Gland,38
+696,DE,Sigmoid Colon,1353
+697,DE,Skin excluding Basal and Squamous,4023
+698,DE,Small Intestine,306
+699,DE,Soft Tissue including Heart,483
+700,DE,Splenic Flexure,36
+701,DE,Stomach,1054
+702,DE,Testis,310
+703,DE,Thyroid,1769
+704,DE,Tongue,557
+705,DE,Tonsil,246
+706,DE,Transverse Colon,529
+707,DE,"Urinary Bladder, invasive and in situ",3784
+708,DE,Urinary System,6433
+709,DE,Vulva,125
+710,District of Columbia,Acute Myeloid Leukemia,164
+711,District of Columbia,"Anus, Anal Canal and Anorectum",138
+712,District of Columbia,Ascending Colon,659
+713,District of Columbia,Brain,479
+714,District of Columbia,Brain and Other Nervous System,547
+715,District of Columbia,Cecum,684
+716,District of Columbia,Cervix Uteri,527
+717,District of Columbia,Chronic Lymphocytic Leukemia,158
+718,District of Columbia,Colon and Rectum,4405
+719,District of Columbia,Colon excluding Rectum,3359
+720,District of Columbia,Corpus Uteri,1282
+721,District of Columbia,Descending Colon,176
+722,District of Columbia,Digestive System,8851
+723,District of Columbia,Endocrine System,1247
+724,District of Columbia,Esophagus,552
+725,District of Columbia,Female Breast,6903
+726,District of Columbia,"Female Breast, In Situ",1701
+727,District of Columbia,Female Genital System,2673
+728,District of Columbia,Gallbladder,17
+729,District of Columbia,Gum and Other Mouth,17
+730,District of Columbia,Hodgkin - Nodal,230
+731,District of Columbia,Hodgkin Lymphoma,265
+732,District of Columbia,Kaposi Sarcoma,117
+733,District of Columbia,Kidney and Renal Pelvis,1187
+734,District of Columbia,"Large Intestine, NOS",376
+735,District of Columbia,Larynx,433
+736,District of Columbia,Leukemias,828
+737,District of Columbia,Liver,845
+738,District of Columbia,Liver and Intrahepatic Bile Duct,915
+739,District of Columbia,Lung and Bronchus,5357
+740,District of Columbia,Lymphomas,1853
+741,District of Columbia,Male Genital System,7354
+742,District of Columbia,Male and Female Breast,7007
+743,District of Columbia,"Male and Female Breast, In Situ",1717
+744,District of Columbia,Melanoma of the Skin,773
+745,District of Columbia,Miscellaneous,1362
+746,District of Columbia,Myeloma,763
+747,District of Columbia,NHL - Extranodal,655
+748,District of Columbia,NHL - Nodal,890
+749,District of Columbia,Non-Hodgkin Lymphoma,1545
+750,District of Columbia,Oral Cavity and Pharynx,1117
+751,District of Columbia,Other Leukemias,34
+752,District of Columbia,Ovary,577
+753,District of Columbia,Pancreas,1253
+754,District of Columbia,Prostate,7096
+755,District of Columbia,Rectosigmoid Junction,167
+756,District of Columbia,Rectum,794
+757,District of Columbia,Rectum and Rectosigmoid Junction,1046
+758,District of Columbia,Respiratory System,5894
+759,District of Columbia,Sigmoid Colon,730
+760,District of Columbia,Skin excluding Basal and Squamous,860
+761,District of Columbia,Small Intestine,227
+762,District of Columbia,Soft Tissue including Heart,244
+763,District of Columbia,Stomach,808
+764,District of Columbia,Testis,105
+765,District of Columbia,Thyroid,1162
+766,District of Columbia,Tongue,206
+767,District of Columbia,Tonsil,49
+768,District of Columbia,Transverse Colon,264
+769,District of Columbia,"Urinary Bladder, invasive and in situ",1333
+770,District of Columbia,Urinary System,2580
+771,FL,Acute Lymphocytic Leukemia,4736
+772,FL,Acute Monocytic Leukemia,909
+773,FL,Acute Myeloid Leukemia,14353
+774,FL,"Aleukemic, Subleukemic and NOS",1950
+775,FL,"Anus, Anal Canal and Anorectum",7323
+776,FL,Appendix,2273
+777,FL,Ascending Colon,24607
+778,FL,Bones and Joints,3407
+779,FL,Brain,21023
+780,FL,Brain and Other Nervous System,22421
+781,FL,Cecum,26205
+782,FL,Cervix Uteri,15092
+783,FL,Chronic Lymphocytic Leukemia,16936
+784,FL,Chronic Myeloid Leukemia,5874
+785,FL,Colon and Rectum,168647
+786,FL,Colon excluding Rectum,125367
+787,FL,Corpus Uteri,41409
+788,FL,Cranial Nerves Other Nervous System,1398
+789,FL,Descending Colon,7446
+790,FL,Digestive System,306631
+791,FL,Endocrine System,32945
+792,FL,Esophagus,18015
+793,FL,Eye and Orbit,3170
+794,FL,Female Breast,223473
+795,FL,"Female Breast, In Situ",49515
+796,FL,Female Genital System,90316
+797,FL,Floor of Mouth,2719
+798,FL,Gallbladder,3802
+799,FL,Gum and Other Mouth,6020
+800,FL,Hepatic Flexure,6655
+801,FL,Hodgkin - Extranodal,201
+802,FL,Hodgkin - Nodal,7854
+803,FL,Hodgkin Lymphoma,8101
+804,FL,Hypopharynx,3342
+805,FL,Intrahepatic Bile Duct,2730
+806,FL,Kaposi Sarcoma,1990
+807,FL,Kidney and Renal Pelvis,49917
+808,FL,"Large Intestine, NOS",11160
+809,FL,Larynx,16611
+810,FL,Leukemias,48166
+811,FL,Lip,1820
+812,FL,Liver,20762
+813,FL,Liver and Intrahepatic Bile Duct,23492
+814,FL,Lung and Bronchus,260047
+815,FL,Lymphomas,75366
+816,FL,Male Breast,2692
+817,FL,"Male Breast, In Situ",317
+818,FL,Male Genital System,241370
+819,FL,Male and Female Breast,226165
+820,FL,"Male and Female Breast, In Situ",49876
+821,FL,Melanoma of the Skin,70274
+822,FL,Mesothelioma,3666
+823,FL,Miscellaneous,75998
+824,FL,Myeloma,21934
+825,FL,NHL - Extranodal,19569
+826,FL,NHL - Nodal,47696
+827,FL,Nasopharynx,2052
+828,FL,Non-Hodgkin Lymphoma,67265
+829,FL,"Nose, Nasal Cavity and Middle Ear",2646
+830,FL,Oral Cavity and Pharynx,47502
+831,FL,Oropharynx,2488
+832,FL,Other Acute Leukemia,1134
+833,FL,Other Biliary,6283
+834,FL,Other Digestive Organs,1464
+835,FL,Other Endocrine including Thymus,2232
+836,FL,Other Female Genital Organs,1670
+837,FL,Other Leukemias,6267
+838,FL,Other Lymphocytic Leukemia,1524
+839,FL,Other Male Genital Organs,320
+840,FL,Other Myeloid/Monocytic Leukemia,750
+841,FL,Other Non-Epithelial Skin,5586
+842,FL,Other Oral Cavity and Pharynx,2654
+843,FL,Other Urinary Organs,806
+844,FL,Ovary,24515
+845,FL,Pancreas,44080
+846,FL,Penis,1367
+847,FL,"Peritoneum, Omentum and Mesentery",1715
+848,FL,Prostate,232964
+849,FL,Rectosigmoid Junction,13424
+850,FL,Rectum,29856
+851,FL,Rectum and Rectosigmoid Junction,43280
+852,FL,Respiratory System,280072
+853,FL,Retroperitoneum,1498
+854,FL,Salivary Gland,4685
+855,FL,Sigmoid Colon,31767
+856,FL,Skin excluding Basal and Squamous,75860
+857,FL,Small Intestine,6678
+858,FL,Soft Tissue including Heart,11267
+859,FL,Splenic Flexure,4328
+860,FL,Stomach,23634
+861,FL,Testis,6689
+862,FL,Thyroid,30713
+863,FL,Tongue,13818
+864,FL,Tonsil,7904
+865,FL,"Trachea, Mediastinum and Other Respiratory Organs",679
+866,FL,Transverse Colon,10926
+867,FL,Ureter,2184
+868,FL,"Urinary Bladder, invasive and in situ",82864
+869,FL,Urinary System,135771
+870,FL,"Uterus, NOS",1886
+871,FL,Vagina,1284
+872,FL,Vulva,4460
+873,GA,Acute Lymphocytic Leukemia,1970
+874,GA,Acute Monocytic Leukemia,148
+875,GA,Acute Myeloid Leukemia,5037
+876,GA,"Aleukemic, Subleukemic and NOS",739
+877,GA,"Anus, Anal Canal and Anorectum",2509
+878,GA,Appendix,1007
+879,GA,Ascending Colon,8274
+880,GA,Bones and Joints,1277
+881,GA,Brain,8253
+882,GA,Brain and Other Nervous System,8866
+883,GA,Cecum,9209
+884,GA,Cervix Uteri,6422
+885,GA,Chronic Lymphocytic Leukemia,5604
+886,GA,Chronic Myeloid Leukemia,2193
+887,GA,Colon and Rectum,61643
+888,GA,Colon excluding Rectum,43964
+889,GA,Corpus Uteri,14936
+890,GA,Cranial Nerves Other Nervous System,613
+891,GA,Descending Colon,2971
+892,GA,Digestive System,111063
+893,GA,Endocrine System,14680
+894,GA,Esophagus,6500
+895,GA,Eye and Orbit,1025
+896,GA,Female Breast,93817
+897,GA,"Female Breast, In Situ",22269
+898,GA,Female Genital System,34412
+899,GA,Floor of Mouth,1019
+900,GA,Gallbladder,1297
+901,GA,Gum and Other Mouth,2441
+902,GA,Hepatic Flexure,1922
+903,GA,Hodgkin - Extranodal,21
+904,GA,Hodgkin - Nodal,3561
+905,GA,Hodgkin Lymphoma,3704
+906,GA,Hypopharynx,1191
+907,GA,Intrahepatic Bile Duct,846
+908,GA,Kaposi Sarcoma,1115
+909,GA,Kidney and Renal Pelvis,19955
+910,GA,"Large Intestine, NOS",3217
+911,GA,Larynx,6350
+912,GA,Leukemias,16909
+913,GA,Lip,616
+914,GA,Liver,7388
+915,GA,Liver and Intrahepatic Bile Duct,8234
+916,GA,Lung and Bronchus,94374
+917,GA,Lymphomas,27519
+918,GA,Male Breast,741
+919,GA,Male Genital System,97833
+920,GA,Male and Female Breast,94558
+921,GA,"Male and Female Breast, In Situ",22352
+922,GA,Melanoma of the Skin,30366
+923,GA,Mesothelioma,842
+924,GA,Miscellaneous,20852
+925,GA,Myeloma,9389
+926,GA,NHL - Extranodal,8020
+927,GA,NHL - Nodal,15795
+928,GA,Nasopharynx,812
+929,GA,Non-Hodgkin Lymphoma,23815
+930,GA,"Nose, Nasal Cavity and Middle Ear",1014
+931,GA,Oral Cavity and Pharynx,16674
+932,GA,Oropharynx,734
+933,GA,Other Acute Leukemia,389
+934,GA,Other Biliary,1939
+935,GA,Other Digestive Organs,521
+936,GA,Other Endocrine including Thymus,1077
+937,GA,Other Female Genital Organs,553
+938,GA,Other Leukemias,2105
+939,GA,Other Lymphocytic Leukemia,490
+940,GA,Other Myeloid/Monocytic Leukemia,92
+941,GA,Other Non-Epithelial Skin,2061
+942,GA,Other Oral Cavity and Pharynx,557
+943,GA,Other Urinary Organs,341
+944,GA,Ovary,9418
+945,GA,Pancreas,15504
+946,GA,Penis,493
+947,GA,"Peritoneum, Omentum and Mesentery",563
+948,GA,Prostate,94191
+949,GA,Rectosigmoid Junction,4739
+950,GA,Rectum,12940
+951,GA,Rectum and Rectosigmoid Junction,17679
+952,GA,Respiratory System,101987
+953,GA,Retroperitoneum,470
+954,GA,Salivary Gland,1730
+955,GA,Sigmoid Colon,11874
+956,GA,Skin excluding Basal and Squamous,32427
+957,GA,Small Intestine,3066
+958,GA,Soft Tissue including Heart,4277
+959,GA,Splenic Flexure,1444
+960,GA,Stomach,8817
+961,GA,Testis,3003
+962,GA,Thyroid,13603
+963,GA,Tongue,4603
+964,GA,Tonsil,2971
+965,GA,"Trachea, Mediastinum and Other Respiratory Organs",107
+966,GA,Transverse Colon,4046
+967,GA,Ureter,619
+968,GA,"Urinary Bladder, invasive and in situ",23753
+969,GA,Urinary System,44706
+970,GA,"Uterus, NOS",476
+971,GA,Vagina,691
+972,GA,Vulva,1916
+973,HI,Acute Lymphocytic Leukemia,238
+974,HI,Acute Myeloid Leukemia,915
+975,HI,"Anus, Anal Canal and Anorectum",159
+976,HI,Appendix,72
+977,HI,Ascending Colon,1354
+978,HI,Brain,878
+979,HI,Brain and Other Nervous System,951
+980,HI,Cecum,1254
+981,HI,Cervix Uteri,851
+982,HI,Chronic Lymphocytic Leukemia,656
+983,HI,Chronic Myeloid Leukemia,333
+984,HI,Colon and Rectum,11325
+985,HI,Colon excluding Rectum,7586
+986,HI,Corpus Uteri,3301
+987,HI,Descending Colon,597
+988,HI,Digestive System,22049
+989,HI,Endocrine System,3011
+990,HI,Esophagus,851
+991,HI,Female Breast,15501
+992,HI,"Female Breast, In Situ",4229
+993,HI,Female Genital System,5902
+994,HI,Gallbladder,147
+995,HI,Gum and Other Mouth,354
+996,HI,Hepatic Flexure,275
+997,HI,Hodgkin - Nodal,383
+998,HI,Hodgkin Lymphoma,393
+999,HI,Hypopharynx,106
+1000,HI,Intrahepatic Bile Duct,215
+1001,HI,Kidney and Renal Pelvis,2813
+1002,HI,"Large Intestine, NOS",202
+1003,HI,Larynx,616
+1004,HI,Leukemias,2556
+1005,HI,Liver,2166
+1006,HI,Liver and Intrahepatic Bile Duct,2465
+1007,HI,Lung and Bronchus,11915
+1008,HI,Lymphomas,4298
+1009,HI,Male Genital System,13312
+1010,HI,Male and Female Breast,15597
+1011,HI,"Male and Female Breast, In Situ",4240
+1012,HI,Melanoma of the Skin,4425
+1013,HI,Mesothelioma,16
+1014,HI,Miscellaneous,3193
+1015,HI,Myeloma,1145
+1016,HI,NHL - Extranodal,1655
+1017,HI,NHL - Nodal,2250
+1018,HI,Nasopharynx,276
+1019,HI,Non-Hodgkin Lymphoma,3905
+1020,HI,"Nose, Nasal Cavity and Middle Ear",69
+1021,HI,Oral Cavity and Pharynx,2777
+1022,HI,Other Biliary,460
+1023,HI,Other Digestive Organs,35
+1024,HI,Other Endocrine including Thymus,92
+1025,HI,Other Female Genital Organs,19
+1026,HI,Other Leukemias,269
+1027,HI,Other Non-Epithelial Skin,455
+1028,HI,Ovary,1257
+1029,HI,Pancreas,3057
+1030,HI,Prostate,12655
+1031,HI,Rectosigmoid Junction,1043
+1032,HI,Rectum,2696
+1033,HI,Rectum and Rectosigmoid Junction,3739
+1034,HI,Respiratory System,12771
+1035,HI,Salivary Gland,276
+1036,HI,Sigmoid Colon,2599
+1037,HI,Skin excluding Basal and Squamous,4880
+1038,HI,Small Intestine,366
+1039,HI,Soft Tissue including Heart,773
+1040,HI,Splenic Flexure,163
+1041,HI,Stomach,2683
+1042,HI,Testis,544
+1043,HI,Thyroid,2793
+1044,HI,Tongue,870
+1045,HI,Tonsil,311
+1046,HI,Transverse Colon,731
+1047,HI,"Urinary Bladder, invasive and in situ",3390
+1048,HI,Urinary System,6396
+1049,HI,Vulva,93
+1050,IA,Acute Lymphocytic Leukemia,692
+1051,IA,Acute Monocytic Leukemia,19
+1052,IA,Acute Myeloid Leukemia,2340
+1053,IA,"Aleukemic, Subleukemic and NOS",91
+1054,IA,"Anus, Anal Canal and Anorectum",829
+1055,IA,Appendix,365
+1056,IA,Ascending Colon,4202
+1057,IA,Bones and Joints,496
+1058,IA,Brain,3626
+1059,IA,Brain and Other Nervous System,3850
+1060,IA,Cecum,5267
+1061,IA,Cervix Uteri,1791
+1062,IA,Chronic Lymphocytic Leukemia,3700
+1063,IA,Chronic Myeloid Leukemia,1105
+1064,IA,Colon and Rectum,30074
+1065,IA,Colon excluding Rectum,22360
+1066,IA,Corpus Uteri,8340
+1067,IA,Cranial Nerves Other Nervous System,111
+1068,IA,Descending Colon,1070
+1069,IA,Digestive System,50170
+1070,IA,Endocrine System,5861
+1071,IA,Esophagus,2984
+1072,IA,Eye and Orbit,613
+1073,IA,Female Breast,36012
+1074,IA,"Female Breast, In Situ",7639
+1075,IA,Female Genital System,15791
+1076,IA,Floor of Mouth,359
+1077,IA,Gallbladder,663
+1078,IA,Gum and Other Mouth,988
+1079,IA,Hepatic Flexure,1538
+1080,IA,Hodgkin - Nodal,1434
+1081,IA,Hodgkin Lymphoma,1470
+1082,IA,Hypopharynx,323
+1083,IA,Intrahepatic Bile Duct,400
+1084,IA,Kidney and Renal Pelvis,9040
+1085,IA,"Large Intestine, NOS",1260
+1086,IA,Larynx,2299
+1087,IA,Leukemias,8762
+1088,IA,Lip,889
+1089,IA,Liver,2318
+1090,IA,Liver and Intrahepatic Bile Duct,2740
+1091,IA,Lung and Bronchus,37607
+1092,IA,Lymphomas,13317
+1093,IA,Male Breast,131
+1094,IA,Male Genital System,36554
+1095,IA,Male and Female Breast,36251
+1096,IA,"Male and Female Breast, In Situ",7659
+1097,IA,Melanoma of the Skin,11091
+1098,IA,Mesothelioma,468
+1099,IA,Miscellaneous,9627
+1100,IA,Myeloma,3434
+1101,IA,NHL - Extranodal,3695
+1102,IA,NHL - Nodal,8152
+1103,IA,Nasopharynx,86
+1104,IA,Non-Hodgkin Lymphoma,11847
+1105,IA,"Nose, Nasal Cavity and Middle Ear",337
+1106,IA,Oral Cavity and Pharynx,6450
+1107,IA,Oropharynx,61
+1108,IA,Other Acute Leukemia,36
+1109,IA,Other Biliary,926
+1110,IA,Other Digestive Organs,85
+1111,IA,Other Endocrine including Thymus,257
+1112,IA,Other Female Genital Organs,285
+1113,IA,Other Leukemias,925
+1114,IA,Other Lymphocytic Leukemia,206
+1115,IA,Other Non-Epithelial Skin,1072
+1116,IA,Other Urinary Organs,120
+1117,IA,Ovary,3887
+1118,IA,Pancreas,6768
+1119,IA,Penis,146
+1120,IA,"Peritoneum, Omentum and Mesentery",467
+1121,IA,Prostate,34704
+1122,IA,Rectosigmoid Junction,1936
+1123,IA,Rectum,5778
+1124,IA,Rectum and Rectosigmoid Junction,7714
+1125,IA,Respiratory System,40369
+1126,IA,Retroperitoneum,90
+1127,IA,Salivary Gland,677
+1128,IA,Sigmoid Colon,5536
+1129,IA,Skin excluding Basal and Squamous,12163
+1130,IA,Small Intestine,1325
+1131,IA,Soft Tissue including Heart,1644
+1132,IA,Splenic Flexure,725
+1133,IA,Stomach,2977
+1134,IA,Testis,1515
+1135,IA,Thyroid,5553
+1136,IA,Tongue,1663
+1137,IA,Tonsil,1040
+1138,IA,Transverse Colon,2345
+1139,IA,Ureter,353
+1140,IA,"Urinary Bladder, invasive and in situ",12852
+1141,IA,Urinary System,22477
+1142,IA,"Uterus, NOS",109
+1143,IA,Vagina,67
+1144,IA,Vulva,986
+1145,ID,Acute Lymphocytic Leukemia,370
+1146,ID,Acute Myeloid Leukemia,880
+1147,ID,"Anus, Anal Canal and Anorectum",341
+1148,ID,Appendix,60
+1149,ID,Ascending Colon,1162
+1150,ID,Bones and Joints,150
+1151,ID,Brain,1598
+1152,ID,Brain and Other Nervous System,1726
+1153,ID,Cecum,1595
+1154,ID,Cervix Uteri,726
+1155,ID,Chronic Lymphocytic Leukemia,1399
+1156,ID,Chronic Myeloid Leukemia,502
+1157,ID,Colon and Rectum,9478
+1158,ID,Colon excluding Rectum,6791
+1159,ID,Corpus Uteri,2787
+1160,ID,Descending Colon,340
+1161,ID,Digestive System,17515
+1162,ID,Endocrine System,3213
+1163,ID,Esophagus,1117
+1164,ID,Eye and Orbit,165
+1165,ID,Female Breast,14895
+1166,ID,"Female Breast, In Situ",2933
+1167,ID,Female Genital System,5609
+1168,ID,Gallbladder,106
+1169,ID,Gum and Other Mouth,329
+1170,ID,Hepatic Flexure,335
+1171,ID,Hodgkin - Nodal,627
+1172,ID,Hodgkin Lymphoma,637
+1173,ID,Intrahepatic Bile Duct,41
+1174,ID,Kidney and Renal Pelvis,3385
+1175,ID,"Large Intestine, NOS",361
+1176,ID,Larynx,687
+1177,ID,Leukemias,3569
+1178,ID,Lip,491
+1179,ID,Liver,1022
+1180,ID,Liver and Intrahepatic Bile Duct,1171
+1181,ID,Lung and Bronchus,12659
+1182,ID,Lymphomas,5116
+1183,ID,Male Genital System,17826
+1184,ID,Male and Female Breast,15021
+1185,ID,"Male and Female Breast, In Situ",2941
+1186,ID,Melanoma of the Skin,5673
+1187,ID,Mesothelioma,156
+1188,ID,Miscellaneous,4034
+1189,ID,Myeloma,1363
+1190,ID,NHL - Extranodal,1322
+1191,ID,NHL - Nodal,3157
+1192,ID,Non-Hodgkin Lymphoma,4479
+1193,ID,Oral Cavity and Pharynx,2783
+1194,ID,Other Biliary,332
+1195,ID,Other Digestive Organs,20
+1196,ID,Other Leukemias,418
+1197,ID,Other Non-Epithelial Skin,234
+1198,ID,Other Urinary Organs,17
+1199,ID,Ovary,1537
+1200,ID,Pancreas,2778
+1201,ID,Prostate,17013
+1202,ID,Rectosigmoid Junction,594
+1203,ID,Rectum,2093
+1204,ID,Rectum and Rectosigmoid Junction,2687
+1205,ID,Respiratory System,13558
+1206,ID,Salivary Gland,232
+1207,ID,Sigmoid Colon,1942
+1208,ID,Skin excluding Basal and Squamous,5971
+1209,ID,Small Intestine,480
+1210,ID,Soft Tissue including Heart,694
+1211,ID,Splenic Flexure,55
+1212,ID,Stomach,1198
+1213,ID,Testis,719
+1214,ID,Thyroid,3085
+1215,ID,Tongue,736
+1216,ID,Tonsil,415
+1217,ID,Transverse Colon,605
+1218,ID,"Urinary Bladder, invasive and in situ",5125
+1219,ID,Urinary System,8712
+1220,ID,Vulva,229
+1221,IL,Acute Lymphocytic Leukemia,3130
+1222,IL,Acute Monocytic Leukemia,462
+1223,IL,Acute Myeloid Leukemia,8906
+1224,IL,"Aleukemic, Subleukemic and NOS",1041
+1225,IL,"Anus, Anal Canal and Anorectum",3377
+1226,IL,Appendix,1727
+1227,IL,Ascending Colon,15236
+1228,IL,Bones and Joints,1803
+1229,IL,Brain,12635
+1230,IL,Brain and Other Nervous System,13408
+1231,IL,Cecum,17137
+1232,IL,Cervix Uteri,9465
+1233,IL,Chronic Lymphocytic Leukemia,9099
+1234,IL,Chronic Myeloid Leukemia,3675
+1235,IL,Colon and Rectum,108257
+1236,IL,Colon excluding Rectum,78313
+1237,IL,Corpus Uteri,30728
+1238,IL,Cranial Nerves Other Nervous System,773
+1239,IL,Descending Colon,4804
+1240,IL,Digestive System,192450
+1241,IL,Endocrine System,25256
+1242,IL,Esophagus,11198
+1243,IL,Eye and Orbit,1728
+1244,IL,Female Breast,145492
+1245,IL,"Female Breast, In Situ",35339
+1246,IL,Female Genital System,60392
+1247,IL,Floor of Mouth,1562
+1248,IL,Gallbladder,2868
+1249,IL,Gum and Other Mouth,3607
+1250,IL,Hepatic Flexure,3824
+1251,IL,Hodgkin - Extranodal,56
+1252,IL,Hodgkin - Nodal,5714
+1253,IL,Hodgkin Lymphoma,5879
+1254,IL,Hypopharynx,1725
+1255,IL,Intrahepatic Bile Duct,1618
+1256,IL,Kaposi Sarcoma,713
+1257,IL,Kidney and Renal Pelvis,34278
+1258,IL,"Large Intestine, NOS",5203
+1259,IL,Larynx,8988
+1260,IL,Leukemias,28354
+1261,IL,Lip,1185
+1262,IL,Liver,11634
+1263,IL,Liver and Intrahepatic Bile Duct,13252
+1264,IL,Lung and Bronchus,146540
+1265,IL,Lymphomas,46771
+1266,IL,Male Breast,1206
+1267,IL,Male Genital System,145026
+1268,IL,Male and Female Breast,146698
+1269,IL,"Male and Female Breast, In Situ",35434
+1270,IL,Melanoma of the Skin,33295
+1271,IL,Mesothelioma,2446
+1272,IL,Miscellaneous,32928
+1273,IL,Myeloma,13113
+1274,IL,NHL - Extranodal,12709
+1275,IL,NHL - Nodal,28183
+1276,IL,Nasopharynx,1164
+1277,IL,Non-Hodgkin Lymphoma,40892
+1278,IL,"Nose, Nasal Cavity and Middle Ear",1381
+1279,IL,Oral Cavity and Pharynx,23984
+1280,IL,Oropharynx,1242
+1281,IL,Other Acute Leukemia,792
+1282,IL,Other Biliary,3866
+1283,IL,Other Digestive Organs,834
+1284,IL,Other Endocrine including Thymus,1514
+1285,IL,Other Female Genital Organs,1057
+1286,IL,Other Leukemias,3544
+1287,IL,Other Lymphocytic Leukemia,930
+1288,IL,Other Male Genital Organs,37
+1289,IL,Other Myeloid/Monocytic Leukemia,272
+1290,IL,Other Non-Epithelial Skin,2962
+1291,IL,Other Oral Cavity and Pharynx,584
+1292,IL,Other Urinary Organs,588
+1293,IL,Ovary,14581
+1294,IL,Pancreas,26771
+1295,IL,Penis,749
+1296,IL,"Peritoneum, Omentum and Mesentery",1226
+1297,IL,Prostate,138629
+1298,IL,Rectosigmoid Junction,8357
+1299,IL,Rectum,21587
+1300,IL,Rectum and Rectosigmoid Junction,29944
+1301,IL,Respiratory System,157348
+1302,IL,Retroperitoneum,775
+1303,IL,Salivary Gland,2553
+1304,IL,Sigmoid Colon,21048
+1305,IL,Skin excluding Basal and Squamous,36257
+1306,IL,Small Intestine,4716
+1307,IL,Soft Tissue including Heart,6556
+1308,IL,Splenic Flexure,2387
+1309,IL,Stomach,15310
+1310,IL,Testis,5470
+1311,IL,Thyroid,23742
+1312,IL,Tongue,6615
+1313,IL,Tonsil,3747
+1314,IL,"Trachea, Mediastinum and Other Respiratory Organs",355
+1315,IL,Transverse Colon,6947
+1316,IL,Ureter,1311
+1317,IL,"Urinary Bladder, invasive and in situ",46313
+1318,IL,Urinary System,82490
+1319,IL,"Uterus, NOS",746
+1320,IL,Vagina,832
+1321,IL,Vulva,2983
+1322,IN,Acute Lymphocytic Leukemia,1473
+1323,IN,Acute Monocytic Leukemia,223
+1324,IN,Acute Myeloid Leukemia,4417
+1325,IN,"Aleukemic, Subleukemic and NOS",388
+1326,IN,"Anus, Anal Canal and Anorectum",1902
+1327,IN,Appendix,789
+1328,IN,Ascending Colon,7500
+1329,IN,Bones and Joints,902
+1330,IN,Brain,6813
+1331,IN,Brain and Other Nervous System,7273
+1332,IN,Cecum,8748
+1333,IN,Cervix Uteri,4224
+1334,IN,Chronic Lymphocytic Leukemia,4722
+1335,IN,Chronic Myeloid Leukemia,1800
+1336,IN,Colon and Rectum,53070
+1337,IN,Colon excluding Rectum,38694
+1338,IN,Corpus Uteri,15173
+1339,IN,Cranial Nerves Other Nervous System,460
+1340,IN,Descending Colon,2092
+1341,IN,Digestive System,92092
+1342,IN,Endocrine System,10639
+1343,IN,Esophagus,5808
+1344,IN,Eye and Orbit,906
+1345,IN,Female Breast,69781
+1346,IN,"Female Breast, In Situ",15322
+1347,IN,Female Genital System,29353
+1348,IN,Floor of Mouth,761
+1349,IN,Gallbladder,1186
+1350,IN,Gum and Other Mouth,1607
+1351,IN,Hepatic Flexure,2049
+1352,IN,Hodgkin - Nodal,2930
+1353,IN,Hodgkin Lymphoma,2989
+1354,IN,Hypopharynx,715
+1355,IN,Intrahepatic Bile Duct,761
+1356,IN,Kaposi Sarcoma,39
+1357,IN,Kidney and Renal Pelvis,17815
+1358,IN,"Large Intestine, NOS",2571
+1359,IN,Larynx,4786
+1360,IN,Leukemias,13986
+1361,IN,Lip,638
+1362,IN,Liver,5086
+1363,IN,Liver and Intrahepatic Bile Duct,5847
+1364,IN,Lung and Bronchus,82187
+1365,IN,Lymphomas,23689
+1366,IN,Male Breast,565
+1367,IN,Male Genital System,62459
+1368,IN,Male and Female Breast,70346
+1369,IN,"Male and Female Breast, In Situ",15370
+1370,IN,Melanoma of the Skin,18075
+1371,IN,Mesothelioma,1094
+1372,IN,Miscellaneous,17116
+1373,IN,Myeloma,6469
+1374,IN,NHL - Extranodal,5557
+1375,IN,NHL - Nodal,15143
+1376,IN,Nasopharynx,459
+1377,IN,Non-Hodgkin Lymphoma,20700
+1378,IN,"Nose, Nasal Cavity and Middle Ear",713
+1379,IN,Oral Cavity and Pharynx,11838
+1380,IN,Oropharynx,519
+1381,IN,Other Acute Leukemia,279
+1382,IN,Other Biliary,1914
+1383,IN,Other Digestive Organs,365
+1384,IN,Other Endocrine including Thymus,780
+1385,IN,Other Female Genital Organs,477
+1386,IN,Other Leukemias,1574
+1387,IN,Other Lymphocytic Leukemia,400
+1388,IN,Other Myeloid/Monocytic Leukemia,17
+1389,IN,Other Non-Epithelial Skin,1463
+1390,IN,Other Oral Cavity and Pharynx,347
+1391,IN,Other Urinary Organs,260
+1392,IN,Ovary,7146
+1393,IN,Pancreas,12701
+1394,IN,Penis,396
+1395,IN,"Peritoneum, Omentum and Mesentery",591
+1396,IN,Prostate,59280
+1397,IN,Rectosigmoid Junction,3569
+1398,IN,Rectum,10807
+1399,IN,Rectum and Rectosigmoid Junction,14376
+1400,IN,Respiratory System,87912
+1401,IN,Retroperitoneum,420
+1402,IN,Salivary Gland,1252
+1403,IN,Sigmoid Colon,10190
+1404,IN,Skin excluding Basal and Squamous,19538
+1405,IN,Small Intestine,2431
+1406,IN,Soft Tissue including Heart,3138
+1407,IN,Splenic Flexure,1186
+1408,IN,Stomach,5821
+1409,IN,Testis,2667
+1410,IN,Thyroid,9859
+1411,IN,Tongue,3250
+1412,IN,Tonsil,2236
+1413,IN,"Trachea, Mediastinum and Other Respiratory Organs",53
+1414,IN,Transverse Colon,3569
+1415,IN,Ureter,663
+1416,IN,"Urinary Bladder, invasive and in situ",22333
+1417,IN,Urinary System,41141
+1418,IN,"Uterus, NOS",204
+1419,IN,Vagina,437
+1420,IN,Vulva,1614
+1421,KS,Acute Lymphocytic Leukemia,661
+1422,KS,Acute Myeloid Leukemia,1939
+1423,KS,"Aleukemic, Subleukemic and NOS",69
+1424,KS,"Anus, Anal Canal and Anorectum",712
+1425,KS,Appendix,367
+1426,KS,Ascending Colon,3374
+1427,KS,Bones and Joints,493
+1428,KS,Brain,2923
+1429,KS,Brain and Other Nervous System,3135
+1430,KS,Cecum,3705
+1431,KS,Cervix Uteri,1678
+1432,KS,Chronic Lymphocytic Leukemia,2463
+1433,KS,Chronic Myeloid Leukemia,853
+1434,KS,Colon and Rectum,22688
+1435,KS,Colon excluding Rectum,16607
+1436,KS,Corpus Uteri,5878
+1437,KS,Cranial Nerves Other Nervous System,57
+1438,KS,Descending Colon,853
+1439,KS,Digestive System,37795
+1440,KS,Endocrine System,6119
+1441,KS,Esophagus,2028
+1442,KS,Eye and Orbit,422
+1443,KS,Female Breast,31479
+1444,KS,"Female Breast, In Situ",6346
+1445,KS,Female Genital System,11931
+1446,KS,Floor of Mouth,209
+1447,KS,Gallbladder,417
+1448,KS,Gum and Other Mouth,733
+1449,KS,Hepatic Flexure,828
+1450,KS,Hodgkin - Nodal,1102
+1451,KS,Hodgkin Lymphoma,1150
+1452,KS,Hypopharynx,167
+1453,KS,Intrahepatic Bile Duct,175
+1454,KS,Kidney and Renal Pelvis,7188
+1455,KS,"Large Intestine, NOS",1023
+1456,KS,Larynx,1776
+1457,KS,Leukemias,6761
+1458,KS,Lip,538
+1459,KS,Liver,2009
+1460,KS,Liver and Intrahepatic Bile Duct,2281
+1461,KS,Lung and Bronchus,30062
+1462,KS,Lymphomas,10588
+1463,KS,Male Breast,166
+1464,KS,Male Genital System,33592
+1465,KS,Male and Female Breast,31737
+1466,KS,"Male and Female Breast, In Situ",6371
+1467,KS,Melanoma of the Skin,9879
+1468,KS,Mesothelioma,343
+1469,KS,Miscellaneous,8460
+1470,KS,Myeloma,2826
+1471,KS,NHL - Extranodal,3164
+1472,KS,NHL - Nodal,6274
+1473,KS,Nasopharynx,53
+1474,KS,Non-Hodgkin Lymphoma,9438
+1475,KS,"Nose, Nasal Cavity and Middle Ear",286
+1476,KS,Oral Cavity and Pharynx,5167
+1477,KS,Oropharynx,55
+1478,KS,Other Biliary,674
+1479,KS,Other Digestive Organs,16
+1480,KS,Other Endocrine including Thymus,250
+1481,KS,Other Female Genital Organs,97
+1482,KS,Other Leukemias,845
+1483,KS,Other Lymphocytic Leukemia,236
+1484,KS,Other Non-Epithelial Skin,915
+1485,KS,Ovary,3114
+1486,KS,Pancreas,5003
+1487,KS,Penis,18
+1488,KS,"Peritoneum, Omentum and Mesentery",163
+1489,KS,Prostate,32125
+1490,KS,Rectosigmoid Junction,1470
+1491,KS,Rectum,4611
+1492,KS,Rectum and Rectosigmoid Junction,6081
+1493,KS,Respiratory System,32271
+1494,KS,Retroperitoneum,37
+1495,KS,Salivary Gland,671
+1496,KS,Sigmoid Colon,4516
+1497,KS,Skin excluding Basal and Squamous,10794
+1498,KS,Small Intestine,926
+1499,KS,Soft Tissue including Heart,1537
+1500,KS,Splenic Flexure,499
+1501,KS,Stomach,2505
+1502,KS,Testis,1252
+1503,KS,Thyroid,5819
+1504,KS,Tongue,1398
+1505,KS,Tonsil,792
+1506,KS,Transverse Colon,1405
+1507,KS,Ureter,275
+1508,KS,"Urinary Bladder, invasive and in situ",10215
+1509,KS,Urinary System,17849
+1510,KS,"Uterus, NOS",109
+1511,KS,Vulva,655
+1512,KY,Acute Lymphocytic Leukemia,925
+1513,KY,Acute Monocytic Leukemia,75
+1514,KY,Acute Myeloid Leukemia,2770
+1515,KY,"Aleukemic, Subleukemic and NOS",399
+1516,KY,"Anus, Anal Canal and Anorectum",1404
+1517,KY,Appendix,665
+1518,KY,Ascending Colon,5139
+1519,KY,Bones and Joints,666
+1520,KY,Brain,4803
+1521,KY,Brain and Other Nervous System,5129
+1522,KY,Cecum,6355
+1523,KY,Cervix Uteri,3379
+1524,KY,Chronic Lymphocytic Leukemia,3939
+1525,KY,Chronic Myeloid Leukemia,1326
+1526,KY,Colon and Rectum,40294
+1527,KY,Colon excluding Rectum,28674
+1528,KY,Corpus Uteri,9412
+1529,KY,Cranial Nerves Other Nervous System,312
+1530,KY,Descending Colon,1606
+1531,KY,Digestive System,67744
+1532,KY,Endocrine System,8447
+1533,KY,Esophagus,3716
+1534,KY,Eye and Orbit,744
+1535,KY,Female Breast,48537
+1536,KY,"Female Breast, In Situ",9705
+1537,KY,Female Genital System,19701
+1538,KY,Floor of Mouth,616
+1539,KY,Gallbladder,794
+1540,KY,Gum and Other Mouth,1408
+1541,KY,Hepatic Flexure,1511
+1542,KY,Hodgkin - Nodal,1875
+1543,KY,Hodgkin Lymphoma,1925
+1544,KY,Hypopharynx,629
+1545,KY,Intrahepatic Bile Duct,479
+1546,KY,Kaposi Sarcoma,18
+1547,KY,Kidney and Renal Pelvis,13152
+1548,KY,"Large Intestine, NOS",1673
+1549,KY,Larynx,4401
+1550,KY,Leukemias,10212
+1551,KY,Lip,919
+1552,KY,Liver,3822
+1553,KY,Liver and Intrahepatic Bile Duct,4343
+1554,KY,Lung and Bronchus,73029
+1555,KY,Lymphomas,16584
+1556,KY,Male Breast,282
+1557,KY,Male Genital System,47398
+1558,KY,Male and Female Breast,48848
+1559,KY,"Male and Female Breast, In Situ",9741
+1560,KY,Melanoma of the Skin,16379
+1561,KY,Mesothelioma,582
+1562,KY,Miscellaneous,13746
+1563,KY,Myeloma,4561
+1564,KY,NHL - Extranodal,4591
+1565,KY,NHL - Nodal,10068
+1566,KY,Nasopharynx,378
+1567,KY,Non-Hodgkin Lymphoma,14659
+1568,KY,"Nose, Nasal Cavity and Middle Ear",603
+1569,KY,Oral Cavity and Pharynx,9655
+1570,KY,Oropharynx,342
+1571,KY,Other Acute Leukemia,56
+1572,KY,Other Biliary,1239
+1573,KY,Other Digestive Organs,192
+1574,KY,Other Endocrine including Thymus,440
+1575,KY,Other Female Genital Organs,274
+1576,KY,Other Leukemias,1252
+1577,KY,Other Lymphocytic Leukemia,204
+1578,KY,Other Non-Epithelial Skin,1028
+1579,KY,Other Oral Cavity and Pharynx,164
+1580,KY,Other Urinary Organs,136
+1581,KY,Ovary,4666
+1582,KY,Pancreas,8634
+1583,KY,Penis,418
+1584,KY,"Peritoneum, Omentum and Mesentery",491
+1585,KY,Prostate,45178
+1586,KY,Rectosigmoid Junction,3078
+1587,KY,Rectum,8542
+1588,KY,Rectum and Rectosigmoid Junction,11620
+1589,KY,Respiratory System,78212
+1590,KY,Retroperitoneum,256
+1591,KY,Salivary Gland,814
+1592,KY,Sigmoid Colon,7996
+1593,KY,Skin excluding Basal and Squamous,17407
+1594,KY,Small Intestine,1790
+1595,KY,Soft Tissue including Heart,2130
+1596,KY,Splenic Flexure,978
+1597,KY,Stomach,4478
+1598,KY,Testis,1744
+1599,KY,Thyroid,8007
+1600,KY,Tongue,2355
+1601,KY,Tonsil,1877
+1602,KY,"Trachea, Mediastinum and Other Respiratory Organs",16
+1603,KY,Transverse Colon,2751
+1604,KY,Ureter,494
+1605,KY,"Urinary Bladder, invasive and in situ",16254
+1606,KY,Urinary System,30128
+1607,KY,"Uterus, NOS",56
+1608,KY,Vagina,325
+1609,KY,Vulva,1302
+1610,LA,Acute Lymphocytic Leukemia,914
+1611,LA,Acute Monocytic Leukemia,17
+1612,LA,Acute Myeloid Leukemia,2705
+1613,LA,"Aleukemic, Subleukemic and NOS",407
+1614,LA,"Anus, Anal Canal and Anorectum",1174
+1615,LA,Appendix,388
+1616,LA,Ascending Colon,5118
+1617,LA,Bones and Joints,613
+1618,LA,Brain,4068
+1619,LA,Brain and Other Nervous System,4305
+1620,LA,Cecum,5721
+1621,LA,Cervix Uteri,3564
+1622,LA,Chronic Lymphocytic Leukemia,3034
+1623,LA,Chronic Myeloid Leukemia,1342
+1624,LA,Colon and Rectum,38707
+1625,LA,Colon excluding Rectum,27709
+1626,LA,Corpus Uteri,6961
+1627,LA,Cranial Nerves Other Nervous System,134
+1628,LA,Descending Colon,1977
+1629,LA,Digestive System,69013
+1630,LA,Endocrine System,7562
+1631,LA,Esophagus,3712
+1632,LA,Eye and Orbit,515
+1633,LA,Female Breast,48368
+1634,LA,"Female Breast, In Situ",9383
+1635,LA,Female Genital System,16866
+1636,LA,Floor of Mouth,626
+1637,LA,Gallbladder,832
+1638,LA,Gum and Other Mouth,1442
+1639,LA,Hepatic Flexure,1328
+1640,LA,Hodgkin - Nodal,1995
+1641,LA,Hodgkin Lymphoma,2053
+1642,LA,Hypopharynx,721
+1643,LA,Intrahepatic Bile Duct,304
+1644,LA,Kaposi Sarcoma,346
+1645,LA,Kidney and Renal Pelvis,13996
+1646,LA,"Large Intestine, NOS",1603
+1647,LA,Larynx,4197
+1648,LA,Leukemias,9299
+1649,LA,Lip,576
+1650,LA,Liver,5174
+1651,LA,Liver and Intrahepatic Bile Duct,5528
+1652,LA,Lung and Bronchus,55682
+1653,LA,Lymphomas,16264
+1654,LA,Male Breast,416
+1655,LA,Male Genital System,56403
+1656,LA,Male and Female Breast,48784
+1657,LA,"Male and Female Breast, In Situ",9445
+1658,LA,Melanoma of the Skin,9924
+1659,LA,Mesothelioma,962
+1660,LA,Miscellaneous,12854
+1661,LA,Myeloma,5024
+1662,LA,NHL - Extranodal,4602
+1663,LA,NHL - Nodal,9609
+1664,LA,Nasopharynx,501
+1665,LA,Non-Hodgkin Lymphoma,14211
+1666,LA,"Nose, Nasal Cavity and Middle Ear",542
+1667,LA,Oral Cavity and Pharynx,9366
+1668,LA,Oropharynx,376
+1669,LA,Other Acute Leukemia,143
+1670,LA,Other Biliary,1109
+1671,LA,Other Digestive Organs,144
+1672,LA,Other Endocrine including Thymus,548
+1673,LA,Other Female Genital Organs,172
+1674,LA,Other Leukemias,1304
+1675,LA,Other Lymphocytic Leukemia,288
+1676,LA,Other Myeloid/Monocytic Leukemia,35
+1677,LA,Other Non-Epithelial Skin,1195
+1678,LA,Other Oral Cavity and Pharynx,182
+1679,LA,Other Urinary Organs,112
+1680,LA,Ovary,4371
+1681,LA,Pancreas,9608
+1682,LA,Penis,306
+1683,LA,"Peritoneum, Omentum and Mesentery",230
+1684,LA,Prostate,54463
+1685,LA,Rectosigmoid Junction,2758
+1686,LA,Rectum,8240
+1687,LA,Rectum and Rectosigmoid Junction,10998
+1688,LA,Respiratory System,60589
+1689,LA,Retroperitoneum,107
+1690,LA,Salivary Gland,845
+1691,LA,Sigmoid Colon,8049
+1692,LA,Skin excluding Basal and Squamous,11119
+1693,LA,Small Intestine,1821
+1694,LA,Soft Tissue including Heart,2519
+1695,LA,Splenic Flexure,998
+1696,LA,Stomach,5763
+1697,LA,Testis,1523
+1698,LA,Thyroid,7014
+1699,LA,Tongue,2452
+1700,LA,Tonsil,1553
+1701,LA,"Trachea, Mediastinum and Other Respiratory Organs",18
+1702,LA,Transverse Colon,2483
+1703,LA,Ureter,467
+1704,LA,"Urinary Bladder, invasive and in situ",13762
+1705,LA,Urinary System,28453
+1706,LA,"Uterus, NOS",175
+1707,LA,Vagina,360
+1708,LA,Vulva,1070
+1709,MA,Acute Lymphocytic Leukemia,1479
+1710,MA,Acute Monocytic Leukemia,234
+1711,MA,Acute Myeloid Leukemia,4287
+1712,MA,"Aleukemic, Subleukemic and NOS",529
+1713,MA,"Anus, Anal Canal and Anorectum",1849
+1714,MA,Appendix,920
+1715,MA,Ascending Colon,7351
+1716,MA,Bones and Joints,985
+1717,MA,Brain,7385
+1718,MA,Brain and Other Nervous System,7873
+1719,MA,Cecum,8984
+1720,MA,Cervix Uteri,3371
+1721,MA,Chronic Lymphocytic Leukemia,4825
+1722,MA,Chronic Myeloid Leukemia,1706
+1723,MA,Colon and Rectum,55677
+1724,MA,Colon excluding Rectum,39946
+1725,MA,Corpus Uteri,18029
+1726,MA,Cranial Nerves Other Nervous System,488
+1727,MA,Descending Colon,2275
+1728,MA,Digestive System,103387
+1729,MA,Endocrine System,18254
+1730,MA,Esophagus,7168
+1731,MA,Eye and Orbit,1099
+1732,MA,Female Breast,84995
+1733,MA,"Female Breast, In Situ",27557
+1734,MA,Female Genital System,33025
+1735,MA,Floor of Mouth,873
+1736,MA,Gallbladder,1404
+1737,MA,Gum and Other Mouth,1931
+1738,MA,Hepatic Flexure,1977
+1739,MA,Hodgkin - Nodal,3323
+1740,MA,Hodgkin Lymphoma,3417
+1741,MA,Hypopharynx,1033
+1742,MA,Intrahepatic Bile Duct,1021
+1743,MA,Kaposi Sarcoma,477
+1744,MA,Kidney and Renal Pelvis,17524
+1745,MA,"Large Intestine, NOS",2764
+1746,MA,Larynx,4428
+1747,MA,Leukemias,14212
+1748,MA,Lip,561
+1749,MA,Liver,7065
+1750,MA,Liver and Intrahepatic Bile Duct,8086
+1751,MA,Lung and Bronchus,79843
+1752,MA,Lymphomas,26321
+1753,MA,Male Breast,687
+1754,MA,Male Genital System,82589
+1755,MA,Male and Female Breast,85682
+1756,MA,"Male and Female Breast, In Situ",27638
+1757,MA,Melanoma of the Skin,24299
+1758,MA,Mesothelioma,1527
+1759,MA,Miscellaneous,18570
+1760,MA,Myeloma,6796
+1761,MA,NHL - Extranodal,7631
+1762,MA,NHL - Nodal,15273
+1763,MA,Nasopharynx,660
+1764,MA,Non-Hodgkin Lymphoma,22904
+1765,MA,"Nose, Nasal Cavity and Middle Ear",730
+1766,MA,Oral Cavity and Pharynx,13345
+1767,MA,Oropharynx,552
+1768,MA,Other Acute Leukemia,309
+1769,MA,Other Biliary,2140
+1770,MA,Other Digestive Organs,654
+1771,MA,Other Endocrine including Thymus,858
+1772,MA,Other Female Genital Organs,776
+1773,MA,Other Leukemias,1915
+1774,MA,Other Lymphocytic Leukemia,520
+1775,MA,Other Myeloid/Monocytic Leukemia,116
+1776,MA,Other Non-Epithelial Skin,2157
+1777,MA,Other Oral Cavity and Pharynx,405
+1778,MA,Other Urinary Organs,410
+1779,MA,Ovary,8213
+1780,MA,Pancreas,14464
+1781,MA,Penis,501
+1782,MA,"Peritoneum, Omentum and Mesentery",715
+1783,MA,Prostate,78734
+1784,MA,Rectosigmoid Junction,4156
+1785,MA,Rectum,11575
+1786,MA,Rectum and Rectosigmoid Junction,15731
+1787,MA,Respiratory System,85299
+1788,MA,Retroperitoneum,382
+1789,MA,Salivary Gland,1364
+1790,MA,Sigmoid Colon,10680
+1791,MA,Skin excluding Basal and Squamous,26456
+1792,MA,Small Intestine,2309
+1793,MA,Soft Tissue including Heart,3416
+1794,MA,Splenic Flexure,1300
+1795,MA,Stomach,8509
+1796,MA,Testis,3243
+1797,MA,Thyroid,17396
+1798,MA,Tongue,3897
+1799,MA,Tonsil,2033
+1800,MA,"Trachea, Mediastinum and Other Respiratory Organs",177
+1801,MA,Transverse Colon,3695
+1802,MA,Ureter,732
+1803,MA,"Urinary Bladder, invasive and in situ",29591
+1804,MA,Urinary System,48257
+1805,MA,"Uterus, NOS",427
+1806,MA,Vagina,404
+1807,MA,Vulva,1791
+1808,MD,Acute Lymphocytic Leukemia,1118
+1809,MD,Acute Monocytic Leukemia,54
+1810,MD,Acute Myeloid Leukemia,3328
+1811,MD,"Aleukemic, Subleukemic and NOS",579
+1812,MD,"Anus, Anal Canal and Anorectum",1492
+1813,MD,Appendix,743
+1814,MD,Ascending Colon,5633
+1815,MD,Bones and Joints,922
+1816,MD,Brain,5413
+1817,MD,Brain and Other Nervous System,5929
+1818,MD,Cecum,6309
+1819,MD,Cervix Uteri,3536
+1820,MD,Chronic Lymphocytic Leukemia,3059
+1821,MD,Chronic Myeloid Leukemia,1182
+1822,MD,Colon and Rectum,41133
+1823,MD,Colon excluding Rectum,30225
+1824,MD,Corpus Uteri,12188
+1825,MD,Cranial Nerves Other Nervous System,516
+1826,MD,Descending Colon,1856
+1827,MD,Digestive System,76704
+1828,MD,Endocrine System,12385
+1829,MD,Esophagus,4579
+1830,MD,Eye and Orbit,585
+1831,MD,Female Breast,67111
+1832,MD,"Female Breast, In Situ",16766
+1833,MD,Female Genital System,24471
+1834,MD,Floor of Mouth,560
+1835,MD,Gallbladder,1001
+1836,MD,Gum and Other Mouth,1402
+1837,MD,Hepatic Flexure,1335
+1838,MD,Hodgkin - Nodal,2421
+1839,MD,Hodgkin Lymphoma,2493
+1840,MD,Hypopharynx,705
+1841,MD,Intrahepatic Bile Duct,720
+1842,MD,Kaposi Sarcoma,414
+1843,MD,Kidney and Renal Pelvis,13187
+1844,MD,"Large Intestine, NOS",3369
+1845,MD,Larynx,3525
+1846,MD,Leukemias,10358
+1847,MD,Lip,297
+1848,MD,Liver,5381
+1849,MD,Liver and Intrahepatic Bile Duct,6101
+1850,MD,Lung and Bronchus,59200
+1851,MD,Lymphomas,18740
+1852,MD,Male Breast,733
+1853,MD,Male Genital System,68843
+1854,MD,Male and Female Breast,67844
+1855,MD,"Male and Female Breast, In Situ",16867
+1856,MD,Melanoma of the Skin,19138
+1857,MD,Mesothelioma,860
+1858,MD,Miscellaneous,14415
+1859,MD,Myeloma,5759
+1860,MD,NHL - Extranodal,5363
+1861,MD,NHL - Nodal,10884
+1862,MD,Nasopharynx,510
+1863,MD,Non-Hodgkin Lymphoma,16247
+1864,MD,"Nose, Nasal Cavity and Middle Ear",677
+1865,MD,Oral Cavity and Pharynx,9886
+1866,MD,Oropharynx,494
+1867,MD,Other Acute Leukemia,339
+1868,MD,Other Biliary,1452
+1869,MD,Other Digestive Organs,390
+1870,MD,Other Endocrine including Thymus,803
+1871,MD,Other Female Genital Organs,473
+1872,MD,Other Leukemias,1671
+1873,MD,Other Lymphocytic Leukemia,322
+1874,MD,Other Myeloid/Monocytic Leukemia,89
+1875,MD,Other Non-Epithelial Skin,1387
+1876,MD,Other Oral Cavity and Pharynx,135
+1877,MD,Other Urinary Organs,204
+1878,MD,Ovary,6036
+1879,MD,Pancreas,11246
+1880,MD,Penis,192
+1881,MD,"Peritoneum, Omentum and Mesentery",625
+1882,MD,Prostate,66506
+1883,MD,Rectosigmoid Junction,3109
+1884,MD,Rectum,7799
+1885,MD,Rectum and Rectosigmoid Junction,10908
+1886,MD,Respiratory System,63670
+1887,MD,Retroperitoneum,403
+1888,MD,Salivary Gland,1186
+1889,MD,Sigmoid Colon,7383
+1890,MD,Skin excluding Basal and Squamous,20525
+1891,MD,Small Intestine,2110
+1892,MD,Soft Tissue including Heart,2855
+1893,MD,Splenic Flexure,914
+1894,MD,Stomach,6146
+1895,MD,Testis,1977
+1896,MD,Thyroid,11582
+1897,MD,Tongue,2893
+1898,MD,Tonsil,1562
+1899,MD,"Trachea, Mediastinum and Other Respiratory Organs",75
+1900,MD,Transverse Colon,2683
+1901,MD,Ureter,457
+1902,MD,"Urinary Bladder, invasive and in situ",18244
+1903,MD,Urinary System,32201
+1904,MD,"Uterus, NOS",556
+1905,MD,Vagina,432
+1906,MD,Vulva,1236
+1907,ME,Acute Lymphocytic Leukemia,249
+1908,ME,Acute Myeloid Leukemia,1104
+1909,ME,"Anus, Anal Canal and Anorectum",481
+1910,ME,Appendix,140
+1911,ME,Ascending Colon,1702
+1912,ME,Bones and Joints,106
+1913,ME,Brain,1720
+1914,ME,Brain and Other Nervous System,1831
+1915,ME,Cecum,2047
+1916,ME,Cervix Uteri,809
+1917,ME,Chronic Lymphocytic Leukemia,1656
+1918,ME,Chronic Myeloid Leukemia,398
+1919,ME,Colon and Rectum,12636
+1920,ME,Colon excluding Rectum,9104
+1921,ME,Corpus Uteri,4223
+1922,ME,Descending Colon,441
+1923,ME,Digestive System,22684
+1924,ME,Endocrine System,2792
+1925,ME,Esophagus,1733
+1926,ME,Eye and Orbit,251
+1927,ME,Female Breast,17678
+1928,ME,"Female Breast, In Situ",4476
+1929,ME,Female Genital System,7530
+1930,ME,Floor of Mouth,133
+1931,ME,Gallbladder,209
+1932,ME,Gum and Other Mouth,430
+1933,ME,Hepatic Flexure,415
+1934,ME,Hodgkin - Nodal,681
+1935,ME,Hodgkin Lymphoma,700
+1936,ME,Hypopharynx,74
+1937,ME,Intrahepatic Bile Duct,81
+1938,ME,Kidney and Renal Pelvis,3933
+1939,ME,"Large Intestine, NOS",690
+1940,ME,Larynx,1108
+1941,ME,Leukemias,3856
+1942,ME,Lip,204
+1943,ME,Liver,1079
+1944,ME,Liver and Intrahepatic Bile Duct,1262
+1945,ME,Lung and Bronchus,20277
+1946,ME,Lymphomas,5977
+1947,ME,Male Breast,16
+1948,ME,Male Genital System,18042
+1949,ME,Male and Female Breast,17852
+1950,ME,"Male and Female Breast, In Situ",4487
+1951,ME,Melanoma of the Skin,5525
+1952,ME,Mesothelioma,402
+1953,ME,Miscellaneous,5397
+1954,ME,Myeloma,1512
+1955,ME,NHL - Extranodal,1669
+1956,ME,NHL - Nodal,3608
+1957,ME,Non-Hodgkin Lymphoma,5277
+1958,ME,"Nose, Nasal Cavity and Middle Ear",51
+1959,ME,Oral Cavity and Pharynx,3176
+1960,ME,Other Biliary,449
+1961,ME,Other Endocrine including Thymus,16
+1962,ME,Other Female Genital Organs,60
+1963,ME,Other Leukemias,356
+1964,ME,Other Non-Epithelial Skin,458
+1965,ME,Ovary,1632
+1966,ME,Pancreas,3295
+1967,ME,"Peritoneum, Omentum and Mesentery",87
+1968,ME,Prostate,17247
+1969,ME,Rectosigmoid Junction,975
+1970,ME,Rectum,2557
+1971,ME,Rectum and Rectosigmoid Junction,3532
+1972,ME,Respiratory System,21634
+1973,ME,Salivary Gland,251
+1974,ME,Sigmoid Colon,2340
+1975,ME,Skin excluding Basal and Squamous,5995
+1976,ME,Small Intestine,621
+1977,ME,Soft Tissue including Heart,718
+1978,ME,Splenic Flexure,157
+1979,ME,Stomach,1528
+1980,ME,Testis,626
+1981,ME,Thyroid,2625
+1982,ME,Tongue,837
+1983,ME,Tonsil,629
+1984,ME,Transverse Colon,943
+1985,ME,Ureter,17
+1986,ME,"Urinary Bladder, invasive and in situ",7409
+1987,ME,Urinary System,11571
+1988,ME,Vulva,480
+1989,MI,Acute Lymphocytic Leukemia,2338
+1990,MI,Acute Monocytic Leukemia,330
+1991,MI,Acute Myeloid Leukemia,6971
+1992,MI,"Aleukemic, Subleukemic and NOS",839
+1993,MI,"Anus, Anal Canal and Anorectum",2625
+1994,MI,Appendix,1353
+1995,MI,Ascending Colon,11337
+1996,MI,Bones and Joints,1657
+1997,MI,Brain,10951
+1998,MI,Brain and Other Nervous System,11772
+1999,MI,Cecum,12717
+2000,MI,Cervix Uteri,6208
+2001,MI,Chronic Lymphocytic Leukemia,8301
+2002,MI,Chronic Myeloid Leukemia,3087
+2003,MI,Colon and Rectum,79895
+2004,MI,Colon excluding Rectum,57896
+2005,MI,Corpus Uteri,25593
+2006,MI,Cranial Nerves Other Nervous System,821
+2007,MI,Descending Colon,3286
+2008,MI,Digestive System,147354
+2009,MI,Endocrine System,18542
+2010,MI,Esophagus,9722
+2011,MI,Eye and Orbit,1275
+2012,MI,Female Breast,115771
+2013,MI,"Female Breast, In Situ",30617
+2014,MI,Female Genital System,49519
+2015,MI,Floor of Mouth,1337
+2016,MI,Gallbladder,1877
+2017,MI,Gum and Other Mouth,3167
+2018,MI,Hepatic Flexure,2658
+2019,MI,Hodgkin - Extranodal,54
+2020,MI,Hodgkin - Nodal,4690
+2021,MI,Hodgkin Lymphoma,4842
+2022,MI,Hypopharynx,1358
+2023,MI,Intrahepatic Bile Duct,1185
+2024,MI,Kaposi Sarcoma,452
+2025,MI,Kidney and Renal Pelvis,26830
+2026,MI,"Large Intestine, NOS",5224
+2027,MI,Larynx,7423
+2028,MI,Leukemias,23630
+2029,MI,Lip,990
+2030,MI,Liver,9384
+2031,MI,Liver and Intrahepatic Bile Duct,10569
+2032,MI,Lung and Bronchus,124084
+2033,MI,Lymphomas,40534
+2034,MI,Male Breast,1162
+2035,MI,"Male Breast, In Situ",17
+2036,MI,Male Genital System,135329
+2037,MI,Male and Female Breast,116933
+2038,MI,"Male and Female Breast, In Situ",30791
+2039,MI,Melanoma of the Skin,31628
+2040,MI,Mesothelioma,1901
+2041,MI,Miscellaneous,29404
+2042,MI,Myeloma,10937
+2043,MI,NHL - Extranodal,12468
+2044,MI,NHL - Nodal,23224
+2045,MI,Nasopharynx,781
+2046,MI,Non-Hodgkin Lymphoma,35692
+2047,MI,"Nose, Nasal Cavity and Middle Ear",1178
+2048,MI,Oral Cavity and Pharynx,19901
+2049,MI,Oropharynx,833
+2050,MI,Other Acute Leukemia,553
+2051,MI,Other Biliary,3008
+2052,MI,Other Digestive Organs,722
+2053,MI,Other Endocrine including Thymus,1215
+2054,MI,Other Female Genital Organs,756
+2055,MI,Other Leukemias,2933
+2056,MI,Other Lymphocytic Leukemia,784
+2057,MI,Other Male Genital Organs,50
+2058,MI,Other Myeloid/Monocytic Leukemia,399
+2059,MI,Other Non-Epithelial Skin,3203
+2060,MI,Other Oral Cavity and Pharynx,597
+2061,MI,Other Urinary Organs,800
+2062,MI,Ovary,12476
+2063,MI,Pancreas,21800
+2064,MI,Penis,628
+2065,MI,"Peritoneum, Omentum and Mesentery",999
+2066,MI,Prostate,130171
+2067,MI,Rectosigmoid Junction,5829
+2068,MI,Rectum,16170
+2069,MI,Rectum and Rectosigmoid Junction,21999
+2070,MI,Respiratory System,133140
+2071,MI,Retroperitoneum,701
+2072,MI,Salivary Gland,2166
+2073,MI,Sigmoid Colon,14496
+2074,MI,Skin excluding Basal and Squamous,34831
+2075,MI,Small Intestine,3762
+2076,MI,Soft Tissue including Heart,5487
+2077,MI,Splenic Flexure,1646
+2078,MI,Stomach,11674
+2079,MI,Testis,4341
+2080,MI,Thyroid,17327
+2081,MI,Tongue,5597
+2082,MI,Tonsil,3075
+2083,MI,"Trachea, Mediastinum and Other Respiratory Organs",367
+2084,MI,Transverse Colon,5179
+2085,MI,Ureter,1074
+2086,MI,"Urinary Bladder, invasive and in situ",40669
+2087,MI,Urinary System,69373
+2088,MI,"Uterus, NOS",993
+2089,MI,Vagina,754
+2090,MI,Vulva,2739
+2091,MN,Acute Lymphocytic Leukemia,1192
+2092,MN,Acute Monocytic Leukemia,126
+2093,MN,Acute Myeloid Leukemia,3450
+2094,MN,"Aleukemic, Subleukemic and NOS",355
+2095,MN,"Anus, Anal Canal and Anorectum",1134
+2096,MN,Appendix,762
+2097,MN,Ascending Colon,5589
+2098,MN,Bones and Joints,843
+2099,MN,Brain,5343
+2100,MN,Brain and Other Nervous System,5697
+2101,MN,Cecum,6649
+2102,MN,Cervix Uteri,2608
+2103,MN,Chronic Lymphocytic Leukemia,5720
+2104,MN,Chronic Myeloid Leukemia,1800
+2105,MN,Colon and Rectum,39001
+2106,MN,Colon excluding Rectum,28521
+2107,MN,Corpus Uteri,12937
+2108,MN,Cranial Nerves Other Nervous System,324
+2109,MN,Descending Colon,1402
+2110,MN,Digestive System,68261
+2111,MN,Endocrine System,9306
+2112,MN,Esophagus,4283
+2113,MN,Eye and Orbit,592
+2114,MN,Female Breast,60012
+2115,MN,"Female Breast, In Situ",13580
+2116,MN,Female Genital System,23548
+2117,MN,Floor of Mouth,624
+2118,MN,Gallbladder,1017
+2119,MN,Gum and Other Mouth,1529
+2120,MN,Hepatic Flexure,1792
+2121,MN,Hodgkin - Nodal,2458
+2122,MN,Hodgkin Lymphoma,2517
+2123,MN,Hypopharynx,588
+2124,MN,Intrahepatic Bile Duct,663
+2125,MN,Kidney and Renal Pelvis,13094
+2126,MN,"Large Intestine, NOS",1315
+2127,MN,Larynx,2751
+2128,MN,Leukemias,13548
+2129,MN,Lip,1144
+2130,MN,Liver,3404
+2131,MN,Liver and Intrahepatic Bile Duct,4067
+2132,MN,Lung and Bronchus,48398
+2133,MN,Lymphomas,21374
+2134,MN,Male Breast,458
+2135,MN,Male Genital System,67609
+2136,MN,Male and Female Breast,60470
+2137,MN,"Male and Female Breast, In Situ",13635
+2138,MN,Melanoma of the Skin,20084
+2139,MN,Mesothelioma,1079
+2140,MN,Miscellaneous,13688
+2141,MN,Myeloma,5055
+2142,MN,NHL - Extranodal,5792
+2143,MN,NHL - Nodal,13065
+2144,MN,Nasopharynx,314
+2145,MN,Non-Hodgkin Lymphoma,18857
+2146,MN,"Nose, Nasal Cavity and Middle Ear",537
+2147,MN,Oral Cavity and Pharynx,9982
+2148,MN,Oropharynx,247
+2149,MN,Other Acute Leukemia,53
+2150,MN,Other Biliary,1328
+2151,MN,Other Digestive Organs,353
+2152,MN,Other Endocrine including Thymus,538
+2153,MN,Other Female Genital Organs,627
+2154,MN,Other Leukemias,1386
+2155,MN,Other Lymphocytic Leukemia,383
+2156,MN,Other Non-Epithelial Skin,2088
+2157,MN,Other Urinary Organs,183
+2158,MN,Ovary,5594
+2159,MN,Pancreas,9021
+2160,MN,Penis,389
+2161,MN,"Peritoneum, Omentum and Mesentery",805
+2162,MN,Prostate,64183
+2163,MN,Rectosigmoid Junction,2119
+2164,MN,Rectum,8361
+2165,MN,Rectum and Rectosigmoid Junction,10480
+2166,MN,Respiratory System,51879
+2167,MN,Retroperitoneum,244
+2168,MN,Salivary Gland,1044
+2169,MN,Sigmoid Colon,7018
+2170,MN,Skin excluding Basal and Squamous,22172
+2171,MN,Small Intestine,2017
+2172,MN,Soft Tissue including Heart,2740
+2173,MN,Splenic Flexure,975
+2174,MN,Stomach,4899
+2175,MN,Testis,2893
+2176,MN,Thyroid,8768
+2177,MN,Tongue,2708
+2178,MN,Tonsil,1564
+2179,MN,Transverse Colon,3019
+2180,MN,Ureter,532
+2181,MN,"Urinary Bladder, invasive and in situ",19392
+2182,MN,Urinary System,33291
+2183,MN,"Uterus, NOS",41
+2184,MN,Vagina,207
+2185,MN,Vulva,1311
+2186,MO,Acute Lymphocytic Leukemia,1255
+2187,MO,Acute Monocytic Leukemia,182
+2188,MO,Acute Myeloid Leukemia,4096
+2189,MO,"Aleukemic, Subleukemic and NOS",997
+2190,MO,"Anus, Anal Canal and Anorectum",1848
+2191,MO,Appendix,857
+2192,MO,Ascending Colon,7349
+2193,MO,Bones and Joints,871
+2194,MO,Brain,6414
+2195,MO,Brain and Other Nervous System,6845
+2196,MO,Cecum,8278
+2197,MO,Cervix Uteri,4174
+2198,MO,Chronic Lymphocytic Leukemia,4271
+2199,MO,Chronic Myeloid Leukemia,1655
+2200,MO,Colon and Rectum,51450
+2201,MO,Colon excluding Rectum,37904
+2202,MO,Corpus Uteri,13680
+2203,MO,Cranial Nerves Other Nervous System,431
+2204,MO,Descending Colon,2001
+2205,MO,Digestive System,89875
+2206,MO,Endocrine System,10697
+2207,MO,Esophagus,5364
+2208,MO,Eye and Orbit,893
+2209,MO,Female Breast,69100
+2210,MO,"Female Breast, In Situ",14233
+2211,MO,Female Genital System,27212
+2212,MO,Floor of Mouth,743
+2213,MO,Gallbladder,1120
+2214,MO,Gum and Other Mouth,1725
+2215,MO,Hepatic Flexure,2037
+2216,MO,Hodgkin - Nodal,2542
+2217,MO,Hodgkin Lymphoma,2613
+2218,MO,Hypopharynx,757
+2219,MO,Intrahepatic Bile Duct,799
+2220,MO,Kaposi Sarcoma,41
+2221,MO,Kidney and Renal Pelvis,16893
+2222,MO,"Large Intestine, NOS",2668
+2223,MO,Larynx,4669
+2224,MO,Leukemias,13400
+2225,MO,Lip,795
+2226,MO,Liver,5617
+2227,MO,Liver and Intrahepatic Bile Duct,6416
+2228,MO,Lung and Bronchus,81600
+2229,MO,Lymphomas,21994
+2230,MO,Male Breast,481
+2231,MO,Male Genital System,62624
+2232,MO,Male and Female Breast,69581
+2233,MO,"Male and Female Breast, In Situ",14260
+2234,MO,Melanoma of the Skin,16437
+2235,MO,Mesothelioma,848
+2236,MO,Miscellaneous,17195
+2237,MO,Myeloma,6126
+2238,MO,NHL - Extranodal,5666
+2239,MO,NHL - Nodal,13715
+2240,MO,Nasopharynx,436
+2241,MO,Non-Hodgkin Lymphoma,19381
+2242,MO,"Nose, Nasal Cavity and Middle Ear",658
+2243,MO,Oral Cavity and Pharynx,11848
+2244,MO,Oropharynx,528
+2245,MO,Other Acute Leukemia,183
+2246,MO,Other Biliary,1631
+2247,MO,Other Digestive Organs,443
+2248,MO,Other Endocrine including Thymus,633
+2249,MO,Other Female Genital Organs,508
+2250,MO,Other Leukemias,2123
+2251,MO,Other Lymphocytic Leukemia,442
+2252,MO,Other Myeloid/Monocytic Leukemia,34
+2253,MO,Other Non-Epithelial Skin,1188
+2254,MO,Other Oral Cavity and Pharynx,192
+2255,MO,Other Urinary Organs,165
+2256,MO,Ovary,6448
+2257,MO,Pancreas,12573
+2258,MO,Penis,333
+2259,MO,"Peritoneum, Omentum and Mesentery",685
+2260,MO,Prostate,59962
+2261,MO,Rectosigmoid Junction,3410
+2262,MO,Rectum,10136
+2263,MO,Rectum and Rectosigmoid Junction,13546
+2264,MO,Respiratory System,87195
+2265,MO,Retroperitoneum,352
+2266,MO,Salivary Gland,1125
+2267,MO,Sigmoid Colon,10028
+2268,MO,Skin excluding Basal and Squamous,17625
+2269,MO,Small Intestine,2253
+2270,MO,Soft Tissue including Heart,3093
+2271,MO,Splenic Flexure,1170
+2272,MO,Stomach,5725
+2273,MO,Testis,2220
+2274,MO,Thyroid,10064
+2275,MO,Tongue,3198
+2276,MO,Tonsil,2245
+2277,MO,"Trachea, Mediastinum and Other Respiratory Organs",121
+2278,MO,Transverse Colon,3516
+2279,MO,Ureter,634
+2280,MO,"Urinary Bladder, invasive and in situ",20962
+2281,MO,Urinary System,38751
+2282,MO,"Uterus, NOS",481
+2283,MO,Vagina,334
+2284,MO,Vulva,1559
+2285,MS,Acute Lymphocytic Leukemia,453
+2286,MS,Acute Myeloid Leukemia,1339
+2287,MS,"Aleukemic, Subleukemic and NOS",198
+2288,MS,"Anus, Anal Canal and Anorectum",675
+2289,MS,Appendix,271
+2290,MS,Ascending Colon,2742
+2291,MS,Bones and Joints,339
+2292,MS,Brain,2164
+2293,MS,Brain and Other Nervous System,2282
+2294,MS,Cecum,2882
+2295,MS,Cervix Uteri,1761
+2296,MS,Chronic Lymphocytic Leukemia,1356
+2297,MS,Chronic Myeloid Leukemia,566
+2298,MS,Colon and Rectum,19191
+2299,MS,Colon excluding Rectum,14239
+2300,MS,Corpus Uteri,3864
+2301,MS,Descending Colon,937
+2302,MS,Digestive System,34001
+2303,MS,Endocrine System,3592
+2304,MS,Esophagus,1862
+2305,MS,Eye and Orbit,281
+2306,MS,Female Breast,22920
+2307,MS,"Female Breast, In Situ",4559
+2308,MS,Female Genital System,8731
+2309,MS,Floor of Mouth,287
+2310,MS,Gallbladder,347
+2311,MS,Gum and Other Mouth,738
+2312,MS,Hepatic Flexure,576
+2313,MS,Hodgkin - Nodal,845
+2314,MS,Hodgkin Lymphoma,879
+2315,MS,Hypopharynx,408
+2316,MS,Intrahepatic Bile Duct,150
+2317,MS,Kaposi Sarcoma,16
+2318,MS,Kidney and Renal Pelvis,6909
+2319,MS,"Large Intestine, NOS",1180
+2320,MS,Larynx,2077
+2321,MS,Leukemias,4372
+2322,MS,Lip,272
+2323,MS,Liver,2364
+2324,MS,Liver and Intrahepatic Bile Duct,2570
+2325,MS,Lung and Bronchus,29545
+2326,MS,Lymphomas,7295
+2327,MS,Male Breast,82
+2328,MS,Male Genital System,27371
+2329,MS,Male and Female Breast,23088
+2330,MS,"Male and Female Breast, In Situ",4586
+2331,MS,Melanoma of the Skin,5905
+2332,MS,Mesothelioma,298
+2333,MS,Miscellaneous,5558
+2334,MS,Myeloma,2691
+2335,MS,NHL - Extranodal,2125
+2336,MS,NHL - Nodal,4291
+2337,MS,Nasopharynx,171
+2338,MS,Non-Hodgkin Lymphoma,6416
+2339,MS,"Nose, Nasal Cavity and Middle Ear",279
+2340,MS,Oral Cavity and Pharynx,4902
+2341,MS,Oropharynx,189
+2342,MS,Other Acute Leukemia,19
+2343,MS,Other Biliary,520
+2344,MS,Other Digestive Organs,81
+2345,MS,Other Endocrine including Thymus,236
+2346,MS,Other Leukemias,658
+2347,MS,Other Lymphocytic Leukemia,32
+2348,MS,Other Non-Epithelial Skin,476
+2349,MS,Other Oral Cavity and Pharynx,156
+2350,MS,Ovary,2074
+2351,MS,Pancreas,4790
+2352,MS,Penis,108
+2353,MS,"Peritoneum, Omentum and Mesentery",200
+2354,MS,Prostate,26559
+2355,MS,Rectosigmoid Junction,1241
+2356,MS,Rectum,3711
+2357,MS,Rectum and Rectosigmoid Junction,4952
+2358,MS,Respiratory System,31963
+2359,MS,Salivary Gland,451
+2360,MS,Sigmoid Colon,3880
+2361,MS,Skin excluding Basal and Squamous,6381
+2362,MS,Small Intestine,950
+2363,MS,Soft Tissue including Heart,1123
+2364,MS,Splenic Flexure,457
+2365,MS,Stomach,2609
+2366,MS,Testis,600
+2367,MS,Thyroid,3331
+2368,MS,Tongue,1239
+2369,MS,Tonsil,826
+2370,MS,Transverse Colon,1302
+2371,MS,Ureter,157
+2372,MS,"Urinary Bladder, invasive and in situ",6332
+2373,MS,Urinary System,13528
+2374,MS,"Uterus, NOS",54
+2375,MS,Vagina,140
+2376,MS,Vulva,569
+2377,MT,Acute Lymphocytic Leukemia,34
+2378,MT,Acute Myeloid Leukemia,702
+2379,MT,"Anus, Anal Canal and Anorectum",164
+2380,MT,Appendix,40
+2381,MT,Ascending Colon,1049
+2382,MT,Brain,1177
+2383,MT,Brain and Other Nervous System,1232
+2384,MT,Cecum,1236
+2385,MT,Cervix Uteri,551
+2386,MT,Chronic Lymphocytic Leukemia,1112
+2387,MT,Chronic Myeloid Leukemia,308
+2388,MT,Colon and Rectum,8082
+2389,MT,Colon excluding Rectum,5740
+2390,MT,Corpus Uteri,2322
+2391,MT,Descending Colon,208
+2392,MT,Digestive System,14029
+2393,MT,Endocrine System,2124
+2394,MT,Esophagus,905
+2395,MT,Eye and Orbit,33
+2396,MT,Female Breast,11601
+2397,MT,"Female Breast, In Situ",2642
+2398,MT,Female Genital System,4458
+2399,MT,Gum and Other Mouth,106
+2400,MT,Hepatic Flexure,224
+2401,MT,Hodgkin - Nodal,419
+2402,MT,Hodgkin Lymphoma,429
+2403,MT,Kidney and Renal Pelvis,2395
+2404,MT,"Large Intestine, NOS",457
+2405,MT,Larynx,600
+2406,MT,Leukemias,2617
+2407,MT,Lip,269
+2408,MT,Liver,684
+2409,MT,Liver and Intrahepatic Bile Duct,810
+2410,MT,Lung and Bronchus,11213
+2411,MT,Lymphomas,3840
+2412,MT,Male Genital System,14291
+2413,MT,Male and Female Breast,11686
+2414,MT,"Male and Female Breast, In Situ",2651
+2415,MT,Melanoma of the Skin,3593
+2416,MT,Mesothelioma,36
+2417,MT,Miscellaneous,3384
+2418,MT,Myeloma,1077
+2419,MT,NHL - Extranodal,1094
+2420,MT,NHL - Nodal,2317
+2421,MT,Non-Hodgkin Lymphoma,3411
+2422,MT,Oral Cavity and Pharynx,2011
+2423,MT,Other Biliary,171
+2424,MT,Other Leukemias,238
+2425,MT,Other Non-Epithelial Skin,149
+2426,MT,Ovary,1261
+2427,MT,Pancreas,1964
+2428,MT,Prostate,13711
+2429,MT,Rectosigmoid Junction,583
+2430,MT,Rectum,1759
+2431,MT,Rectum and Rectosigmoid Junction,2342
+2432,MT,Respiratory System,11946
+2433,MT,Salivary Gland,85
+2434,MT,Sigmoid Colon,1583
+2435,MT,Skin excluding Basal and Squamous,3844
+2436,MT,Small Intestine,344
+2437,MT,Soft Tissue including Heart,520
+2438,MT,Splenic Flexure,33
+2439,MT,Stomach,973
+2440,MT,Testis,489
+2441,MT,Thyroid,1996
+2442,MT,Tongue,482
+2443,MT,Tonsil,333
+2444,MT,Transverse Colon,519
+2445,MT,"Urinary Bladder, invasive and in situ",4144
+2446,MT,Urinary System,6662
+2447,MT,Vulva,83
+2448,NC,Acute Lymphocytic Leukemia,1933
+2449,NC,Acute Monocytic Leukemia,254
+2450,NC,Acute Myeloid Leukemia,5456
+2451,NC,"Aleukemic, Subleukemic and NOS",641
+2452,NC,"Anus, Anal Canal and Anorectum",2496
+2453,NC,Appendix,1218
+2454,NC,Ascending Colon,9029
+2455,NC,Bones and Joints,1333
+2456,NC,Brain,9244
+2457,NC,Brain and Other Nervous System,9830
+2458,NC,Cecum,10069
+2459,NC,Cervix Uteri,5889
+2460,NC,Chronic Lymphocytic Leukemia,6792
+2461,NC,Chronic Myeloid Leukemia,2556
+2462,NC,Colon and Rectum,66354
+2463,NC,Colon excluding Rectum,48173
+2464,NC,Corpus Uteri,18319
+2465,NC,Cranial Nerves Other Nervous System,586
+2466,NC,Descending Colon,2708
+2467,NC,Digestive System,120850
+2468,NC,Endocrine System,15792
+2469,NC,Esophagus,7107
+2470,NC,Eye and Orbit,1281
+2471,NC,Female Breast,104822
+2472,NC,"Female Breast, In Situ",23226
+2473,NC,Female Genital System,38397
+2474,NC,Floor of Mouth,1176
+2475,NC,Gallbladder,1439
+2476,NC,Gum and Other Mouth,2708
+2477,NC,Hepatic Flexure,2289
+2478,NC,Hodgkin - Nodal,3753
+2479,NC,Hodgkin Lymphoma,3817
+2480,NC,Hypopharynx,1370
+2481,NC,Intrahepatic Bile Duct,1238
+2482,NC,Kaposi Sarcoma,313
+2483,NC,Kidney and Renal Pelvis,24102
+2484,NC,"Large Intestine, NOS",3980
+2485,NC,Larynx,6937
+2486,NC,Leukemias,18920
+2487,NC,Lip,858
+2488,NC,Liver,7912
+2489,NC,Liver and Intrahepatic Bile Duct,9150
+2490,NC,Lung and Bronchus,110253
+2491,NC,Lymphomas,30655
+2492,NC,Male Breast,752
+2493,NC,Male Genital System,107200
+2494,NC,Male and Female Breast,105574
+2495,NC,"Male and Female Breast, In Situ",23313
+2496,NC,Melanoma of the Skin,30681
+2497,NC,Mesothelioma,1154
+2498,NC,Miscellaneous,23614
+2499,NC,Myeloma,10319
+2500,NC,NHL - Extranodal,7782
+2501,NC,NHL - Nodal,19056
+2502,NC,Nasopharynx,755
+2503,NC,Non-Hodgkin Lymphoma,26838
+2504,NC,"Nose, Nasal Cavity and Middle Ear",1111
+2505,NC,Oral Cavity and Pharynx,18208
+2506,NC,Oropharynx,972
+2507,NC,Other Acute Leukemia,356
+2508,NC,Other Biliary,2154
+2509,NC,Other Digestive Organs,441
+2510,NC,Other Endocrine including Thymus,982
+2511,NC,Other Female Genital Organs,685
+2512,NC,Other Leukemias,2183
+2513,NC,Other Lymphocytic Leukemia,576
+2514,NC,Other Myeloid/Monocytic Leukemia,241
+2515,NC,Other Non-Epithelial Skin,1956
+2516,NC,Other Oral Cavity and Pharynx,451
+2517,NC,Other Urinary Organs,332
+2518,NC,Ovary,10036
+2519,NC,Pancreas,17466
+2520,NC,Penis,577
+2521,NC,"Peritoneum, Omentum and Mesentery",824
+2522,NC,Prostate,103102
+2523,NC,Rectosigmoid Junction,4597
+2524,NC,Rectum,13584
+2525,NC,Rectum and Rectosigmoid Junction,18181
+2526,NC,Respiratory System,118578
+2527,NC,Retroperitoneum,507
+2528,NC,Salivary Gland,1756
+2529,NC,Sigmoid Colon,13137
+2530,NC,Skin excluding Basal and Squamous,32637
+2531,NC,Small Intestine,3567
+2532,NC,Soft Tissue including Heart,4574
+2533,NC,Splenic Flexure,1515
+2534,NC,Stomach,9292
+2535,NC,Testis,3410
+2536,NC,Thyroid,14810
+2537,NC,Tongue,4913
+2538,NC,Tonsil,3249
+2539,NC,"Trachea, Mediastinum and Other Respiratory Organs",158
+2540,NC,Transverse Colon,4228
+2541,NC,Ureter,903
+2542,NC,"Urinary Bladder, invasive and in situ",30093
+2543,NC,Urinary System,55468
+2544,NC,"Uterus, NOS",712
+2545,NC,Vagina,632
+2546,NC,Vulva,2124
+2547,ND,Acute Myeloid Leukemia,458
+2548,ND,Ascending Colon,768
+2549,ND,Brain,686
+2550,ND,Brain and Other Nervous System,727
+2551,ND,Cecum,1050
+2552,ND,Cervix Uteri,247
+2553,ND,Chronic Lymphocytic Leukemia,819
+2554,ND,Chronic Myeloid Leukemia,68
+2555,ND,Colon and Rectum,6327
+2556,ND,Colon excluding Rectum,4558
+2557,ND,Corpus Uteri,1514
+2558,ND,Descending Colon,98
+2559,ND,Digestive System,10184
+2560,ND,Endocrine System,1307
+2561,ND,Esophagus,559
+2562,ND,Female Breast,7538
+2563,ND,"Female Breast, In Situ",1371
+2564,ND,Female Genital System,2847
+2565,ND,Gum and Other Mouth,18
+2566,ND,Hepatic Flexure,314
+2567,ND,Hodgkin - Nodal,225
+2568,ND,Hodgkin Lymphoma,232
+2569,ND,Kidney and Renal Pelvis,1748
+2570,ND,"Large Intestine, NOS",156
+2571,ND,Larynx,411
+2572,ND,Leukemias,1810
+2573,ND,Lip,312
+2574,ND,Liver,305
+2575,ND,Liver and Intrahepatic Bile Duct,430
+2576,ND,Lung and Bronchus,6874
+2577,ND,Lymphomas,2652
+2578,ND,Male Genital System,9254
+2579,ND,Male and Female Breast,7600
+2580,ND,"Male and Female Breast, In Situ",1383
+2581,ND,Melanoma of the Skin,1950
+2582,ND,Miscellaneous,2183
+2583,ND,Myeloma,700
+2584,ND,NHL - Extranodal,746
+2585,ND,NHL - Nodal,1610
+2586,ND,Non-Hodgkin Lymphoma,2356
+2587,ND,Oral Cavity and Pharynx,1328
+2588,ND,Other Biliary,16
+2589,ND,Other Leukemias,49
+2590,ND,Other Non-Epithelial Skin,36
+2591,ND,Ovary,744
+2592,ND,Pancreas,1335
+2593,ND,Prostate,8864
+2594,ND,Rectosigmoid Junction,396
+2595,ND,Rectum,1358
+2596,ND,Rectum and Rectosigmoid Junction,1769
+2597,ND,Respiratory System,7365
+2598,ND,Sigmoid Colon,1195
+2599,ND,Skin excluding Basal and Squamous,2113
+2600,ND,Small Intestine,132
+2601,ND,Soft Tissue including Heart,375
+2602,ND,Stomach,729
+2603,ND,Testis,315
+2604,ND,Thyroid,1252
+2605,ND,Tongue,245
+2606,ND,Tonsil,52
+2607,ND,Transverse Colon,472
+2608,ND,"Urinary Bladder, invasive and in situ",2757
+2609,ND,Urinary System,4602
+2610,ND,Vulva,52
+2611,NE,Acute Lymphocytic Leukemia,405
+2612,NE,Acute Myeloid Leukemia,1208
+2613,NE,"Anus, Anal Canal and Anorectum",432
+2614,NE,Appendix,138
+2615,NE,Ascending Colon,2238
+2616,NE,Bones and Joints,210
+2617,NE,Brain,2039
+2618,NE,Brain and Other Nervous System,2151
+2619,NE,Cecum,2605
+2620,NE,Cervix Uteri,1071
+2621,NE,Chronic Lymphocytic Leukemia,1790
+2622,NE,Chronic Myeloid Leukemia,531
+2623,NE,Colon and Rectum,16265
+2624,NE,Colon excluding Rectum,11783
+2625,NE,Corpus Uteri,4290
+2626,NE,Descending Colon,650
+2627,NE,Digestive System,26702
+2628,NE,Endocrine System,3471
+2629,NE,Esophagus,1510
+2630,NE,Eye and Orbit,229
+2631,NE,Female Breast,20407
+2632,NE,"Female Breast, In Situ",4368
+2633,NE,Female Genital System,8074
+2634,NE,Floor of Mouth,52
+2635,NE,Gallbladder,339
+2636,NE,Gum and Other Mouth,521
+2637,NE,Hepatic Flexure,602
+2638,NE,Hodgkin - Nodal,858
+2639,NE,Hodgkin Lymphoma,895
+2640,NE,Hypopharynx,16
+2641,NE,Intrahepatic Bile Duct,101
+2642,NE,Kidney and Renal Pelvis,4805
+2643,NE,"Large Intestine, NOS",845
+2644,NE,Larynx,1084
+2645,NE,Leukemias,4503
+2646,NE,Lip,475
+2647,NE,Liver,1200
+2648,NE,Liver and Intrahepatic Bile Duct,1422
+2649,NE,Lung and Bronchus,19124
+2650,NE,Lymphomas,7222
+2651,NE,Male Breast,16
+2652,NE,Male Genital System,21707
+2653,NE,Male and Female Breast,20567
+2654,NE,"Male and Female Breast, In Situ",4385
+2655,NE,Melanoma of the Skin,5423
+2656,NE,Mesothelioma,268
+2657,NE,Miscellaneous,5504
+2658,NE,Myeloma,1879
+2659,NE,NHL - Extranodal,2236
+2660,NE,NHL - Nodal,4091
+2661,NE,Non-Hodgkin Lymphoma,6327
+2662,NE,"Nose, Nasal Cavity and Middle Ear",87
+2663,NE,Oral Cavity and Pharynx,3446
+2664,NE,Other Biliary,448
+2665,NE,Other Endocrine including Thymus,71
+2666,NE,Other Leukemias,569
+2667,NE,Other Lymphocytic Leukemia,21
+2668,NE,Other Non-Epithelial Skin,496
+2669,NE,Ovary,1943
+2670,NE,Pancreas,3505
+2671,NE,Penis,16
+2672,NE,"Peritoneum, Omentum and Mesentery",138
+2673,NE,Prostate,20607
+2674,NE,Rectosigmoid Junction,1137
+2675,NE,Rectum,3345
+2676,NE,Rectum and Rectosigmoid Junction,4482
+2677,NE,Respiratory System,20499
+2678,NE,Salivary Gland,406
+2679,NE,Sigmoid Colon,3082
+2680,NE,Skin excluding Basal and Squamous,5919
+2681,NE,Small Intestine,673
+2682,NE,Soft Tissue including Heart,947
+2683,NE,Splenic Flexure,326
+2684,NE,Stomach,1632
+2685,NE,Testis,928
+2686,NE,Thyroid,3286
+2687,NE,Tongue,917
+2688,NE,Tonsil,416
+2689,NE,Transverse Colon,1167
+2690,NE,Ureter,50
+2691,NE,"Urinary Bladder, invasive and in situ",6632
+2692,NE,Urinary System,11671
+2693,NE,Vulva,434
+2694,NH,Acute Lymphocytic Leukemia,231
+2695,NH,Acute Myeloid Leukemia,808
+2696,NH,"Anus, Anal Canal and Anorectum",329
+2697,NH,Appendix,77
+2698,NH,Ascending Colon,1206
+2699,NH,Bones and Joints,40
+2700,NH,Brain,1539
+2701,NH,Brain and Other Nervous System,1649
+2702,NH,Cecum,1632
+2703,NH,Cervix Uteri,676
+2704,NH,Chronic Lymphocytic Leukemia,1333
+2705,NH,Chronic Myeloid Leukemia,364
+2706,NH,Colon and Rectum,10386
+2707,NH,Colon excluding Rectum,7352
+2708,NH,Corpus Uteri,3721
+2709,NH,Descending Colon,381
+2710,NH,Digestive System,18844
+2711,NH,Endocrine System,2790
+2712,NH,Esophagus,1576
+2713,NH,Eye and Orbit,113
+2714,NH,Female Breast,16859
+2715,NH,"Female Breast, In Situ",4637
+2716,NH,Female Genital System,6687
+2717,NH,Floor of Mouth,17
+2718,NH,Gallbladder,132
+2719,NH,Gum and Other Mouth,340
+2720,NH,Hepatic Flexure,384
+2721,NH,Hodgkin - Nodal,651
+2722,NH,Hodgkin Lymphoma,671
+2723,NH,Hypopharynx,33
+2724,NH,Kidney and Renal Pelvis,3285
+2725,NH,"Large Intestine, NOS",638
+2726,NH,Larynx,906
+2727,NH,Leukemias,3178
+2728,NH,Liver,981
+2729,NH,Liver and Intrahepatic Bile Duct,1123
+2730,NH,Lung and Bronchus,15739
+2731,NH,Lymphomas,5414
+2732,NH,Male Breast,35
+2733,NH,Male Genital System,17111
+2734,NH,Male and Female Breast,17005
+2735,NH,"Male and Female Breast, In Situ",4654
+2736,NH,Melanoma of the Skin,6255
+2737,NH,Mesothelioma,180
+2738,NH,Miscellaneous,4284
+2739,NH,Myeloma,1379
+2740,NH,NHL - Extranodal,1672
+2741,NH,NHL - Nodal,3071
+2742,NH,Non-Hodgkin Lymphoma,4743
+2743,NH,"Nose, Nasal Cavity and Middle Ear",16
+2744,NH,Oral Cavity and Pharynx,2636
+2745,NH,Other Biliary,319
+2746,NH,Other Female Genital Organs,72
+2747,NH,Other Leukemias,376
+2748,NH,Other Non-Epithelial Skin,409
+2749,NH,Ovary,1585
+2750,NH,Pancreas,2745
+2751,NH,"Peritoneum, Omentum and Mesentery",17
+2752,NH,Prostate,16279
+2753,NH,Rectosigmoid Junction,761
+2754,NH,Rectum,2273
+2755,NH,Rectum and Rectosigmoid Junction,3034
+2756,NH,Respiratory System,16859
+2757,NH,Salivary Gland,89
+2758,NH,Sigmoid Colon,1994
+2759,NH,Skin excluding Basal and Squamous,6693
+2760,NH,Small Intestine,474
+2761,NH,Soft Tissue including Heart,694
+2762,NH,Splenic Flexure,136
+2763,NH,Stomach,1283
+2764,NH,Testis,715
+2765,NH,Thyroid,2657
+2766,NH,Tongue,786
+2767,NH,Tonsil,497
+2768,NH,Transverse Colon,683
+2769,NH,"Urinary Bladder, invasive and in situ",6375
+2770,NH,Urinary System,9895
+2771,NH,Vulva,324
+2772,NJ,Acute Lymphocytic Leukemia,2204
+2773,NJ,Acute Monocytic Leukemia,361
+2774,NJ,Acute Myeloid Leukemia,5967
+2775,NJ,"Aleukemic, Subleukemic and NOS",685
+2776,NJ,"Anus, Anal Canal and Anorectum",2416
+2777,NJ,Appendix,1331
+2778,NJ,Ascending Colon,11005
+2779,NJ,Bones and Joints,1512
+2780,NJ,Brain,9674
+2781,NJ,Brain and Other Nervous System,10508
+2782,NJ,Cecum,11897
+2783,NJ,Cervix Uteri,6810
+2784,NJ,Chronic Lymphocytic Leukemia,8042
+2785,NJ,Chronic Myeloid Leukemia,2569
+2786,NJ,Colon and Rectum,77707
+2787,NJ,Colon excluding Rectum,55719
+2788,NJ,Corpus Uteri,24415
+2789,NJ,Cranial Nerves Other Nervous System,834
+2790,NJ,Descending Colon,3510
+2791,NJ,Digestive System,141113
+2792,NJ,Endocrine System,23283
+2793,NJ,Esophagus,7361
+2794,NJ,Eye and Orbit,1117
+2795,NJ,Female Breast,109593
+2796,NJ,"Female Breast, In Situ",31257
+2797,NJ,Female Genital System,47380
+2798,NJ,Floor of Mouth,845
+2799,NJ,Gallbladder,2169
+2800,NJ,Gum and Other Mouth,2275
+2801,NJ,Hepatic Flexure,2529
+2802,NJ,Hodgkin - Nodal,4527
+2803,NJ,Hodgkin Lymphoma,4650
+2804,NJ,Hypopharynx,1003
+2805,NJ,Intrahepatic Bile Duct,1194
+2806,NJ,Kaposi Sarcoma,757
+2807,NJ,Kidney and Renal Pelvis,23088
+2808,NJ,"Large Intestine, NOS",4434
+2809,NJ,Larynx,5653
+2810,NJ,Leukemias,21382
+2811,NJ,Lip,612
+2812,NJ,Liver,8925
+2813,NJ,Liver and Intrahepatic Bile Duct,10119
+2814,NJ,Lung and Bronchus,95897
+2815,NJ,Lymphomas,37033
+2816,NJ,Male Breast,1014
+2817,NJ,"Male Breast, In Situ",16
+2818,NJ,Male Genital System,119042
+2819,NJ,Male and Female Breast,110607
+2820,NJ,"Male and Female Breast, In Situ",31383
+2821,NJ,Melanoma of the Skin,30951
+2822,NJ,Mesothelioma,2166
+2823,NJ,Miscellaneous,26739
+2824,NJ,Myeloma,10205
+2825,NJ,NHL - Extranodal,10327
+2826,NJ,NHL - Nodal,22056
+2827,NJ,Nasopharynx,862
+2828,NJ,Non-Hodgkin Lymphoma,32383
+2829,NJ,"Nose, Nasal Cavity and Middle Ear",1035
+2830,NJ,Oral Cavity and Pharynx,15616
+2831,NJ,Oropharynx,675
+2832,NJ,Other Acute Leukemia,505
+2833,NJ,Other Biliary,2819
+2834,NJ,Other Digestive Organs,723
+2835,NJ,Other Endocrine including Thymus,1271
+2836,NJ,Other Female Genital Organs,797
+2837,NJ,Other Leukemias,2600
+2838,NJ,Other Lymphocytic Leukemia,745
+2839,NJ,Other Male Genital Organs,35
+2840,NJ,Other Myeloid/Monocytic Leukemia,236
+2841,NJ,Other Non-Epithelial Skin,2478
+2842,NJ,Other Oral Cavity and Pharynx,303
+2843,NJ,Other Urinary Organs,568
+2844,NJ,Ovary,11740
+2845,NJ,Pancreas,20028
+2846,NJ,Penis,541
+2847,NJ,"Peritoneum, Omentum and Mesentery",757
+2848,NJ,Prostate,114426
+2849,NJ,Rectosigmoid Junction,7142
+2850,NJ,Rectum,14846
+2851,NJ,Rectum and Rectosigmoid Junction,21988
+2852,NJ,Respiratory System,102946
+2853,NJ,Retroperitoneum,638
+2854,NJ,Salivary Gland,2063
+2855,NJ,Sigmoid Colon,14532
+2856,NJ,Skin excluding Basal and Squamous,33429
+2857,NJ,Small Intestine,3251
+2858,NJ,Soft Tissue including Heart,5158
+2859,NJ,Splenic Flexure,1782
+2860,NJ,Stomach,13125
+2861,NJ,Testis,3910
+2862,NJ,Thyroid,22012
+2863,NJ,Tongue,4685
+2864,NJ,Tonsil,2261
+2865,NJ,"Trachea, Mediastinum and Other Respiratory Organs",235
+2866,NJ,Transverse Colon,4699
+2867,NJ,Ureter,989
+2868,NJ,"Urinary Bladder, invasive and in situ",38316
+2869,NJ,Urinary System,62961
+2870,NJ,"Uterus, NOS",889
+2871,NJ,Vagina,598
+2872,NJ,Vulva,2131
+2873,NM,Acute Lymphocytic Leukemia,561
+2874,NM,Acute Myeloid Leukemia,1057
+2875,NM,"Aleukemic, Subleukemic and NOS",18
+2876,NM,"Anus, Anal Canal and Anorectum",479
+2877,NM,Appendix,72
+2878,NM,Ascending Colon,1401
+2879,NM,Bones and Joints,245
+2880,NM,Brain,1687
+2881,NM,Brain and Other Nervous System,1818
+2882,NM,Cecum,1927
+2883,NM,Cervix Uteri,1256
+2884,NM,Chronic Lymphocytic Leukemia,1557
+2885,NM,Chronic Myeloid Leukemia,540
+2886,NM,Colon and Rectum,12806
+2887,NM,Colon excluding Rectum,8912
+2888,NM,Corpus Uteri,3671
+2889,NM,Descending Colon,435
+2890,NM,Digestive System,25262
+2891,NM,Endocrine System,4275
+2892,NM,Esophagus,1290
+2893,NM,Eye and Orbit,121
+2894,NM,Female Breast,19863
+2895,NM,"Female Breast, In Situ",3619
+2896,NM,Female Genital System,7845
+2897,NM,Floor of Mouth,35
+2898,NM,Gallbladder,469
+2899,NM,Gum and Other Mouth,383
+2900,NM,Hepatic Flexure,428
+2901,NM,Hodgkin - Nodal,716
+2902,NM,Hodgkin Lymphoma,749
+2903,NM,Hypopharynx,39
+2904,NM,Intrahepatic Bile Duct,189
+2905,NM,Kidney and Renal Pelvis,4380
+2906,NM,"Large Intestine, NOS",949
+2907,NM,Larynx,956
+2908,NM,Leukemias,4246
+2909,NM,Lip,454
+2910,NM,Liver,2539
+2911,NM,Liver and Intrahepatic Bile Duct,2800
+2912,NM,Lung and Bronchus,14800
+2913,NM,Lymphomas,5986
+2914,NM,Male Genital System,21179
+2915,NM,Male and Female Breast,20019
+2916,NM,"Male and Female Breast, In Situ",3640
+2917,NM,Melanoma of the Skin,5674
+2918,NM,Mesothelioma,229
+2919,NM,Miscellaneous,5034
+2920,NM,Myeloma,1734
+2921,NM,NHL - Extranodal,1761
+2922,NM,NHL - Nodal,3476
+2923,NM,Non-Hodgkin Lymphoma,5237
+2924,NM,"Nose, Nasal Cavity and Middle Ear",84
+2925,NM,Oral Cavity and Pharynx,3191
+2926,NM,Other Biliary,564
+2927,NM,Other Digestive Organs,17
+2928,NM,Other Endocrine including Thymus,21
+2929,NM,Other Female Genital Organs,16
+2930,NM,Other Leukemias,531
+2931,NM,Other Non-Epithelial Skin,544
+2932,NM,Ovary,2176
+2933,NM,Pancreas,3496
+2934,NM,"Peritoneum, Omentum and Mesentery",17
+2935,NM,Prostate,20080
+2936,NM,Rectosigmoid Junction,984
+2937,NM,Rectum,2910
+2938,NM,Rectum and Rectosigmoid Junction,3894
+2939,NM,Respiratory System,16033
+2940,NM,Salivary Gland,384
+2941,NM,Sigmoid Colon,2655
+2942,NM,Skin excluding Basal and Squamous,6218
+2943,NM,Small Intestine,621
+2944,NM,Soft Tissue including Heart,1061
+2945,NM,Splenic Flexure,168
+2946,NM,Stomach,2329
+2947,NM,Testis,924
+2948,NM,Thyroid,4100
+2949,NM,Tongue,822
+2950,NM,Tonsil,429
+2951,NM,Transverse Colon,677
+2952,NM,"Urinary Bladder, invasive and in situ",5181
+2953,NM,Urinary System,9748
+2954,NM,"Uterus, NOS",34
+2955,NM,Vagina,16
+2956,NM,Vulva,333
+2957,NV,Acute Lymphocytic Leukemia,581
+2958,NV,Acute Myeloid Leukemia,1343
+2959,NV,"Aleukemic, Subleukemic and NOS",261
+2960,NV,"Anus, Anal Canal and Anorectum",597
+2961,NV,Appendix,81
+2962,NV,Ascending Colon,1841
+2963,NV,Bones and Joints,303
+2964,NV,Brain,2117
+2965,NV,Brain and Other Nervous System,2243
+2966,NV,Cecum,2436
+2967,NV,Cervix Uteri,1621
+2968,NV,Chronic Lymphocytic Leukemia,1517
+2969,NV,Chronic Myeloid Leukemia,470
+2970,NV,Colon and Rectum,16139
+2971,NV,Colon excluding Rectum,11364
+2972,NV,Corpus Uteri,3533
+2973,NV,Descending Colon,554
+2974,NV,Digestive System,28917
+2975,NV,Endocrine System,5042
+2976,NV,Esophagus,1884
+2977,NV,Eye and Orbit,142
+2978,NV,Female Breast,21980
+2979,NV,"Female Breast, In Situ",4368
+2980,NV,Female Genital System,8242
+2981,NV,Floor of Mouth,166
+2982,NV,Gallbladder,181
+2983,NV,Gum and Other Mouth,433
+2984,NV,Hepatic Flexure,420
+2985,NV,Hodgkin - Nodal,810
+2986,NV,Hodgkin Lymphoma,847
+2987,NV,Hypopharynx,133
+2988,NV,Intrahepatic Bile Duct,73
+2989,NV,Kaposi Sarcoma,33
+2990,NV,Kidney and Renal Pelvis,4912
+2991,NV,"Large Intestine, NOS",1526
+2992,NV,Larynx,1190
+2993,NV,Leukemias,4632
+2994,NV,Lip,109
+2995,NV,Liver,2180
+2996,NV,Liver and Intrahepatic Bile Duct,2358
+2997,NV,Lung and Bronchus,25109
+2998,NV,Lymphomas,7052
+2999,NV,Male Breast,133
+3000,NV,Male Genital System,24365
+3001,NV,Male and Female Breast,22216
+3002,NV,"Male and Female Breast, In Situ",4397
+3003,NV,Melanoma of the Skin,5672
+3004,NV,Mesothelioma,322
+3005,NV,Miscellaneous,6266
+3006,NV,Myeloma,1696
+3007,NV,NHL - Extranodal,1796
+3008,NV,NHL - Nodal,4409
+3009,NV,Nasopharynx,55
+3010,NV,Non-Hodgkin Lymphoma,6205
+3011,NV,"Nose, Nasal Cavity and Middle Ear",146
+3012,NV,Oral Cavity and Pharynx,4040
+3013,NV,Oropharynx,148
+3014,NV,Other Acute Leukemia,40
+3015,NV,Other Biliary,529
+3016,NV,Other Digestive Organs,37
+3017,NV,Other Endocrine including Thymus,107
+3018,NV,Other Leukemias,721
+3019,NV,Other Non-Epithelial Skin,535
+3020,NV,Other Oral Cavity and Pharynx,16
+3021,NV,Other Urinary Organs,130
+3022,NV,Ovary,2261
+3023,NV,Pancreas,4056
+3024,NV,"Peritoneum, Omentum and Mesentery",51
+3025,NV,Prostate,23307
+3026,NV,Rectosigmoid Junction,1404
+3027,NV,Rectum,3371
+3028,NV,Rectum and Rectosigmoid Junction,4775
+3029,NV,Respiratory System,26606
+3030,NV,Salivary Gland,465
+3031,NV,Sigmoid Colon,3226
+3032,NV,Skin excluding Basal and Squamous,6220
+3033,NV,Small Intestine,514
+3034,NV,Soft Tissue including Heart,1029
+3035,NV,Splenic Flexure,259
+3036,NV,Stomach,2175
+3037,NV,Testis,919
+3038,NV,Thyroid,4847
+3039,NV,Tongue,1274
+3040,NV,Tonsil,627
+3041,NV,Transverse Colon,862
+3042,NV,Ureter,36
+3043,NV,"Urinary Bladder, invasive and in situ",8250
+3044,NV,Urinary System,13532
+3045,NV,"Uterus, NOS",16
+3046,NV,Vulva,429
+3047,NY,Acute Lymphocytic Leukemia,4546
+3048,NY,Acute Monocytic Leukemia,694
+3049,NY,Acute Myeloid Leukemia,13602
+3050,NY,"Aleukemic, Subleukemic and NOS",1627
+3051,NY,"Anus, Anal Canal and Anorectum",5961
+3052,NY,Appendix,2641
+3053,NY,Ascending Colon,22345
+3054,NY,Bones and Joints,3364
+3055,NY,Brain,20097
+3056,NY,Brain and Other Nervous System,21879
+3057,NY,Cecum,24527
+3058,NY,Cervix Uteri,14514
+3059,NY,Chronic Lymphocytic Leukemia,19402
+3060,NY,Chronic Myeloid Leukemia,5932
+3061,NY,Colon and Rectum,163535
+3062,NY,Colon excluding Rectum,118242
+3063,NY,Corpus Uteri,53229
+3064,NY,Cranial Nerves Other Nervous System,1782
+3065,NY,Descending Colon,7266
+3066,NY,Digestive System,310932
+3067,NY,Endocrine System,49513
+3068,NY,Esophagus,16618
+3069,NY,Eye and Orbit,3177
+3070,NY,Female Breast,233448
+3071,NY,"Female Breast, In Situ",68388
+3072,NY,Female Genital System,102211
+3073,NY,Floor of Mouth,1975
+3074,NY,Gallbladder,5029
+3075,NY,Gum and Other Mouth,5284
+3076,NY,Hepatic Flexure,5583
+3077,NY,Hodgkin - Extranodal,335
+3078,NY,Hodgkin - Nodal,10094
+3079,NY,Hodgkin Lymphoma,10452
+3080,NY,Hypopharynx,2194
+3081,NY,Intrahepatic Bile Duct,2879
+3082,NY,Kaposi Sarcoma,2888
+3083,NY,Kidney and Renal Pelvis,50820
+3084,NY,"Large Intestine, NOS",10022
+3085,NY,Larynx,13165
+3086,NY,Leukemias,48987
+3087,NY,Lip,1333
+3088,NY,Liver,23258
+3089,NY,Liver and Intrahepatic Bile Duct,26137
+3090,NY,Lung and Bronchus,213130
+3091,NY,Lymphomas,80912
+3092,NY,Male Breast,2030
+3093,NY,"Male Breast, In Situ",129
+3094,NY,Male Genital System,248993
+3095,NY,Male and Female Breast,235478
+3096,NY,"Male and Female Breast, In Situ",68625
+3097,NY,Melanoma of the Skin,51617
+3098,NY,Mesothelioma,3267
+3099,NY,Miscellaneous,61792
+3100,NY,Myeloma,24347
+3101,NY,NHL - Extranodal,23968
+3102,NY,NHL - Nodal,46492
+3103,NY,Nasopharynx,2463
+3104,NY,Non-Hodgkin Lymphoma,70460
+3105,NY,"Nose, Nasal Cavity and Middle Ear",2251
+3106,NY,Oral Cavity and Pharynx,34413
+3107,NY,Oropharynx,1661
+3108,NY,Other Acute Leukemia,986
+3109,NY,Other Biliary,6215
+3110,NY,Other Digestive Organs,1427
+3111,NY,Other Endocrine including Thymus,3084
+3112,NY,Other Female Genital Organs,1995
+3113,NY,Other Leukemias,5505
+3114,NY,Other Lymphocytic Leukemia,1604
+3115,NY,Other Male Genital Organs,341
+3116,NY,Other Myeloid/Monocytic Leukemia,594
+3117,NY,Other Non-Epithelial Skin,5146
+3118,NY,Other Oral Cavity and Pharynx,631
+3119,NY,Other Urinary Organs,1318
+3120,NY,Ovary,25000
+3121,NY,Pancreas,44940
+3122,NY,Penis,1306
+3123,NY,"Peritoneum, Omentum and Mesentery",1807
+3124,NY,Prostate,238892
+3125,NY,Rectosigmoid Junction,13638
+3126,NY,Rectum,31655
+3127,NY,Rectum and Rectosigmoid Junction,45293
+3128,NY,Respiratory System,229290
+3129,NY,Retroperitoneum,1474
+3130,NY,Salivary Gland,4278
+3131,NY,Sigmoid Colon,31664
+3132,NY,Skin excluding Basal and Squamous,56763
+3133,NY,Small Intestine,7168
+3134,NY,Soft Tissue including Heart,10744
+3135,NY,Splenic Flexure,3772
+3136,NY,Stomach,30621
+3137,NY,Testis,8441
+3138,NY,Thyroid,46429
+3139,NY,Tongue,9594
+3140,NY,Tonsil,5000
+3141,NY,"Trachea, Mediastinum and Other Respiratory Organs",622
+3142,NY,Transverse Colon,10422
+3143,NY,Ureter,2087
+3144,NY,"Urinary Bladder, invasive and in situ",79873
+3145,NY,Urinary System,134098
+3146,NY,"Uterus, NOS",1717
+3147,NY,Vagina,1211
+3148,NY,Vulva,4545
+3149,OH,Acute Lymphocytic Leukemia,2458
+3150,OH,Acute Monocytic Leukemia,474
+3151,OH,Acute Myeloid Leukemia,7489
+3152,OH,"Aleukemic, Subleukemic and NOS",1370
+3153,OH,"Anus, Anal Canal and Anorectum",3222
+3154,OH,Appendix,1628
+3155,OH,Ascending Colon,13435
+3156,OH,Bones and Joints,1688
+3157,OH,Brain,12791
+3158,OH,Brain and Other Nervous System,13735
+3159,OH,Cecum,16089
+3160,OH,Cervix Uteri,7751
+3161,OH,Chronic Lymphocytic Leukemia,7370
+3162,OH,Chronic Myeloid Leukemia,2825
+3163,OH,Colon and Rectum,100073
+3164,OH,Colon excluding Rectum,73165
+3165,OH,Corpus Uteri,29840
+3166,OH,Cranial Nerves Other Nervous System,944
+3167,OH,Descending Colon,3983
+3168,OH,Digestive System,174827
+3169,OH,Endocrine System,21434
+3170,OH,Esophagus,11247
+3171,OH,Eye and Orbit,1758
+3172,OH,Female Breast,136695
+3173,OH,"Female Breast, In Situ",29973
+3174,OH,Female Genital System,56922
+3175,OH,Floor of Mouth,1316
+3176,OH,Gallbladder,2254
+3177,OH,Gum and Other Mouth,2929
+3178,OH,Hepatic Flexure,3088
+3179,OH,Hodgkin - Extranodal,69
+3180,OH,Hodgkin - Nodal,5130
+3181,OH,Hodgkin Lymphoma,5340
+3182,OH,Hypopharynx,1355
+3183,OH,Intrahepatic Bile Duct,1471
+3184,OH,Kaposi Sarcoma,356
+3185,OH,Kidney and Renal Pelvis,31185
+3186,OH,"Large Intestine, NOS",8100
+3187,OH,Larynx,9035
+3188,OH,Leukemias,24167
+3189,OH,Lip,709
+3190,OH,Liver,9654
+3191,OH,Liver and Intrahepatic Bile Duct,11125
+3192,OH,Lung and Bronchus,151809
+3193,OH,Lymphomas,44637
+3194,OH,Male Breast,1081
+3195,OH,Male Genital System,133696
+3196,OH,Male and Female Breast,137776
+3197,OH,"Male and Female Breast, In Situ",30082
+3198,OH,Melanoma of the Skin,36805
+3199,OH,Mesothelioma,2127
+3200,OH,Miscellaneous,32862
+3201,OH,Myeloma,11721
+3202,OH,NHL - Extranodal,11370
+3203,OH,NHL - Nodal,27927
+3204,OH,Nasopharynx,886
+3205,OH,Non-Hodgkin Lymphoma,39297
+3206,OH,"Nose, Nasal Cavity and Middle Ear",1377
+3207,OH,Oral Cavity and Pharynx,21318
+3208,OH,Oropharynx,1062
+3209,OH,Other Acute Leukemia,895
+3210,OH,Other Biliary,2913
+3211,OH,Other Digestive Organs,471
+3212,OH,Other Endocrine including Thymus,1324
+3213,OH,Other Female Genital Organs,681
+3214,OH,Other Leukemias,4025
+3215,OH,Other Lymphocytic Leukemia,862
+3216,OH,Other Male Genital Organs,25
+3217,OH,Other Myeloid/Monocytic Leukemia,424
+3218,OH,Other Non-Epithelial Skin,2689
+3219,OH,Other Oral Cavity and Pharynx,476
+3220,OH,Other Urinary Organs,399
+3221,OH,Ovary,13753
+3222,OH,Pancreas,24378
+3223,OH,Penis,741
+3224,OH,"Peritoneum, Omentum and Mesentery",1171
+3225,OH,Pleura,17
+3226,OH,Prostate,127919
+3227,OH,Rectosigmoid Junction,6946
+3228,OH,Rectum,19962
+3229,OH,Rectum and Rectosigmoid Junction,26908
+3230,OH,Respiratory System,162647
+3231,OH,Retroperitoneum,713
+3232,OH,Salivary Gland,2499
+3233,OH,Sigmoid Colon,18760
+3234,OH,Skin excluding Basal and Squamous,39494
+3235,OH,Small Intestine,4439
+3236,OH,Soft Tissue including Heart,6187
+3237,OH,Splenic Flexure,1992
+3238,OH,Stomach,12821
+3239,OH,Testis,4849
+3240,OH,Thyroid,20110
+3241,OH,Tongue,6349
+3242,OH,Tonsil,3737
+3243,OH,"Trachea, Mediastinum and Other Respiratory Organs",288
+3244,OH,Transverse Colon,6090
+3245,OH,Ureter,1137
+3246,OH,"Urinary Bladder, invasive and in situ",45735
+3247,OH,Urinary System,78471
+3248,OH,"Uterus, NOS",1118
+3249,OH,Vagina,766
+3250,OH,Vulva,3013
+3251,OK,Acute Lymphocytic Leukemia,847
+3252,OK,Acute Monocytic Leukemia,58
+3253,OK,Acute Myeloid Leukemia,2410
+3254,OK,"Aleukemic, Subleukemic and NOS",730
+3255,OK,"Anus, Anal Canal and Anorectum",1119
+3256,OK,Appendix,398
+3257,OK,Ascending Colon,4017
+3258,OK,Bones and Joints,597
+3259,OK,Brain,3988
+3260,OK,Brain and Other Nervous System,4243
+3261,OK,Cecum,4164
+3262,OK,Cervix Uteri,2828
+3263,OK,Chronic Lymphocytic Leukemia,2837
+3264,OK,Chronic Myeloid Leukemia,991
+3265,OK,Colon and Rectum,29910
+3266,OK,Colon excluding Rectum,21745
+3267,OK,Corpus Uteri,6607
+3268,OK,Cranial Nerves Other Nervous System,131
+3269,OK,Descending Colon,1269
+3270,OK,Digestive System,51911
+3271,OK,Endocrine System,5501
+3272,OK,Esophagus,2907
+3273,OK,Eye and Orbit,556
+3274,OK,Female Breast,41325
+3275,OK,"Female Breast, In Situ",7605
+3276,OK,Female Genital System,15495
+3277,OK,Floor of Mouth,367
+3278,OK,Gallbladder,671
+3279,OK,Gum and Other Mouth,954
+3280,OK,Hepatic Flexure,832
+3281,OK,Hodgkin - Nodal,1509
+3282,OK,Hodgkin Lymphoma,1559
+3283,OK,Hypopharynx,413
+3284,OK,Intrahepatic Bile Duct,202
+3285,OK,Kidney and Renal Pelvis,10116
+3286,OK,"Large Intestine, NOS",3115
+3287,OK,Larynx,2683
+3288,OK,Leukemias,8716
+3289,OK,Lip,1177
+3290,OK,Liver,3681
+3291,OK,Liver and Intrahepatic Bile Duct,3974
+3292,OK,Lung and Bronchus,49330
+3293,OK,Lymphomas,13372
+3294,OK,Male Breast,297
+3295,OK,Male Genital System,40805
+3296,OK,Male and Female Breast,41655
+3297,OK,"Male and Female Breast, In Situ",7638
+3298,OK,Melanoma of the Skin,10188
+3299,OK,Mesothelioma,489
+3300,OK,Miscellaneous,9642
+3301,OK,Myeloma,3572
+3302,OK,NHL - Extranodal,3291
+3303,OK,NHL - Nodal,8522
+3304,OK,Nasopharynx,266
+3305,OK,Non-Hodgkin Lymphoma,11813
+3306,OK,"Nose, Nasal Cavity and Middle Ear",425
+3307,OK,Oral Cavity and Pharynx,7827
+3308,OK,Oropharynx,237
+3309,OK,Other Acute Leukemia,156
+3310,OK,Other Biliary,888
+3311,OK,Other Digestive Organs,87
+3312,OK,Other Endocrine including Thymus,425
+3313,OK,Other Female Genital Organs,36
+3314,OK,Other Leukemias,1631
+3315,OK,Other Lymphocytic Leukemia,281
+3316,OK,Other Myeloid/Monocytic Leukemia,16
+3317,OK,Other Non-Epithelial Skin,796
+3318,OK,Other Oral Cavity and Pharynx,149
+3319,OK,Ovary,4302
+3320,OK,Pancreas,7080
+3321,OK,Penis,132
+3322,OK,"Peritoneum, Omentum and Mesentery",141
+3323,OK,Prostate,39091
+3324,OK,Rectosigmoid Junction,2421
+3325,OK,Rectum,5744
+3326,OK,Rectum and Rectosigmoid Junction,8165
+3327,OK,Respiratory System,52579
+3328,OK,Retroperitoneum,109
+3329,OK,Salivary Gland,855
+3330,OK,Sigmoid Colon,5741
+3331,OK,Skin excluding Basal and Squamous,10984
+3332,OK,Small Intestine,1225
+3333,OK,Soft Tissue including Heart,1758
+3334,OK,Splenic Flexure,593
+3335,OK,Stomach,3456
+3336,OK,Testis,1414
+3337,OK,Thyroid,5076
+3338,OK,Tongue,1971
+3339,OK,Tonsil,1226
+3340,OK,Transverse Colon,1601
+3341,OK,Ureter,292
+3342,OK,"Urinary Bladder, invasive and in situ",12149
+3343,OK,Urinary System,22703
+3344,OK,"Uterus, NOS",394
+3345,OK,Vagina,129
+3346,OK,Vulva,932
+3347,OR,Acute Lymphocytic Leukemia,901
+3348,OR,Acute Myeloid Leukemia,2388
+3349,OR,"Aleukemic, Subleukemic and NOS",253
+3350,OR,"Anus, Anal Canal and Anorectum",1342
+3351,OR,Appendix,467
+3352,OR,Ascending Colon,3346
+3353,OR,Bones and Joints,573
+3354,OR,Brain,4492
+3355,OR,Brain and Other Nervous System,4728
+3356,OR,Cecum,4576
+3357,OR,Cervix Uteri,2143
+3358,OR,Chronic Lymphocytic Leukemia,2628
+3359,OR,Chronic Myeloid Leukemia,820
+3360,OR,Colon and Rectum,27938
+3361,OR,Colon excluding Rectum,20060
+3362,OR,Corpus Uteri,8806
+3363,OR,Cranial Nerves Other Nervous System,126
+3364,OR,Descending Colon,925
+3365,OR,Digestive System,52474
+3366,OR,Endocrine System,6748
+3367,OR,Esophagus,3540
+3368,OR,Eye and Orbit,702
+3369,OR,Female Breast,46143
+3370,OR,"Female Breast, In Situ",10168
+3371,OR,Female Genital System,17261
+3372,OR,Floor of Mouth,440
+3373,OR,Gallbladder,657
+3374,OR,Gum and Other Mouth,952
+3375,OR,Hepatic Flexure,1206
+3376,OR,Hodgkin - Nodal,1623
+3377,OR,Hodgkin Lymphoma,1649
+3378,OR,Hypopharynx,369
+3379,OR,Intrahepatic Bile Duct,517
+3380,OR,Kidney and Renal Pelvis,9212
+3381,OR,"Large Intestine, NOS",1675
+3382,OR,Larynx,1856
+3383,OR,Leukemias,7805
+3384,OR,Lip,529
+3385,OR,Liver,3906
+3386,OR,Liver and Intrahepatic Bile Duct,4453
+3387,OR,Lung and Bronchus,42305
+3388,OR,Lymphomas,14479
+3389,OR,Male Breast,251
+3390,OR,Male Genital System,44366
+3391,OR,Male and Female Breast,46443
+3392,OR,"Male and Female Breast, In Situ",10200
+3393,OR,Melanoma of the Skin,16453
+3394,OR,Mesothelioma,758
+3395,OR,Miscellaneous,9769
+3396,OR,Myeloma,3492
+3397,OR,NHL - Extranodal,3944
+3398,OR,NHL - Nodal,8886
+3399,OR,Nasopharynx,197
+3400,OR,Non-Hodgkin Lymphoma,12830
+3401,OR,"Nose, Nasal Cavity and Middle Ear",385
+3402,OR,Oral Cavity and Pharynx,7365
+3403,OR,Oropharynx,260
+3404,OR,Other Acute Leukemia,35
+3405,OR,Other Biliary,934
+3406,OR,Other Digestive Organs,302
+3407,OR,Other Endocrine including Thymus,392
+3408,OR,Other Female Genital Organs,347
+3409,OR,Other Leukemias,1068
+3410,OR,Other Lymphocytic Leukemia,268
+3411,OR,Other Non-Epithelial Skin,880
+3412,OR,Other Urinary Organs,16
+3413,OR,Ovary,4645
+3414,OR,Pancreas,7707
+3415,OR,Penis,66
+3416,OR,"Peritoneum, Omentum and Mesentery",456
+3417,OR,Prostate,42131
+3418,OR,Rectosigmoid Junction,1972
+3419,OR,Rectum,5906
+3420,OR,Rectum and Rectosigmoid Junction,7878
+3421,OR,Respiratory System,44678
+3422,OR,Retroperitoneum,190
+3423,OR,Salivary Gland,747
+3424,OR,Sigmoid Colon,5126
+3425,OR,Skin excluding Basal and Squamous,17333
+3426,OR,Small Intestine,1262
+3427,OR,Soft Tissue including Heart,2077
+3428,OR,Splenic Flexure,642
+3429,OR,Stomach,3566
+3430,OR,Testis,1963
+3431,OR,Thyroid,6345
+3432,OR,Tongue,2293
+3433,OR,Tonsil,1379
+3434,OR,Transverse Colon,2086
+3435,OR,Ureter,377
+3436,OR,"Urinary Bladder, invasive and in situ",14811
+3437,OR,Urinary System,24577
+3438,OR,"Uterus, NOS",87
+3439,OR,Vagina,32
+3440,OR,Vulva,867
+3441,PA,Acute Lymphocytic Leukemia,3082
+3442,PA,Acute Monocytic Leukemia,534
+3443,PA,Acute Myeloid Leukemia,9918
+3444,PA,"Aleukemic, Subleukemic and NOS",1057
+3445,PA,"Anus, Anal Canal and Anorectum",3747
+3446,PA,Appendix,1917
+3447,PA,Ascending Colon,17792
+3448,PA,Bones and Joints,2046
+3449,PA,Brain,14749
+3450,PA,Brain and Other Nervous System,15967
+3451,PA,Cecum,20379
+3452,PA,Cervix Uteri,8743
+3453,PA,Chronic Lymphocytic Leukemia,11992
+3454,PA,Chronic Myeloid Leukemia,4205
+3455,PA,Colon and Rectum,126672
+3456,PA,Colon excluding Rectum,91913
+3457,PA,Corpus Uteri,39865
+3458,PA,Cranial Nerves Other Nervous System,1218
+3459,PA,Descending Colon,5060
+3460,PA,Digestive System,224268
+3461,PA,Endocrine System,36273
+3462,PA,Esophagus,13128
+3463,PA,Eye and Orbit,1886
+3464,PA,Female Breast,164107
+3465,PA,"Female Breast, In Situ",40111
+3466,PA,Female Genital System,72966
+3467,PA,Floor of Mouth,1722
+3468,PA,Gallbladder,3130
+3469,PA,Gum and Other Mouth,3929
+3470,PA,Hepatic Flexure,4504
+3471,PA,Hodgkin - Extranodal,134
+3472,PA,Hodgkin - Nodal,6616
+3473,PA,Hodgkin Lymphoma,6828
+3474,PA,Hypopharynx,1767
+3475,PA,Intrahepatic Bile Duct,1897
+3476,PA,Kaposi Sarcoma,654
+3477,PA,Kidney and Renal Pelvis,38164
+3478,PA,"Large Intestine, NOS",6089
+3479,PA,Larynx,10108
+3480,PA,Leukemias,33088
+3481,PA,Lip,1267
+3482,PA,Liver,13902
+3483,PA,Liver and Intrahepatic Bile Duct,15799
+3484,PA,Lung and Bronchus,168755
+3485,PA,Lymphomas,57576
+3486,PA,Male Breast,1612
+3487,PA,"Male Breast, In Situ",148
+3488,PA,Male Genital System,169502
+3489,PA,Male and Female Breast,165719
+3490,PA,"Male and Female Breast, In Situ",40364
+3491,PA,Melanoma of the Skin,44131
+3492,PA,Mesothelioma,3312
+3493,PA,Miscellaneous,47741
+3494,PA,Myeloma,14889
+3495,PA,NHL - Extranodal,16289
+3496,PA,NHL - Nodal,34459
+3497,PA,Nasopharynx,1054
+3498,PA,Non-Hodgkin Lymphoma,50748
+3499,PA,"Nose, Nasal Cavity and Middle Ear",1700
+3500,PA,Oral Cavity and Pharynx,26072
+3501,PA,Oropharynx,1029
+3502,PA,Other Acute Leukemia,814
+3503,PA,Other Biliary,4565
+3504,PA,Other Digestive Organs,826
+3505,PA,Other Endocrine including Thymus,1741
+3506,PA,Other Female Genital Organs,1217
+3507,PA,Other Leukemias,3891
+3508,PA,Other Lymphocytic Leukemia,1066
+3509,PA,Other Male Genital Organs,153
+3510,PA,Other Myeloid/Monocytic Leukemia,420
+3511,PA,Other Non-Epithelial Skin,3787
+3512,PA,Other Oral Cavity and Pharynx,494
+3513,PA,Other Urinary Organs,822
+3514,PA,Ovary,17525
+3515,PA,Pancreas,31303
+3516,PA,Penis,813
+3517,PA,"Peritoneum, Omentum and Mesentery",1646
+3518,PA,Prostate,162461
+3519,PA,Rectosigmoid Junction,9798
+3520,PA,Rectum,24961
+3521,PA,Rectum and Rectosigmoid Junction,34759
+3522,PA,Respiratory System,181074
+3523,PA,Retroperitoneum,955
+3524,PA,Salivary Gland,3002
+3525,PA,Sigmoid Colon,24897
+3526,PA,Skin excluding Basal and Squamous,47918
+3527,PA,Small Intestine,5246
+3528,PA,Soft Tissue including Heart,7308
+3529,PA,Splenic Flexure,2931
+3530,PA,Stomach,17251
+3531,PA,Testis,5966
+3532,PA,Thyroid,34532
+3533,PA,Tongue,7606
+3534,PA,Tonsil,4202
+3535,PA,"Trachea, Mediastinum and Other Respiratory Organs",430
+3536,PA,Transverse Colon,8344
+3537,PA,Ureter,1722
+3538,PA,"Urinary Bladder, invasive and in situ",62401
+3539,PA,Urinary System,103109
+3540,PA,"Uterus, NOS",575
+3541,PA,Vagina,943
+3542,PA,Vulva,4098
+3543,RI,Acute Lymphocytic Leukemia,163
+3544,RI,Acute Myeloid Leukemia,764
+3545,RI,"Anus, Anal Canal and Anorectum",253
+3546,RI,Appendix,37
+3547,RI,Ascending Colon,1224
+3548,RI,Brain,1202
+3549,RI,Brain and Other Nervous System,1278
+3550,RI,Cecum,1545
+3551,RI,Cervix Uteri,681
+3552,RI,Chronic Lymphocytic Leukemia,895
+3553,RI,Chronic Myeloid Leukemia,347
+3554,RI,Colon and Rectum,9652
+3555,RI,Colon excluding Rectum,6922
+3556,RI,Corpus Uteri,3043
+3557,RI,Descending Colon,348
+3558,RI,Digestive System,17893
+3559,RI,Endocrine System,2847
+3560,RI,Esophagus,1131
+3561,RI,Eye and Orbit,32
+3562,RI,Female Breast,13657
+3563,RI,"Female Breast, In Situ",3547
+3564,RI,Female Genital System,5726
+3565,RI,Floor of Mouth,16
+3566,RI,Gallbladder,186
+3567,RI,Gum and Other Mouth,204
+3568,RI,Hepatic Flexure,331
+3569,RI,Hodgkin - Nodal,576
+3570,RI,Hodgkin Lymphoma,592
+3571,RI,Hypopharynx,37
+3572,RI,Intrahepatic Bile Duct,101
+3573,RI,Kidney and Renal Pelvis,3122
+3574,RI,"Large Intestine, NOS",434
+3575,RI,Larynx,867
+3576,RI,Leukemias,2637
+3577,RI,Liver,1155
+3578,RI,Liver and Intrahepatic Bile Duct,1382
+3579,RI,Lung and Bronchus,14245
+3580,RI,Lymphomas,4620
+3581,RI,Male Genital System,13278
+3582,RI,Male and Female Breast,13787
+3583,RI,"Male and Female Breast, In Situ",3557
+3584,RI,Melanoma of the Skin,4214
+3585,RI,Mesothelioma,89
+3586,RI,Miscellaneous,3142
+3587,RI,Myeloma,1086
+3588,RI,NHL - Extranodal,1293
+3589,RI,NHL - Nodal,2735
+3590,RI,Non-Hodgkin Lymphoma,4028
+3591,RI,Oral Cavity and Pharynx,2027
+3592,RI,Other Biliary,416
+3593,RI,Other Female Genital Organs,87
+3594,RI,Other Leukemias,349
+3595,RI,Other Non-Epithelial Skin,323
+3596,RI,Ovary,1278
+3597,RI,Pancreas,2323
+3598,RI,"Peritoneum, Omentum and Mesentery",16
+3599,RI,Prostate,12671
+3600,RI,Rectosigmoid Junction,799
+3601,RI,Rectum,1931
+3602,RI,Rectum and Rectosigmoid Junction,2730
+3603,RI,Respiratory System,15271
+3604,RI,Salivary Gland,91
+3605,RI,Sigmoid Colon,1948
+3606,RI,Skin excluding Basal and Squamous,4578
+3607,RI,Small Intestine,466
+3608,RI,Soft Tissue including Heart,627
+3609,RI,Splenic Flexure,131
+3610,RI,Stomach,1621
+3611,RI,Testis,500
+3612,RI,Thyroid,2709
+3613,RI,Tongue,617
+3614,RI,Tonsil,211
+3615,RI,Transverse Colon,613
+3616,RI,"Urinary Bladder, invasive and in situ",5688
+3617,RI,Urinary System,8999
+3618,RI,"Uterus, NOS",16
+3619,RI,Vulva,397
+3620,SC,Acute Lymphocytic Leukemia,912
+3621,SC,Acute Monocytic Leukemia,33
+3622,SC,Acute Myeloid Leukemia,2738
+3623,SC,"Aleukemic, Subleukemic and NOS",314
+3624,SC,"Anus, Anal Canal and Anorectum",1234
+3625,SC,Appendix,667
+3626,SC,Ascending Colon,4396
+3627,SC,Bones and Joints,626
+3628,SC,Brain,4556
+3629,SC,Brain and Other Nervous System,4818
+3630,SC,Cecum,5343
+3631,SC,Cervix Uteri,3225
+3632,SC,Chronic Lymphocytic Leukemia,3310
+3633,SC,Chronic Myeloid Leukemia,1252
+3634,SC,Colon and Rectum,35025
+3635,SC,Colon excluding Rectum,25877
+3636,SC,Corpus Uteri,8569
+3637,SC,Cranial Nerves Other Nervous System,195
+3638,SC,Descending Colon,1551
+3639,SC,Digestive System,63944
+3640,SC,Endocrine System,7032
+3641,SC,Esophagus,4115
+3642,SC,Eye and Orbit,522
+3643,SC,Female Breast,51780
+3644,SC,"Female Breast, In Situ",11777
+3645,SC,Female Genital System,18557
+3646,SC,Floor of Mouth,635
+3647,SC,Gallbladder,807
+3648,SC,Gum and Other Mouth,1371
+3649,SC,Hepatic Flexure,1244
+3650,SC,Hodgkin - Nodal,1753
+3651,SC,Hodgkin Lymphoma,1836
+3652,SC,Hypopharynx,749
+3653,SC,Intrahepatic Bile Duct,468
+3654,SC,Kidney and Renal Pelvis,11573
+3655,SC,"Large Intestine, NOS",2733
+3656,SC,Larynx,3978
+3657,SC,Leukemias,9430
+3658,SC,Lip,403
+3659,SC,Liver,3967
+3660,SC,Liver and Intrahepatic Bile Duct,4460
+3661,SC,Lung and Bronchus,55617
+3662,SC,Lymphomas,14735
+3663,SC,Male Breast,420
+3664,SC,Male Genital System,56126
+3665,SC,Male and Female Breast,52214
+3666,SC,"Male and Female Breast, In Situ",11823
+3667,SC,Melanoma of the Skin,15883
+3668,SC,Mesothelioma,632
+3669,SC,Miscellaneous,12478
+3670,SC,Myeloma,5463
+3671,SC,NHL - Extranodal,3911
+3672,SC,NHL - Nodal,8988
+3673,SC,Nasopharynx,434
+3674,SC,Non-Hodgkin Lymphoma,12899
+3675,SC,"Nose, Nasal Cavity and Middle Ear",558
+3676,SC,Oral Cavity and Pharynx,9597
+3677,SC,Oropharynx,529
+3678,SC,Other Acute Leukemia,101
+3679,SC,Other Biliary,1015
+3680,SC,Other Digestive Organs,199
+3681,SC,Other Endocrine including Thymus,500
+3682,SC,Other Female Genital Organs,255
+3683,SC,Other Leukemias,1218
+3684,SC,Other Lymphocytic Leukemia,175
+3685,SC,Other Myeloid/Monocytic Leukemia,39
+3686,SC,Other Non-Epithelial Skin,989
+3687,SC,Other Oral Cavity and Pharynx,294
+3688,SC,Other Urinary Organs,33
+3689,SC,Ovary,4695
+3690,SC,Pancreas,9236
+3691,SC,Penis,223
+3692,SC,"Peritoneum, Omentum and Mesentery",433
+3693,SC,Prostate,54415
+3694,SC,Rectosigmoid Junction,2182
+3695,SC,Rectum,6966
+3696,SC,Rectum and Rectosigmoid Junction,9148
+3697,SC,Respiratory System,60320
+3698,SC,Retroperitoneum,104
+3699,SC,Salivary Gland,887
+3700,SC,Sigmoid Colon,6971
+3701,SC,Skin excluding Basal and Squamous,16872
+3702,SC,Small Intestine,1770
+3703,SC,Soft Tissue including Heart,2224
+3704,SC,Splenic Flexure,859
+3705,SC,Stomach,5301
+3706,SC,Testis,1380
+3707,SC,Thyroid,6532
+3708,SC,Tongue,2559
+3709,SC,Tonsil,1697
+3710,SC,"Trachea, Mediastinum and Other Respiratory Organs",19
+3711,SC,Transverse Colon,2113
+3712,SC,Ureter,461
+3713,SC,"Urinary Bladder, invasive and in situ",14113
+3714,SC,Urinary System,26334
+3715,SC,"Uterus, NOS",316
+3716,SC,Vagina,246
+3717,SC,Vulva,1105
+3718,SD,Acute Lymphocytic Leukemia,16
+3719,SD,Acute Myeloid Leukemia,484
+3720,SD,"Anus, Anal Canal and Anorectum",34
+3721,SD,Ascending Colon,960
+3722,SD,Brain,807
+3723,SD,Brain and Other Nervous System,834
+3724,SD,Cecum,942
+3725,SD,Cervix Uteri,370
+3726,SD,Chronic Lymphocytic Leukemia,722
+3727,SD,Chronic Myeloid Leukemia,98
+3728,SD,Colon and Rectum,6398
+3729,SD,Colon excluding Rectum,4645
+3730,SD,Corpus Uteri,1735
+3731,SD,Descending Colon,127
+3732,SD,Digestive System,10643
+3733,SD,Endocrine System,1287
+3734,SD,Esophagus,644
+3735,SD,Female Breast,8186
+3736,SD,"Female Breast, In Situ",1720
+3737,SD,Female Genital System,3171
+3738,SD,Gallbladder,20
+3739,SD,Gum and Other Mouth,36
+3740,SD,Hepatic Flexure,222
+3741,SD,Hodgkin - Nodal,276
+3742,SD,Hodgkin Lymphoma,288
+3743,SD,Intrahepatic Bile Duct,34
+3744,SD,Kidney and Renal Pelvis,1873
+3745,SD,"Large Intestine, NOS",516
+3746,SD,Larynx,415
+3747,SD,Leukemias,1791
+3748,SD,Lip,178
+3749,SD,Liver,446
+3750,SD,Liver and Intrahepatic Bile Duct,541
+3751,SD,Lung and Bronchus,7665
+3752,SD,Lymphomas,2771
+3753,SD,Male Genital System,9465
+3754,SD,Male and Female Breast,8251
+3755,SD,"Male and Female Breast, In Situ",1725
+3756,SD,Melanoma of the Skin,2179
+3757,SD,Miscellaneous,2399
+3758,SD,Myeloma,793
+3759,SD,NHL - Extranodal,720
+3760,SD,NHL - Nodal,1748
+3761,SD,Non-Hodgkin Lymphoma,2468
+3762,SD,Oral Cavity and Pharynx,1414
+3763,SD,Other Biliary,78
+3764,SD,Other Leukemias,103
+3765,SD,Ovary,768
+3766,SD,Pancreas,1447
+3767,SD,Prostate,9045
+3768,SD,Rectosigmoid Junction,406
+3769,SD,Rectum,1347
+3770,SD,Rectum and Rectosigmoid Junction,1753
+3771,SD,Respiratory System,8180
+3772,SD,Sigmoid Colon,1048
+3773,SD,Skin excluding Basal and Squamous,2321
+3774,SD,Small Intestine,242
+3775,SD,Soft Tissue including Heart,365
+3776,SD,Stomach,692
+3777,SD,Testis,340
+3778,SD,Thyroid,1218
+3779,SD,Tongue,322
+3780,SD,Tonsil,161
+3781,SD,Transverse Colon,455
+3782,SD,"Urinary Bladder, invasive and in situ",2768
+3783,SD,Urinary System,4758
+3784,SD,Vulva,117
+3785,TN,Acute Lymphocytic Leukemia,1331
+3786,TN,Acute Monocytic Leukemia,103
+3787,TN,Acute Myeloid Leukemia,3730
+3788,TN,"Aleukemic, Subleukemic and NOS",323
+3789,TN,"Anus, Anal Canal and Anorectum",1846
+3790,TN,Appendix,774
+3791,TN,Ascending Colon,6763
+3792,TN,Bones and Joints,877
+3793,TN,Brain,6423
+3794,TN,Brain and Other Nervous System,6764
+3795,TN,Cecum,7443
+3796,TN,Cervix Uteri,4486
+3797,TN,Chronic Lymphocytic Leukemia,4296
+3798,TN,Chronic Myeloid Leukemia,1428
+3799,TN,Colon and Rectum,47835
+3800,TN,Colon excluding Rectum,34849
+3801,TN,Corpus Uteri,11403
+3802,TN,Cranial Nerves Other Nervous System,327
+3803,TN,Descending Colon,2085
+3804,TN,Digestive System,83348
+3805,TN,Endocrine System,11295
+3806,TN,Esophagus,4836
+3807,TN,Eye and Orbit,935
+3808,TN,Female Breast,68199
+3809,TN,"Female Breast, In Situ",14215
+3810,TN,Female Genital System,25459
+3811,TN,Floor of Mouth,678
+3812,TN,Gallbladder,854
+3813,TN,Gum and Other Mouth,1791
+3814,TN,Hepatic Flexure,1683
+3815,TN,Hodgkin - Nodal,2453
+3816,TN,Hodgkin Lymphoma,2501
+3817,TN,Hypopharynx,719
+3818,TN,Intrahepatic Bile Duct,600
+3819,TN,Kaposi Sarcoma,52
+3820,TN,Kidney and Renal Pelvis,16441
+3821,TN,"Large Intestine, NOS",2956
+3822,TN,Larynx,5220
+3823,TN,Leukemias,12276
+3824,TN,Lip,748
+3825,TN,Liver,5325
+3826,TN,Liver and Intrahepatic Bile Duct,5925
+3827,TN,Lung and Bronchus,81948
+3828,TN,Lymphomas,21175
+3829,TN,Male Breast,690
+3830,TN,Male Genital System,65027
+3831,TN,Male and Female Breast,68889
+3832,TN,"Male and Female Breast, In Situ",14311
+3833,TN,Melanoma of the Skin,18483
+3834,TN,Mesothelioma,809
+3835,TN,Miscellaneous,16408
+3836,TN,Myeloma,6054
+3837,TN,NHL - Extranodal,5589
+3838,TN,NHL - Nodal,13085
+3839,TN,Nasopharynx,567
+3840,TN,Non-Hodgkin Lymphoma,18674
+3841,TN,"Nose, Nasal Cavity and Middle Ear",742
+3842,TN,Oral Cavity and Pharynx,12278
+3843,TN,Oropharynx,518
+3844,TN,Other Acute Leukemia,200
+3845,TN,Other Biliary,1406
+3846,TN,Other Digestive Organs,234
+3847,TN,Other Endocrine including Thymus,649
+3848,TN,Other Female Genital Organs,332
+3849,TN,Other Leukemias,1491
+3850,TN,Other Lymphocytic Leukemia,397
+3851,TN,Other Myeloid/Monocytic Leukemia,115
+3852,TN,Other Non-Epithelial Skin,1232
+3853,TN,Other Oral Cavity and Pharynx,252
+3854,TN,Other Urinary Organs,134
+3855,TN,Ovary,6691
+3856,TN,Pancreas,11353
+3857,TN,Penis,400
+3858,TN,"Peritoneum, Omentum and Mesentery",498
+3859,TN,Prostate,62315
+3860,TN,Rectosigmoid Junction,3666
+3861,TN,Rectum,9320
+3862,TN,Rectum and Rectosigmoid Junction,12986
+3863,TN,Respiratory System,88114
+3864,TN,Retroperitoneum,271
+3865,TN,Salivary Gland,1285
+3866,TN,Sigmoid Colon,9054
+3867,TN,Skin excluding Basal and Squamous,19715
+3868,TN,Small Intestine,2162
+3869,TN,Soft Tissue including Heart,3027
+3870,TN,Splenic Flexure,1053
+3871,TN,Stomach,5984
+3872,TN,Testis,2214
+3873,TN,Thyroid,10646
+3874,TN,Tongue,3430
+3875,TN,Tonsil,2234
+3876,TN,"Trachea, Mediastinum and Other Respiratory Organs",18
+3877,TN,Transverse Colon,3038
+3878,TN,Ureter,612
+3879,TN,"Urinary Bladder, invasive and in situ",19522
+3880,TN,Urinary System,36830
+3881,TN,"Uterus, NOS",534
+3882,TN,Vagina,468
+3883,TN,Vulva,1516
+3884,TX,Acute Lymphocytic Leukemia,6800
+3885,TX,Acute Monocytic Leukemia,695
+3886,TX,Acute Myeloid Leukemia,12214
+3887,TX,"Aleukemic, Subleukemic and NOS",2666
+3888,TX,"Anus, Anal Canal and Anorectum",5222
+3889,TX,Appendix,2480
+3890,TX,Ascending Colon,19198
+3891,TX,Bones and Joints,3930
+3892,TX,Brain,21997
+3893,TX,Brain and Other Nervous System,24081
+3894,TX,Cecum,20630
+3895,TX,Cervix Uteri,18247
+3896,TX,Chronic Lymphocytic Leukemia,16092
+3897,TX,Chronic Myeloid Leukemia,6408
+3898,TX,Colon and Rectum,147963
+3899,TX,Colon excluding Rectum,105777
+3900,TX,Corpus Uteri,34942
+3901,TX,Cranial Nerves Other Nervous System,2084
+3902,TX,Descending Colon,6068
+3903,TX,Digestive System,282253
+3904,TX,Endocrine System,40614
+3905,TX,Esophagus,14242
+3906,TX,Eye and Orbit,2804
+3907,TX,Female Breast,216792
+3908,TX,"Female Breast, In Situ",43684
+3909,TX,Female Genital System,84691
+3910,TX,Floor of Mouth,1942
+3911,TX,Gallbladder,4008
+3912,TX,Gum and Other Mouth,5113
+3913,TX,Hepatic Flexure,4612
+3914,TX,Hodgkin - Extranodal,284
+3915,TX,Hodgkin - Nodal,8966
+3916,TX,Hodgkin Lymphoma,9292
+3917,TX,Hypopharynx,2350
+3918,TX,Intrahepatic Bile Duct,2764
+3919,TX,Kaposi Sarcoma,1887
+3920,TX,Kidney and Renal Pelvis,59767
+3921,TX,"Large Intestine, NOS",13000
+3922,TX,Larynx,13333
+3923,TX,Leukemias,48298
+3924,TX,Lip,2146
+3925,TX,Liver,29449
+3926,TX,Liver and Intrahepatic Bile Duct,32213
+3927,TX,Lung and Bronchus,205961
+3928,TX,Lymphomas,73350
+3929,TX,Male Breast,1660
+3930,TX,"Male Breast, In Situ",42
+3931,TX,Male Genital System,215035
+3932,TX,Male and Female Breast,218452
+3933,TX,"Male and Female Breast, In Situ",43854
+3934,TX,Melanoma of the Skin,47164
+3935,TX,Mesothelioma,2881
+3936,TX,Miscellaneous,63202
+3937,TX,Myeloma,22405
+3938,TX,NHL - Extranodal,18909
+3939,TX,NHL - Nodal,45149
+3940,TX,Nasopharynx,1872
+3941,TX,Non-Hodgkin Lymphoma,64058
+3942,TX,"Nose, Nasal Cavity and Middle Ear",2376
+3943,TX,Oral Cavity and Pharynx,37716
+3944,TX,Oropharynx,1644
+3945,TX,Other Acute Leukemia,1205
+3946,TX,Other Biliary,5485
+3947,TX,Other Digestive Organs,1263
+3948,TX,Other Endocrine including Thymus,2774
+3949,TX,Other Female Genital Organs,1310
+3950,TX,Other Leukemias,6784
+3951,TX,Other Lymphocytic Leukemia,1504
+3952,TX,Other Male Genital Organs,308
+3953,TX,Other Myeloid/Monocytic Leukemia,714
+3954,TX,Other Non-Epithelial Skin,3861
+3955,TX,Other Oral Cavity and Pharynx,1281
+3956,TX,Other Urinary Organs,692
+3957,TX,Ovary,22558
+3958,TX,Pancreas,37931
+3959,TX,Penis,1617
+3960,TX,"Peritoneum, Omentum and Mesentery",1636
+3961,TX,Prostate,203550
+3962,TX,Rectosigmoid Junction,12274
+3963,TX,Rectum,29912
+3964,TX,Rectum and Rectosigmoid Junction,42186
+3965,TX,Respiratory System,222574
+3966,TX,Retroperitoneum,1348
+3967,TX,Salivary Gland,4301
+3968,TX,Sigmoid Colon,28388
+3969,TX,Skin excluding Basal and Squamous,51025
+3970,TX,Small Intestine,7176
+3971,TX,Soft Tissue including Heart,10841
+3972,TX,Splenic Flexure,3025
+3973,TX,Stomach,23766
+3974,TX,Testis,9531
+3975,TX,Thyroid,37840
+3976,TX,Tongue,10759
+3977,TX,Tonsil,6308
+3978,TX,"Trachea, Mediastinum and Other Respiratory Organs",792
+3979,TX,Transverse Colon,8376
+3980,TX,Ureter,1481
+3981,TX,"Urinary Bladder, invasive and in situ",54055
+3982,TX,Urinary System,115995
+3983,TX,"Uterus, NOS",2397
+3984,TX,Vagina,1445
+3985,TX,Vulva,3792
+3986,UT,Acute Lymphocytic Leukemia,648
+3987,UT,Acute Myeloid Leukemia,1225
+3988,UT,"Aleukemic, Subleukemic and NOS",16
+3989,UT,"Anus, Anal Canal and Anorectum",390
+3990,UT,Appendix,122
+3991,UT,Ascending Colon,1308
+3992,UT,Bones and Joints,463
+3993,UT,Brain,2418
+3994,UT,Brain and Other Nervous System,2569
+3995,UT,Cecum,1979
+3996,UT,Cervix Uteri,974
+3997,UT,Chronic Lymphocytic Leukemia,1619
+3998,UT,Chronic Myeloid Leukemia,560
+3999,UT,Colon and Rectum,11338
+4000,UT,Colon excluding Rectum,7971
+4001,UT,Corpus Uteri,4106
+4002,UT,Cranial Nerves Other Nervous System,16
+4003,UT,Descending Colon,447
+4004,UT,Digestive System,20874
+4005,UT,Endocrine System,5637
+4006,UT,Esophagus,1048
+4007,UT,Eye and Orbit,354
+4008,UT,Female Breast,19242
+4009,UT,"Female Breast, In Situ",3984
+4010,UT,Female Genital System,7748
+4011,UT,Gallbladder,221
+4012,UT,Gum and Other Mouth,332
+4013,UT,Hepatic Flexure,353
+4014,UT,Hodgkin - Nodal,950
+4015,UT,Hodgkin Lymphoma,983
+4016,UT,Intrahepatic Bile Duct,127
+4017,UT,Kidney and Renal Pelvis,3882
+4018,UT,"Large Intestine, NOS",354
+4019,UT,Larynx,579
+4020,UT,Leukemias,4560
+4021,UT,Lip,251
+4022,UT,Liver,1261
+4023,UT,Liver and Intrahepatic Bile Duct,1474
+4024,UT,Lung and Bronchus,8997
+4025,UT,Lymphomas,7178
+4026,UT,Male Genital System,25684
+4027,UT,Male and Female Breast,19375
+4028,UT,"Male and Female Breast, In Situ",4009
+4029,UT,Melanoma of the Skin,9969
+4030,UT,Mesothelioma,226
+4031,UT,Miscellaneous,3742
+4032,UT,Myeloma,1790
+4033,UT,NHL - Extranodal,2168
+4034,UT,NHL - Nodal,4027
+4035,UT,Non-Hodgkin Lymphoma,6195
+4036,UT,"Nose, Nasal Cavity and Middle Ear",16
+4037,UT,Oral Cavity and Pharynx,2682
+4038,UT,Other Biliary,366
+4039,UT,Other Digestive Organs,32
+4040,UT,Other Endocrine including Thymus,136
+4041,UT,Other Female Genital Organs,20
+4042,UT,Other Leukemias,508
+4043,UT,Other Non-Epithelial Skin,794
+4044,UT,Ovary,2060
+4045,UT,Pancreas,3171
+4046,UT,"Peritoneum, Omentum and Mesentery",92
+4047,UT,Prostate,24147
+4048,UT,Rectosigmoid Junction,707
+4049,UT,Rectum,2660
+4050,UT,Rectum and Rectosigmoid Junction,3367
+4051,UT,Respiratory System,9846
+4052,UT,Retroperitoneum,16
+4053,UT,Salivary Gland,438
+4054,UT,Sigmoid Colon,2396
+4055,UT,Skin excluding Basal and Squamous,10763
+4056,UT,Small Intestine,758
+4057,UT,Soft Tissue including Heart,1179
+4058,UT,Splenic Flexure,76
+4059,UT,Stomach,1486
+4060,UT,Testis,1398
+4061,UT,Thyroid,5390
+4062,UT,Tongue,757
+4063,UT,Tonsil,304
+4064,UT,Transverse Colon,676
+4065,UT,"Urinary Bladder, invasive and in situ",5196
+4066,UT,Urinary System,9271
+4067,UT,Vulva,269
+4068,VA,Acute Lymphocytic Leukemia,1570
+4069,VA,Acute Monocytic Leukemia,129
+4070,VA,Acute Myeloid Leukemia,4121
+4071,VA,"Aleukemic, Subleukemic and NOS",449
+4072,VA,"Anus, Anal Canal and Anorectum",1979
+4073,VA,Appendix,923
+4074,VA,Ascending Colon,7646
+4075,VA,Bones and Joints,965
+4076,VA,Brain,7299
+4077,VA,Brain and Other Nervous System,7736
+4078,VA,Cecum,7807
+4079,VA,Cervix Uteri,4447
+4080,VA,Chronic Lymphocytic Leukemia,4010
+4081,VA,Chronic Myeloid Leukemia,1492
+4082,VA,Colon and Rectum,53663
+4083,VA,Colon excluding Rectum,39024
+4084,VA,Corpus Uteri,15267
+4085,VA,Cranial Nerves Other Nervous System,437
+4086,VA,Descending Colon,2333
+4087,VA,Digestive System,96690
+4088,VA,Endocrine System,13351
+4089,VA,Esophagus,5923
+4090,VA,Eye and Orbit,693
+4091,VA,Female Breast,86702
+4092,VA,"Female Breast, In Situ",22805
+4093,VA,Female Genital System,31072
+4094,VA,Floor of Mouth,819
+4095,VA,Gallbladder,1225
+4096,VA,Gum and Other Mouth,2002
+4097,VA,Hepatic Flexure,1710
+4098,VA,Hodgkin - Nodal,3147
+4099,VA,Hodgkin Lymphoma,3251
+4100,VA,Hypopharynx,1064
+4101,VA,Intrahepatic Bile Duct,774
+4102,VA,Kaposi Sarcoma,232
+4103,VA,Kidney and Renal Pelvis,17351
+4104,VA,"Large Intestine, NOS",3640
+4105,VA,Larynx,4891
+4106,VA,Leukemias,12925
+4107,VA,Lip,587
+4108,VA,Liver,6259
+4109,VA,Liver and Intrahepatic Bile Duct,7033
+4110,VA,Lung and Bronchus,79718
+4111,VA,Lymphomas,24542
+4112,VA,Male Breast,717
+4113,VA,Male Genital System,85452
+4114,VA,Male and Female Breast,87419
+4115,VA,"Male and Female Breast, In Situ",22915
+4116,VA,Melanoma of the Skin,23412
+4117,VA,Mesothelioma,1331
+4118,VA,Miscellaneous,16357
+4119,VA,Myeloma,7124
+4120,VA,NHL - Extranodal,6049
+4121,VA,NHL - Nodal,15242
+4122,VA,Nasopharynx,584
+4123,VA,Non-Hodgkin Lymphoma,21291
+4124,VA,"Nose, Nasal Cavity and Middle Ear",829
+4125,VA,Oral Cavity and Pharynx,13571
+4126,VA,Oropharynx,700
+4127,VA,Other Acute Leukemia,309
+4128,VA,Other Biliary,1659
+4129,VA,Other Digestive Organs,351
+4130,VA,Other Endocrine including Thymus,832
+4131,VA,Other Female Genital Organs,460
+4132,VA,Other Leukemias,1732
+4133,VA,Other Lymphocytic Leukemia,437
+4134,VA,Other Myeloid/Monocytic Leukemia,111
+4135,VA,Other Non-Epithelial Skin,1593
+4136,VA,Other Oral Cavity and Pharynx,200
+4137,VA,Other Urinary Organs,165
+4138,VA,Ovary,8159
+4139,VA,Pancreas,13598
+4140,VA,Penis,423
+4141,VA,"Peritoneum, Omentum and Mesentery",690
+4142,VA,Prostate,82124
+4143,VA,Rectosigmoid Junction,3555
+4144,VA,Rectum,11084
+4145,VA,Rectum and Rectosigmoid Junction,14639
+4146,VA,Respiratory System,85694
+4147,VA,Retroperitoneum,371
+4148,VA,Salivary Gland,1378
+4149,VA,Sigmoid Colon,10262
+4150,VA,Skin excluding Basal and Squamous,25005
+4151,VA,Small Intestine,2607
+4152,VA,Soft Tissue including Heart,3855
+4153,VA,Splenic Flexure,1179
+4154,VA,Stomach,7529
+4155,VA,Testis,2817
+4156,VA,Thyroid,12519
+4157,VA,Tongue,3768
+4158,VA,Tonsil,2381
+4159,VA,"Trachea, Mediastinum and Other Respiratory Organs",59
+4160,VA,Transverse Colon,3524
+4161,VA,Ureter,653
+4162,VA,"Urinary Bladder, invasive and in situ",22765
+4163,VA,Urinary System,41028
+4164,VA,"Uterus, NOS",694
+4165,VA,Vagina,492
+4166,VA,Vulva,1524
+4167,VT,Acute Lymphocytic Leukemia,33
+4168,VT,Acute Myeloid Leukemia,438
+4169,VT,"Anus, Anal Canal and Anorectum",81
+4170,VT,Ascending Colon,665
+4171,VT,Brain,761
+4172,VT,Brain and Other Nervous System,812
+4173,VT,Cecum,809
+4174,VT,Cervix Uteri,278
+4175,VT,Chronic Lymphocytic Leukemia,567
+4176,VT,Chronic Myeloid Leukemia,17
+4177,VT,Colon and Rectum,5060
+4178,VT,Colon excluding Rectum,3561
+4179,VT,Corpus Uteri,1963
+4180,VT,Descending Colon,18
+4181,VT,Digestive System,9020
+4182,VT,Endocrine System,1257
+4183,VT,Esophagus,652
+4184,VT,Female Breast,8082
+4185,VT,"Female Breast, In Situ",2183
+4186,VT,Female Genital System,3371
+4187,VT,Gum and Other Mouth,20
+4188,VT,Hepatic Flexure,69
+4189,VT,Hodgkin - Nodal,306
+4190,VT,Hodgkin Lymphoma,313
+4191,VT,Kidney and Renal Pelvis,1610
+4192,VT,"Large Intestine, NOS",219
+4193,VT,Larynx,492
+4194,VT,Leukemias,1495
+4195,VT,Liver,477
+4196,VT,Liver and Intrahepatic Bile Duct,546
+4197,VT,Lung and Bronchus,7762
+4198,VT,Lymphomas,2682
+4199,VT,Male Genital System,7904
+4200,VT,Male and Female Breast,8143
+4201,VT,"Male and Female Breast, In Situ",2194
+4202,VT,Melanoma of the Skin,3357
+4203,VT,Miscellaneous,1817
+4204,VT,Myeloma,609
+4205,VT,NHL - Extranodal,748
+4206,VT,NHL - Nodal,1593
+4207,VT,Non-Hodgkin Lymphoma,2341
+4208,VT,Oral Cavity and Pharynx,1308
+4209,VT,Other Biliary,37
+4210,VT,Other Non-Epithelial Skin,54
+4211,VT,Ovary,733
+4212,VT,Pancreas,1352
+4213,VT,Prostate,7512
+4214,VT,Rectosigmoid Junction,359
+4215,VT,Rectum,1125
+4216,VT,Rectum and Rectosigmoid Junction,1499
+4217,VT,Respiratory System,8349
+4218,VT,Sigmoid Colon,919
+4219,VT,Skin excluding Basal and Squamous,3545
+4220,VT,Small Intestine,34
+4221,VT,Soft Tissue including Heart,390
+4222,VT,Stomach,554
+4223,VT,Testis,302
+4224,VT,Thyroid,1186
+4225,VT,Tongue,349
+4226,VT,Tonsil,195
+4227,VT,Transverse Colon,268
+4228,VT,"Urinary Bladder, invasive and in situ",2868
+4229,VT,Urinary System,4577
+4230,VT,Vulva,16
+4231,WA,Acute Lymphocytic Leukemia,1599
+4232,WA,Acute Monocytic Leukemia,234
+4233,WA,Acute Myeloid Leukemia,4049
+4234,WA,"Aleukemic, Subleukemic and NOS",428
+4235,WA,"Anus, Anal Canal and Anorectum",1939
+4236,WA,Appendix,819
+4237,WA,Ascending Colon,5650
+4238,WA,Bones and Joints,983
+4239,WA,Brain,7343
+4240,WA,Brain and Other Nervous System,7839
+4241,WA,Cecum,7361
+4242,WA,Cervix Uteri,3708
+4243,WA,Chronic Lymphocytic Leukemia,6126
+4244,WA,Chronic Myeloid Leukemia,1910
+4245,WA,Colon and Rectum,44555
+4246,WA,Colon excluding Rectum,31589
+4247,WA,Corpus Uteri,14250
+4248,WA,Cranial Nerves Other Nervous System,481
+4249,WA,Descending Colon,1642
+4250,WA,Digestive System,86540
+4251,WA,Endocrine System,12722
+4252,WA,Esophagus,5396
+4253,WA,Eye and Orbit,971
+4254,WA,Female Breast,77288
+4255,WA,"Female Breast, In Situ",19188
+4256,WA,Female Genital System,28560
+4257,WA,Floor of Mouth,685
+4258,WA,Gallbladder,1082
+4259,WA,Gum and Other Mouth,1787
+4260,WA,Hepatic Flexure,1690
+4261,WA,Hodgkin - Nodal,2886
+4262,WA,Hodgkin Lymphoma,2938
+4263,WA,Hypopharynx,625
+4264,WA,Intrahepatic Bile Duct,1071
+4265,WA,Kaposi Sarcoma,421
+4266,WA,Kidney and Renal Pelvis,15756
+4267,WA,"Large Intestine, NOS",1953
+4268,WA,Larynx,3090
+4269,WA,Leukemias,15311
+4270,WA,Lip,992
+4271,WA,Liver,6846
+4272,WA,Liver and Intrahepatic Bile Duct,7917
+4273,WA,Lung and Bronchus,66350
+4274,WA,Lymphomas,25337
+4275,WA,Male Breast,485
+4276,WA,Male Genital System,77097
+4277,WA,Male and Female Breast,77773
+4278,WA,"Male and Female Breast, In Situ",19237
+4279,WA,Melanoma of the Skin,26439
+4280,WA,Mesothelioma,1431
+4281,WA,Miscellaneous,16478
+4282,WA,Myeloma,6208
+4283,WA,NHL - Extranodal,6507
+4284,WA,NHL - Nodal,15892
+4285,WA,Nasopharynx,540
+4286,WA,Non-Hodgkin Lymphoma,22399
+4287,WA,"Nose, Nasal Cavity and Middle Ear",753
+4288,WA,Oral Cavity and Pharynx,12352
+4289,WA,Oropharynx,380
+4290,WA,Other Acute Leukemia,161
+4291,WA,Other Biliary,1718
+4292,WA,Other Digestive Organs,1283
+4293,WA,Other Endocrine including Thymus,685
+4294,WA,Other Female Genital Organs,733
+4295,WA,Other Leukemias,1627
+4296,WA,Other Lymphocytic Leukemia,532
+4297,WA,Other Non-Epithelial Skin,2294
+4298,WA,Other Oral Cavity and Pharynx,152
+4299,WA,Other Urinary Organs,359
+4300,WA,Ovary,7788
+4301,WA,Pancreas,12699
+4302,WA,Penis,276
+4303,WA,"Peritoneum, Omentum and Mesentery",716
+4304,WA,Prostate,73158
+4305,WA,Rectosigmoid Junction,3226
+4306,WA,Rectum,9740
+4307,WA,Rectum and Rectosigmoid Junction,12966
+4308,WA,Respiratory System,70461
+4309,WA,Retroperitoneum,469
+4310,WA,Salivary Gland,1213
+4311,WA,Sigmoid Colon,8437
+4312,WA,Skin excluding Basal and Squamous,28733
+4313,WA,Small Intestine,2201
+4314,WA,Soft Tissue including Heart,3318
+4315,WA,Splenic Flexure,989
+4316,WA,Stomach,6565
+4317,WA,Testis,3459
+4318,WA,Thyroid,12037
+4319,WA,Tongue,3733
+4320,WA,Tonsil,2125
+4321,WA,"Trachea, Mediastinum and Other Respiratory Organs",48
+4322,WA,Transverse Colon,3048
+4323,WA,Ureter,582
+4324,WA,"Urinary Bladder, invasive and in situ",23570
+4325,WA,Urinary System,40311
+4326,WA,"Uterus, NOS",230
+4327,WA,Vagina,385
+4328,WA,Vulva,1400
+4329,WI,Acute Lymphocytic Leukemia,1346
+4330,WI,Acute Monocytic Leukemia,165
+4331,WI,Acute Myeloid Leukemia,4190
+4332,WI,"Aleukemic, Subleukemic and NOS",726
+4333,WI,"Anus, Anal Canal and Anorectum",1313
+4334,WI,Appendix,883
+4335,WI,Ascending Colon,6479
+4336,WI,Bones and Joints,857
+4337,WI,Brain,6518
+4338,WI,Brain and Other Nervous System,6972
+4339,WI,Cecum,7225
+4340,WI,Cervix Uteri,3071
+4341,WI,Chronic Lymphocytic Leukemia,6127
+4342,WI,Chronic Myeloid Leukemia,1983
+4343,WI,Colon and Rectum,45454
+4344,WI,Colon excluding Rectum,33501
+4345,WI,Corpus Uteri,14505
+4346,WI,Cranial Nerves Other Nervous System,454
+4347,WI,Descending Colon,1616
+4348,WI,Digestive System,82463
+4349,WI,Endocrine System,10084
+4350,WI,Esophagus,5607
+4351,WI,Eye and Orbit,919
+4352,WI,Female Breast,66188
+4353,WI,"Female Breast, In Situ",15687
+4354,WI,Female Genital System,27453
+4355,WI,Floor of Mouth,780
+4356,WI,Gallbladder,1102
+4357,WI,Gum and Other Mouth,1652
+4358,WI,Hepatic Flexure,1781
+4359,WI,Hodgkin - Nodal,2761
+4360,WI,Hodgkin Lymphoma,2867
+4361,WI,Hypopharynx,913
+4362,WI,Intrahepatic Bile Duct,895
+4363,WI,Kidney and Renal Pelvis,15625
+4364,WI,"Large Intestine, NOS",2832
+4365,WI,Larynx,3722
+4366,WI,Leukemias,15724
+4367,WI,Lip,760
+4368,WI,Liver,4701
+4369,WI,Liver and Intrahepatic Bile Duct,5596
+4370,WI,Lung and Bronchus,61574
+4371,WI,Lymphomas,22917
+4372,WI,Male Breast,725
+4373,WI,Male Genital System,70035
+4374,WI,Male and Female Breast,66913
+4375,WI,"Male and Female Breast, In Situ",15780
+4376,WI,Melanoma of the Skin,17611
+4377,WI,Mesothelioma,1265
+4378,WI,Miscellaneous,17216
+4379,WI,Myeloma,6223
+4380,WI,NHL - Extranodal,6148
+4381,WI,NHL - Nodal,13902
+4382,WI,Nasopharynx,394
+4383,WI,Non-Hodgkin Lymphoma,20050
+4384,WI,"Nose, Nasal Cavity and Middle Ear",574
+4385,WI,Oral Cavity and Pharynx,11262
+4386,WI,Oropharynx,565
+4387,WI,Other Acute Leukemia,280
+4388,WI,Other Biliary,1715
+4389,WI,Other Digestive Organs,219
+4390,WI,Other Endocrine including Thymus,679
+4391,WI,Other Female Genital Organs,434
+4392,WI,Other Leukemias,2078
+4393,WI,Other Lymphocytic Leukemia,544
+4394,WI,Other Myeloid/Monocytic Leukemia,123
+4395,WI,Other Non-Epithelial Skin,1250
+4396,WI,Other Oral Cavity and Pharynx,19
+4397,WI,Other Urinary Organs,108
+4398,WI,Ovary,7226
+4399,WI,Pancreas,12159
+4400,WI,Penis,347
+4401,WI,"Peritoneum, Omentum and Mesentery",589
+4402,WI,Prostate,66613
+4403,WI,Rectosigmoid Junction,2921
+4404,WI,Rectum,9032
+4405,WI,Rectum and Rectosigmoid Junction,11953
+4406,WI,Respiratory System,66076
+4407,WI,Retroperitoneum,285
+4408,WI,Salivary Gland,1193
+4409,WI,Sigmoid Colon,8411
+4410,WI,Skin excluding Basal and Squamous,18861
+4411,WI,Small Intestine,2194
+4412,WI,Soft Tissue including Heart,3023
+4413,WI,Splenic Flexure,1012
+4414,WI,Stomach,6118
+4415,WI,Testis,2978
+4416,WI,Thyroid,9405
+4417,WI,Tongue,3170
+4418,WI,Tonsil,1672
+4419,WI,Transverse Colon,3262
+4420,WI,Ureter,655
+4421,WI,"Urinary Bladder, invasive and in situ",22633
+4422,WI,Urinary System,39126
+4423,WI,"Uterus, NOS",616
+4424,WI,Vagina,239
+4425,WI,Vulva,1315
+4426,WV,Acute Lymphocytic Leukemia,379
+4427,WV,Acute Myeloid Leukemia,1429
+4428,WV,"Aleukemic, Subleukemic and NOS",16
+4429,WV,"Anus, Anal Canal and Anorectum",665
+4430,WV,Appendix,135
+4431,WV,Ascending Colon,2411
+4432,WV,Bones and Joints,251
+4433,WV,Brain,2263
+4434,WV,Brain and Other Nervous System,2383
+4435,WV,Cecum,3257
+4436,WV,Cervix Uteri,1639
+4437,WV,Chronic Lymphocytic Leukemia,1837
+4438,WV,Chronic Myeloid Leukemia,652
+4439,WV,Colon and Rectum,19691
+4440,WV,Colon excluding Rectum,14108
+4441,WV,Corpus Uteri,5451
+4442,WV,Descending Colon,812
+4443,WV,Digestive System,32290
+4444,WV,Endocrine System,3896
+4445,WV,Esophagus,1974
+4446,WV,Eye and Orbit,332
+4447,WV,Female Breast,22046
+4448,WV,"Female Breast, In Situ",4359
+4449,WV,Female Genital System,10709
+4450,WV,Floor of Mouth,228
+4451,WV,Gallbladder,351
+4452,WV,Gum and Other Mouth,662
+4453,WV,Hepatic Flexure,655
+4454,WV,Hodgkin - Nodal,807
+4455,WV,Hodgkin Lymphoma,821
+4456,WV,Hypopharynx,187
+4457,WV,Intrahepatic Bile Duct,168
+4458,WV,Kidney and Renal Pelvis,5895
+4459,WV,"Large Intestine, NOS",985
+4460,WV,Larynx,2020
+4461,WV,Leukemias,4908
+4462,WV,Lip,37
+4463,WV,Liver,1616
+4464,WV,Liver and Intrahepatic Bile Duct,1879
+4465,WV,Lung and Bronchus,32433
+4466,WV,Lymphomas,7790
+4467,WV,Male Breast,16
+4468,WV,Male Genital System,22785
+4469,WV,Male and Female Breast,22194
+4470,WV,"Male and Female Breast, In Situ",4368
+4471,WV,Melanoma of the Skin,6450
+4472,WV,Mesothelioma,490
+4473,WV,Miscellaneous,5848
+4474,WV,Myeloma,2072
+4475,WV,NHL - Extranodal,1905
+4476,WV,NHL - Nodal,5064
+4477,WV,Nasopharynx,54
+4478,WV,Non-Hodgkin Lymphoma,6969
+4479,WV,"Nose, Nasal Cavity and Middle Ear",284
+4480,WV,Oral Cavity and Pharynx,4193
+4481,WV,Oropharynx,72
+4482,WV,Other Acute Leukemia,18
+4483,WV,Other Biliary,585
+4484,WV,Other Endocrine including Thymus,49
+4485,WV,Other Leukemias,611
+4486,WV,Other Lymphocytic Leukemia,18
+4487,WV,Other Non-Epithelial Skin,426
+4488,WV,Ovary,2625
+4489,WV,Pancreas,3937
+4490,WV,Penis,82
+4491,WV,Prostate,21827
+4492,WV,Rectosigmoid Junction,1510
+4493,WV,Rectum,4073
+4494,WV,Rectum and Rectosigmoid Junction,5583
+4495,WV,Respiratory System,34844
+4496,WV,Salivary Gland,411
+4497,WV,Sigmoid Colon,4158
+4498,WV,Skin excluding Basal and Squamous,6876
+4499,WV,Small Intestine,691
+4500,WV,Soft Tissue including Heart,1046
+4501,WV,Splenic Flexure,352
+4502,WV,Stomach,2216
+4503,WV,Testis,739
+4504,WV,Thyroid,3691
+4505,WV,Tongue,1133
+4506,WV,Tonsil,744
+4507,WV,Transverse Colon,1225
+4508,WV,Ureter,157
+4509,WV,"Urinary Bladder, invasive and in situ",8711
+4510,WV,Urinary System,14955
+4511,WV,"Uterus, NOS",32
+4512,WV,Vulva,572
+4513,WY,Acute Myeloid Leukemia,177
+4514,WY,Ascending Colon,462
+4515,WY,Brain,579
+4516,WY,Brain and Other Nervous System,609
+4517,WY,Cecum,612
+4518,WY,Cervix Uteri,342
+4519,WY,Chronic Lymphocytic Leukemia,411
+4520,WY,Colon and Rectum,3732
+4521,WY,Colon excluding Rectum,2654
+4522,WY,Corpus Uteri,958
+4523,WY,Digestive System,6521
+4524,WY,Endocrine System,1071
+4525,WY,Esophagus,462
+4526,WY,Female Breast,5439
+4527,WY,"Female Breast, In Situ",1013
+4528,WY,Female Genital System,2107
+4529,WY,Hodgkin - Nodal,107
+4530,WY,Hodgkin Lymphoma,127
+4531,WY,Kidney and Renal Pelvis,1204
+4532,WY,"Large Intestine, NOS",51
+4533,WY,Larynx,276
+4534,WY,Leukemias,1088
+4535,WY,Lip,19
+4536,WY,Liver,310
+4537,WY,Liver and Intrahepatic Bile Duct,397
+4538,WY,Lung and Bronchus,4516
+4539,WY,Lymphomas,1767
+4540,WY,Male Genital System,6863
+4541,WY,Male and Female Breast,5493
+4542,WY,"Male and Female Breast, In Situ",1019
+4543,WY,Melanoma of the Skin,1899
+4544,WY,Miscellaneous,1297
+4545,WY,Myeloma,421
+4546,WY,NHL - Extranodal,523
+4547,WY,NHL - Nodal,1008
+4548,WY,Non-Hodgkin Lymphoma,1531
+4549,WY,Oral Cavity and Pharynx,945
+4550,WY,Other Leukemias,19
+4551,WY,Other Non-Epithelial Skin,18
+4552,WY,Ovary,608
+4553,WY,Pancreas,868
+4554,WY,Prostate,6541
+4555,WY,Rectosigmoid Junction,238
+4556,WY,Rectum,778
+4557,WY,Rectum and Rectosigmoid Junction,1078
+4558,WY,Respiratory System,4907
+4559,WY,Sigmoid Colon,738
+4560,WY,Skin excluding Basal and Squamous,2039
+4561,WY,Small Intestine,61
+4562,WY,Soft Tissue including Heart,170
+4563,WY,Stomach,438
+4564,WY,Testis,184
+4565,WY,Thyroid,1015
+4566,WY,Tongue,128
+4567,WY,Tonsil,50
+4568,WY,Transverse Colon,123
+4569,WY,"Urinary Bladder, invasive and in situ",2031
+4570,WY,Urinary System,3301
